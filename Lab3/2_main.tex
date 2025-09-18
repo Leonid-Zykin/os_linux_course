@@ -1,0 +1,58 @@
+\chapter{ОБРАБОТКА ДАННЫХ, ФАЙЛЫ И СКРИПТЫ В LINUX}
+
+\section{Цель работы}
+Кратко познакомиться с обработкой файлов и данных в Linux: чтение и фильтрация текстов командами, базовые конструкции Python-скриптов из раздатки, а также практическая работа с файлами CSV.
+
+\section{Ход выполнения}
+
+\subsection{Подготовка окружения}
+- Открыт терминал и переход в каталог лабораторной работы: \texttt{cd Lab3}
+- Проверены входные данные: \texttt{ls -l}, наличие файлов \texttt{lab3.py}, \texttt{lab3\_2.py}, \texttt{the-matrix-reloaded.csv}
+
+\subsection{Работа с текстовыми утилитами}
+- Просмотр первых/последних строк файла: \texttt{head}, \texttt{tail}
+- Подсчет строк и столбцов: \texttt{wc -l}, \texttt{cut -d, -fN}
+- Поиск по шаблону: \texttt{grep 'pattern' file}
+- Сортировка и уникализация: \texttt{sort | uniq -c}
+
+\subsection{Скрипты Python}
+- Запущен основной скрипт: \texttt{python3 lab3.py}, изучен вывод и структура кода
+- Дополнительно выполнен \texttt{python3 lab3\_2.py} для обработки CSV (агрегации/фильтры)
+- Проверены аргументы запуска (при наличии): \texttt{python3 lab3.py --help}
+
+\subsection{Обработка CSV}
+- Просмотр заголовков: \texttt{head -n 1 the-matrix-reloaded.csv}
+- Извлечение нужных столбцов: \texttt{cut -d, -f1,3 the-matrix-reloaded.csv}
+- Подсчет количества записей по условию с \texttt{grep} и \texttt{wc -l}
+- Сохранение результатов в файл отчета: \texttt{> results.txt}
+
+\section{Ответы и пояснения}
+- Использовали стандартные утилиты \texttt{head/tail/grep/cut/sort/uniq} для базовой аналитики
+- Скрипты на Python позволили автоматизировать операции над данными и проверить корректность ручных шагов
+- Файл CSV обрабатывался как потоки: выделение столбцов разделителем, фильтрация по регулярным выражениям, агрегирование
+
+\section{Вывод}
+Проделана небольшая практика по обработке данных в Linux с помощью утилит командной строки и Python. Получены навыки фильтрации, разбиения на столбцы, подсчета и агрегации, а также запуска и проверки скриптов.
+
+\section{Полученные файлы и результаты (фрагменты/полный вывод)}
+
+\subsection{Вывод стандартного потока (zykin\_out)}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{work/zykin_out}
+
+\subsection{Вывод стандартного потока ошибок (zykin\_err)}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{work/zykin_err}
+
+\subsection{Итоговый файл (zykin\_final)}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{work/zykin_final}
+
+\subsection{Текстовая выборка (keanu\_text, первые 20 строк)}
+\lstinputlisting[firstline=1,lastline=20,language={},basicstyle=\ttfamily\small]{work/keanu_text}
+
+\subsection{CSV-данные (the-matrix-reloaded.csv, первые 20 строк)}
+\lstinputlisting[firstline=1,lastline=20,language={},basicstyle=\ttfamily\small]{work/the-matrix-reloaded.csv}
+
+\subsection{Скрипт lab3.py}
+\lstinputlisting[language=Python]{work/lab3.py}
+
+\subsection{Скрипт lab3\_2.py}
+\lstinputlisting[language=Python]{work/lab3_2.py}

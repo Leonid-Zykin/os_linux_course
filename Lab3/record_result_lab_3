@@ -1,0 +1,648 @@
+Script started on 2025-09-18 14:07:23+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="10"]
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3[00m$ ls -l
+[?2004ltotal 108
+-rw-rw-r-- 1 leonidas leonidas  1154 Sep 17 20:01 1_title.tex
+-rw-rw-r-- 1 leonidas leonidas     0 Sep 17 19:41 2_main.tex
+drwxrwxr-x 2 leonidas leonidas  4096 Sep 17 20:38 [0m[01;34mimages[0m
+-rw-rw-r-- 1 leonidas leonidas 18597 Sep 17 20:51 OS_lab3_report.tex
+-rw-rw-r-- 1 leonidas leonidas 74087 Sep 17 19:28 OSLinuxLab3.docx
+-rw-rw-r-- 1 leonidas leonidas     0 Sep 18 14:07 record_result_lab_3
+drwxrwxr-x 2 leonidas leonidas  4096 Sep 18 14:06 [01;34mwork[0m
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3[00m$ cd work/
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ ls
+[?2004llab3_2.py  lab3.py  the-matrix-reloaded.csv  variants.txt
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ python3 lab3.py 
+[?2004lPersephone:  If you want the Keymaker, follow me. [to man in washroom] Get out! I’m so sick of his bullshit. On and on, pompous prick. A long time ago, when we first came here, it was so different. He was so different. He was like you. I’ll give you what you want. But you have to give me something.
+Neo:  What?
+Persephone:  A kiss.
+Trinity:  Excuse me?
+Persephone:  I want you to kiss me as if you were kissing her.
+Neo:  Why?
+Persephone:  You love her. She loves you. It’s all over you both. A long time ago, I knew what that felt like. I want to remember it. I want to sample it. That’s all, just a sample.
+Trinity:  Why don’t you sample this instead?
+Morpheus:  Trinity.
+Persephone:  Such emotion over something so small. It’s just a kiss.
+Neo:  Why should we trust you?
+Persephone:  If I don’t deliver you to the Keymaker, she can kill me.
+Neo:  All right.
+Persephone:  But you have to make me believe I am her.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ ls -l
+[?2004ltotal 68
+-rw-rw-r-- 1 leonidas leonidas   565 Sep 17 19:28 lab3_2.py
+-rw-rw-r-- 1 leonidas leonidas   564 Sep 17 19:28 lab3.py
+-rw-rw-r-- 1 leonidas leonidas 51781 Sep 17 19:28 the-matrix-reloaded.csv
+-rw-rw-r-- 1 leonidas leonidas  7738 Sep 17 19:28 variants.txt
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [7mpython lab3.py > фамилия_out[27mpython lab3.py > фамилия_out[1P_out[1P_out[1P_out[1P_out[1P_out[1P_out[1P_outz_outy_outk_outi_outn_out
+[?2004lCommand 'python' not found, did you mean:
+  command 'python3' from deb python3
+  command 'python' from deb python-is-python3
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ python lab3.py > zykin_out[1@3
+[?2004lNeo:  I missed you.
+Neo:  I was thinking… Everyone is here.
+Neo:  I can’t lose you.
+Bane:  You all right?
+Malachi:  I’ll make it. Did you see that Agent? I’ve never seen anything like it.
+Bane:  Oh God.
+Smith:  Smith will suffice.
+Smith:  My pleasure.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ pt[Kython3 lab3.py >zykin_err
+[?2004lLink:  Where the hell’d they go?
+Neo:  These are back doors, aren’t they? Programmer access.
+Seraph:  [nods]
+Neo:  How do they work?
+Neo:  Are you a programmer?
+Neo:  Then what are you?
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ nano zykin_
+zykin_err  zykin_out  
+]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ nano zykin_out 
+[?2004l[?2004h[?1049h[22;0;0t[1;17r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[15;73H(B[0;7m[ Reading... ](B[m[15;71H(B[0;7m[ Read 10 lines ](B[m[H(B[0;7m  GNU nano 7.2                                                               zykin_out                                                                        [1;157H(B[m[16d(B[0;7m^G(B[m Help[16;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[16;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[16;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[17d(B[0;7m^X(B[m Exit[17;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[17;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[17;120H(B[0;7mM-6(B[m Copy[17;137H(B[0;7m^Q(B[m Where Was[2dTrinity:  I can tell.[3dTrinity:  Follow me.[4dTrinity:  Neo, what is it? What’s wrong? It’s okay, you can tell me.[5dNeo:  Trinity…[6dTrinity:  Don’t be afraid.[7dTrinity:  You’re not gonna lose me. You feel this? I’m never letting go.[8dMorpheus:  Good night, Zion. Sweet dreams.[9dBane:  Doesn’t matter now. All that matters is this. You first.[10dBane-Smith:  Thank you.[11dCouncillor Hamann:  Care for some company?[2d[?12l[?25h[?25l[15d[J[17d[?12l[?25h[17;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ nano zykin_out [K[K[K[Kerr 
+[?2004l[?2004h[?1049h[22;0;0t[1;17r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[15;73H(B[0;7m[ Reading... ](B[m[15;72H(B[0;7m[ Read 6 lines ](B[m[H(B[0;7m  GNU nano 7.2                                                               zykin_err                                                                        [1;157H(B[m[16d(B[0;7m^G(B[m Help[16;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[16;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[16;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[17d(B[0;7m^X(B[m Exit[17;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[17;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[17;120H(B[0;7mM-6(B[m Copy[17;137H(B[0;7m^Q(B[m Where Was[2dSeraph:  No. You do not truly know someone until you fight them. Come, she’s waiting.[3dSeraph:  The code is hidden in tumblers. One position opens a lock. Another position opens one of these doors.[4dSeraph:  [shakes head][5dSeraph:  I protect that which matters most.[6dThe Oracle:  Well, come on. I ain’t gonna bite ya. Come around here, and let me have a look at ya. My goodness, look at you! You turned out all right, didn’t(B[0;7m>[7;1H(B[mNeo:  I, uh…[2d[?12l[?25h[?25l[15d[J[17d[?12l[?25h[17;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ rm zykin_err zykin_out 
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ python3 lab3.py [K>zykin_out 2/[K>zykin_err
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ pythono[K3 a[Klab3.py [K>zykin_final 2>&1
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ wc -w zykin_err 
+[?2004l106 zykin_err
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ wc -w zykin_err [K[K[K[Kout 
+[?2004l59 zykin_out
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ wc -w zykin_out [K[K[K[Kfinal 
+[?2004l163 zykin_final
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep -h
+[?2004lUsage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep -h[K-help
+[?2004lUsage: grep [OPTION]... PATTERNS [FILE]...
+Search for PATTERNS in each FILE.
+Example: grep -i 'hello world' menu.h main.c
+PATTERNS can contain multiple patterns separated by newlines.
+
+Pattern selection and interpretation:
+  -E, --extended-regexp     PATTERNS are extended regular expressions
+  -F, --fixed-strings       PATTERNS are strings
+  -G, --basic-regexp        PATTERNS are basic regular expressions
+  -P, --perl-regexp         PATTERNS are Perl regular expressions
+  -e, --regexp=PATTERNS     use PATTERNS for matching
+  -f, --file=FILE           take PATTERNS from FILE
+  -i, --ignore-case         ignore case distinctions in patterns and data
+      --no-ignore-case      do not ignore case distinctions (default)
+  -w, --word-regexp         match only whole words
+  -x, --line-regexp         match only whole lines
+  -z, --null-data           a data line ends in 0 byte, not newline
+
+Miscellaneous:
+  -s, --no-messages         suppress error messages
+  -v, --invert-match        select non-matching lines
+  -V, --version             display version information and exit
+      --help                display this help text and exit
+
+Output control:
+  -m, --max-count=NUM       stop after NUM selected lines
+  -b, --byte-offset         print the byte offset with output lines
+  -n, --line-number         print line number with output lines
+      --line-buffered       flush output on every line
+  -H, --with-filename       print file name with output lines
+  -h, --no-filename         suppress the file name prefix on output
+      --label=LABEL         use LABEL as the standard input file name prefix
+  -o, --only-matching       show only nonempty parts of lines that match
+  -q, --quiet, --silent     suppress all normal output
+      --binary-files=TYPE   assume that binary files are TYPE;
+                            TYPE is 'binary', 'text', or 'without-match'
+  -a, --text                equivalent to --binary-files=text
+  -I                        equivalent to --binary-files=without-match
+  -d, --directories=ACTION  how to handle directories;
+                            ACTION is 'read', 'recurse', or 'skip'
+  -D, --devices=ACTION      how to handle devices, FIFOs and sockets;
+                            ACTION is 'read' or 'skip'
+  -r, --recursive           like --directories=recurse
+  -R, --dereference-recursive  likewise, but follow all symlinks
+      --include=GLOB        search only files that match GLOB (a file pattern)
+      --exclude=GLOB        skip files that match GLOB
+      --exclude-from=FILE   skip files that match any file pattern from FILE
+      --exclude-dir=GLOB    skip directories that match GLOB
+  -L, --files-without-match  print only names of FILEs with no selected lines
+  -l, --files-with-matches  print only names of FILEs with selected lines
+  -c, --count               print only a count of selected lines per FILE
+  -T, --initial-tab         make tabs line up (if needed)
+  -Z, --null                print 0 byte after FILE name
+
+Context control:
+  -B, --before-context=NUM  print NUM lines of leading context
+  -A, --after-context=NUM   print NUM lines of trailing context
+  -C, --context=NUM         print NUM lines of output context
+  -NUM                      same as --context=NUM
+      --group-separator=SEP  print SEP on line between matches with context
+      --no-group-separator  do not print separator for matches with context
+      --color[=WHEN],
+      --colour[=WHEN]       use markers to highlight the matching strings;
+                            WHEN is 'always', 'never', or 'auto'
+  -U, --binary              do not strip CR characters at EOL (MSDOS/Windows)
+
+When FILE is '-', read standard input.  With no FILE, read '.' if
+recursive, '-' otherwise.  With fewer than two FILEs, assume -h.
+Exit status is 0 if any line is selected, 1 otherwise;
+if any error occurs and -q is not given, the exit status is 2.
+
+Report bugs to: bug-grep@gnu.org
+GNU grep home page: <https://www.gnu.org/software/grep/>
+General help using GNU software: <https://www.gnu.org/gethelp/>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ grep [K[K[K[K[Kpython3 lab3_2.py 
+[?2004la) The character that says a phrase is "Merovingian"
+	b) The character that is talked with/about is  "Trinity"
+		c) Should contain punctuation "."
+			d) The subject that is talked about "contrivances"
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv \[K| grep [7mMerovingian[27mMerovingian
+[?2004lThe Oracle," Yes, he disappeared some time ago. We did not know what happened to him until now. He’s being held prisoner by a very dangerous program, one of the oldest of us. He is called the [01;31m[KMerovingian[m[K, and he will not let him go willingly."
+Morpheus," Yes, we are here to speak with the [01;31m[KMerovingian[m[K."
+[01;31m[KMerovingian[m[K," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+[01;31m[KMerovingian[m[K," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+[01;31m[KMerovingian[m[K," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+[01;31m[KMerovingian[m[K," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+[01;31m[KMerovingian[m[K," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+[01;31m[KMerovingian[m[K," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+[01;31m[KMerovingian[m[K," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+[01;31m[KMerovingian[m[K," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+[01;31m[KMerovingian[m[K," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+[01;31m[KMerovingian[m[K," Cause? There is no cause for this, what cause?"
+[01;31m[KMerovingian[m[K," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+[01;31m[KMerovingian[m[K," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+[01;31m[KMerovingian[m[K," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+[01;31m[KMerovingian[m[K," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+[01;31m[KMerovingian[m[K," Okay, you have some skill. Kill him."
+[01;31m[KMerovingian[m[K," You see, he’s just a man."
+[01;31m[KMerovingian[m[K," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep Merovingian^ Merovingian[C[1P Merovingian[C^Merovingian
+[?2004l[01;31m[KMerovingian[m[K," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+[01;31m[KMerovingian[m[K," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+[01;31m[KMerovingian[m[K," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+[01;31m[KMerovingian[m[K," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+[01;31m[KMerovingian[m[K," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+[01;31m[KMerovingian[m[K," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+[01;31m[KMerovingian[m[K," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+[01;31m[KMerovingian[m[K," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+[01;31m[KMerovingian[m[K," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+[01;31m[KMerovingian[m[K," Cause? There is no cause for this, what cause?"
+[01;31m[KMerovingian[m[K," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+[01;31m[KMerovingian[m[K," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+[01;31m[KMerovingian[m[K," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+[01;31m[KMerovingian[m[K," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+[01;31m[KMerovingian[m[K," Okay, you have some skill. Kill him."
+[01;31m[KMerovingian[m[K," You see, he’s just a man."
+[01;31m[KMerovingian[m[K," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian[Kcat the-matrix-reloaded.csv | grep ^Merovingian | grep [7mTrinity[27mTrinity
+[?2004lMerovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And [01;31m[KTrinity[m[K of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Trinity | grep .
+[?2004l[01;31m[KM[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ko[m[K[01;31m[Kv[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[Ki[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[K,[m[K[01;31m[K"[m[K[01;31m[K [m[K[01;31m[KA[m[K[01;31m[Kh[m[K[01;31m[Ka[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ka[m[K[01;31m[Ks[m[K[01;31m[Kt[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KN[m[K[01;31m[Ke[m[K[01;31m[Ko[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[KO[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ki[m[K[01;31m[Km[m[K[01;31m[Ks[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kf[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Kr[m[K[01;31m[Ki[m[K[01;31m[Kg[m[K[01;31m[Kh[m[K[01;31m[Kt[m[K[01;31m[K?[m[K[01;31m[K [m[K[01;31m[KA[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Kg[m[K[01;31m[Ke[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ky[m[K[01;31m[K [m[K[01;31m[KM[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[Kp[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Ku[m[K[01;31m[Ks[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KA[m[K[01;31m[Kn[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[KT[m[K[01;31m[Kr[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Ki[m[K[01;31m[Kt[m[K[01;31m[Ky[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Ku[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[Ke[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[K [m[K[01;31m[Kb[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kq[m[K[01;31m[Ku[m[K[01;31m[K’[m[K[01;31m[Ke[m[K[01;31m[Kl[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kf[m[K[01;31m[Ka[m[K[01;31m[Ki[m[K[01;31m[Kt[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ko[m[K[01;31m[Ku[m[K[01;31m[Kf[m[K[01;31m[Kf[m[K[01;31m[Kr[m[K[01;31m[Ki[m[K[01;31m[Kr[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KI[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ka[m[K[01;31m[Kv[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Kd[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ku[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Ky[m[K[01;31m[Ko[m[K[01;31m[Ku[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ko[m[K[01;31m[Ku[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ke[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KP[m[K[01;31m[Kl[m[K[01;31m[Ke[m[K[01;31m[Ka[m[K[01;31m[Ks[m[K[01;31m[Ke[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ki[m[K[01;31m[Kt[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Kj[m[K[01;31m[Ko[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[K [m[K[01;31m[Ku[m[K[01;31m[Ks[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KT[m[K[01;31m[Kh[m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ki[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ky[m[K[01;31m[K [m[K[01;31m[Kw[m[K[01;31m[Ki[m[K[01;31m[Kf[m[K[01;31m[Ke[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[KP[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[Ke[m[K[01;31m[Kp[m[K[01;31m[Kh[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Ke[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KS[m[K[01;31m[Ko[m[K[01;31m[Km[m[K[01;31m[Ke[m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Ke[m[K[01;31m[Ka[m[K[01;31m[Kt[m[K[01;31m[K?[m[K[01;31m[K [m[K[01;31m[KD[m[K[01;31m[Kr[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kk[m[K[01;31m[K?[m[K[01;31m[K [m[K[01;31m[KH[m[K[01;31m[Km[m[K[01;31m[Km[m[K[01;31m[K…[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Ku[m[K[01;31m[Kr[m[K[01;31m[Ks[m[K[01;31m[Ke[m[K[01;31m[K,[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ku[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ki[m[K[01;31m[Kn[m[K[01;31m[Kg[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Kc[m[K[01;31m[Ko[m[K[01;31m[Kn[m[K[01;31m[Kt[m[K[01;31m[Kr[m[K[01;31m[Ki[m[K[01;31m[Kv[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kc[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K [m[K[01;31m[Kl[m[K[01;31m[Ki[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ko[m[K[01;31m[K [m[K[01;31m[Km[m[K[01;31m[Ku[m[K[01;31m[Kc[m[K[01;31m[Kh[m[K[01;31m[K [m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[Kr[m[K[01;31m[Ke[m[K[01;31m[K.[m[K[01;31m[K [m[K[01;31m[KF[m[K[01;31m[Ko[m[K[01;31m[Kr[m[K[01;31m[K [m[K[01;31m[Kt[m[K[01;31m[Kh[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ks[m[K[01;31m[Ka[m[K[01;31m[Kk[m[K[01;31m[Ke[m[K[01;31m[K [m[K[01;31m[Ko[m[K[01;31m[Kf[m[K[01;31m[K [m[K[01;31m[Ka[m[K[01;31m[Kp[m[K[01;31m[Kp[m[K[01;31m[Ke[m[K[01;31m[Ka[m[K[01;31m[Kr[m[K[01;31m[Ka[m[K[01;31m[Kn[m[K[01;31m[Kc[m[K[01;31m[Ke[m[K[01;31m[Ks[m[K[01;31m[K.[m[K[01;31m[K"[m[K[01;31m[K[m[K
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Trinity | grep . | grep [7mcontrivan[27m[7mc[27m[7mes[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccontrivances
+[?2004lMerovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are [01;31m[Kcontrivances[m[K like so much here. For the sake of appearances."
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Trinity | grep . | grep contrivances | wc -l
+[?2004l1
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Trinity | grep . | grep contrivances | wc -l[K[K[K[K[K[K[K-c
+[?2004l1
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [7mname='Keanu Reeves'[27mname='Keanu Reeves'
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ man sed
+[?2004l[?1049h[22;0;0t[?1h=[4mSED[24m(1)                                                                 User Commands                                                                [4mSED[24m(1)[m
+[m
+[1mNAME[0m[m
+       sed - stream editor for filtering and transforming text[m
+[m
+[1mSYNOPSIS[0m[m
+       sed [-V] [--version] [--help] [-n] [--quiet] [--silent][m
+           [-l N] [--line-length=N] [-u] [--unbuffered][m
+           [-E] [-r] [--regexp-extended][m
+           [-e script] [--expression=script][m
+           [-f script-file] [--file=script-file][m
+           [script-if-no-other-script][m
+           [file...][m
+[m
+[1mDESCRIPTION[0m[m
+       [4mSed[24m is a stream editor.  A stream editor is used to perform basic text transformations on an input stream (a file or input from a pipeline).  While[m
+       in  some  ways  similar  to an editor which permits scripted edits (such as [4med[24m), [4msed[24m works by making only one pass over the input(s), and is conse‐[m
+       quently more efficient.  But it is [4msed[24m's ability to filter text in a pipeline which particularly distinguishes it from other types of editors.[m
+[m
+       [1m-n[22m, [1m--quiet[22m, [1m--silent[0m[m
+[m
+[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              suppress automatic printing of pattern space[m
+[7m Manual page sed(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--debug[0m[m
+[7m Manual page sed(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              annotate program execution[m
+[7m Manual page sed(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-e [22mscript, [1m--expression[22m=[4mscript[0m[m
+[7m Manual page sed(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the script to the commands to be executed[m
+[7m Manual page sed(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-f [22mscript-file, [1m--file[22m=[4mscript-file[0m[m
+[7m Manual page sed(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the contents of script-file to the commands to be executed[m
+[7m Manual page sed(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--follow-symlinks[0m[m
+[7m Manual page sed(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              follow symlinks when processing in place[m
+[7m Manual page sed(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-i[SUFFIX][22m, [1m--in-place[22m[=[4mSUFFIX[24m][m
+[7m Manual page sed(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              edit files in place (makes backup if SUFFIX supplied)[m
+[7m Manual page sed(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-l [22mN, [1m--line-length[22m=[4mN[0m[m
+[7m Manual page sed(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              specify the desired line-wrap length for the `l' command[m
+[7m Manual page sed(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--posix[0m[m
+[7m Manual page sed(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              disable all GNU extensions.[m
+[7m Manual page sed(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-E[22m, [1m-r[22m, [1m--regexp-extended[0m[m
+[7m Manual page sed(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              use extended regular expressions in the script (for portability use POSIX [1m-E[22m).[m
+[7m Manual page sed(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-s[22m, [1m--separate[0m[m
+[7m Manual page sed(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              consider files as separate rather than as a single, continuous long stream.[m
+[7m Manual page sed(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--sandbox[0m[m
+[7m Manual page sed(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-i[SUFFIX][22m, [1m--in-place[22m[=[4mSUFFIX[24m][m
+[22;1H[K[7m Manual page sed(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              follow symlinks when processing in place[m
+[22;1H[K[7m Manual page sed(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m--follow-symlinks[0m[m
+[22;1H[K[7m Manual page sed(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              add the contents of script-file to the commands to be executed[m
+[22;1H[K[7m Manual page sed(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              use extended regular expressions in the script (for portability use POSIX [1m-E[22m).[m
+[7m Manual page sed(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-s[22m, [1m--separate[0m[m
+[7m Manual page sed(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              consider files as separate rather than as a single, continuous long stream.[m
+[7m Manual page sed(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--sandbox[0m[m
+[7m Manual page sed(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              operate in sandbox mode (disable e/r/w commands).[m
+[7m Manual page sed(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-i[SUFFIX][22m, [1m--in-place[22m[=[4mSUFFIX[24m][m
+[22;1H[K[7m Manual page sed(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              operate in sandbox mode (disable e/r/w commands).[m
+[7m Manual page sed(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-u[22m, [1m--unbuffered[0m[m
+[7m Manual page sed(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-l [22mN, [1m--line-length[22m=[4mN[0m[m
+[22;1H[K[7m Manual page sed(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              edit files in place (makes backup if SUFFIX supplied)[m
+[22;1H[K[7m Manual page sed(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-i[SUFFIX][22m, [1m--in-place[22m[=[4mSUFFIX[24m][m
+[22;1H[K[7m Manual page sed(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              follow symlinks when processing in place[m
+[22;1H[K[7m Manual page sed(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m--follow-symlinks[0m[m
+[22;1H[K[7m Manual page sed(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              add the contents of script-file to the commands to be executed[m
+[22;1H[K[7m Manual page sed(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-f [22mscript-file, [1m--file[22m=[4mscript-file[0m[m
+[22;1H[K[7m Manual page sed(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              add the script to the commands to be executed[m
+[22;1H[K[7m Manual page sed(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-e [22mscript, [1m--expression[22m=[4mscript[0m[m
+[22;1H[K[7m Manual page sed(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              annotate program execution[m
+[22;1H[K[7m Manual page sed(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m--debug[0m[m
+[22;1H[K[7m Manual page sed(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              suppress automatic printing of pattern space[m
+[22;1H[K[7m Manual page sed(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-n[22m, [1m--quiet[22m, [1m--silent[0m[m
+[22;1H[K[7m Manual page sed(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       quently more efficient.  But it is [4msed[24m's ability to filter text in a pipeline which particularly distinguishes it from other types of editors.[m
+[22;1H[K[7m Manual page sed(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       in  some  ways  similar  to an editor which permits scripted edits (such as [4med[24m), [4msed[24m works by making only one pass over the input(s), and is conse‐[m
+[22;1H[K[7m Manual page sed(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [4mSed[24m is a stream editor.  A stream editor is used to perform basic text transformations on an input stream (a file or input from a pipeline).  While[m
+[22;1H[K[7m Manual page sed(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
+[22;1H[K[7m Manual page sed(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [file...][m
+[22;1H[K[7m Manual page sed(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [script-if-no-other-script][m
+[22;1H[K[7m Manual page sed(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-f script-file] [--file=script-file][m
+[22;1H[K[7m Manual page sed(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-e script] [--expression=script][m
+[22;1H[K[7m Manual page sed(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-E] [-r] [--regexp-extended][m
+[22;1H[K[7m Manual page sed(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-l N] [--line-length=N] [-u] [--unbuffered][m
+[22;1H[K[7m Manual page sed(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       sed [-V] [--version] [--help] [-n] [--quiet] [--silent][m
+[22;1H[K[7m Manual page sed(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[22;1H[K[7m Manual page sed(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       sed - stream editor for filtering and transforming text[m
+[22;1H[K[7m Manual page sed(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[22;1H[K[7m Manual page sed(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[4mSED[24m(1)                                                                 User Commands                                                                [4mSED[24m(1)[m
+[22;1H[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              suppress automatic printing of pattern space[m
+[7m Manual page sed(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--debug[0m[m
+[7m Manual page sed(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              annotate program execution[m
+[7m Manual page sed(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-e [22mscript, [1m--expression[22m=[4mscript[0m[m
+[7m Manual page sed(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the script to the commands to be executed[m
+[7m Manual page sed(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-f [22mscript-file, [1m--file[22m=[4mscript-file[0m[m
+[7m Manual page sed(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the contents of script-file to the commands to be executed[m
+[7m Manual page sed(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--follow-symlinks[0m[m
+[7m Manual page sed(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              follow symlinks when processing in place[m
+[7m Manual page sed(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       quently more efficient.  But it is [4msed[24m's ability to filter text in a pipeline which particularly distinguishes it from other types of editors.[m
+[22;1H[K[7m Manual page sed(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       in  some  ways  similar  to an editor which permits scripted edits (such as [4med[24m), [4msed[24m works by making only one pass over the input(s), and is conse‐[m
+[22;1H[K[7m Manual page sed(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [4mSed[24m is a stream editor.  A stream editor is used to perform basic text transformations on an input stream (a file or input from a pipeline).  While[m
+[22;1H[K[7m Manual page sed(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
+[22;1H[K[7m Manual page sed(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [file...][m
+[22;1H[K[7m Manual page sed(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [script-if-no-other-script][m
+[22;1H[K[7m Manual page sed(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-f script-file] [--file=script-file][m
+[22;1H[K[7m Manual page sed(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-e script] [--expression=script][m
+[22;1H[K[7m Manual page sed(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-E] [-r] [--regexp-extended][m
+[22;1H[K[7m Manual page sed(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM           [-l N] [--line-length=N] [-u] [--unbuffered][m
+[22;1H[K[7m Manual page sed(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       sed [-V] [--version] [--help] [-n] [--quiet] [--silent][m
+[22;1H[K[7m Manual page sed(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[22;1H[K[7m Manual page sed(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       sed - stream editor for filtering and transforming text[m
+[22;1H[K[7m Manual page sed(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[22;1H[K[7m Manual page sed(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[22;1H[K[7m Manual page sed(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[4mSED[24m(1)                                                                 User Commands                                                                [4mSED[24m(1)[m
+[22;1H[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              suppress automatic printing of pattern space[m
+[7m Manual page sed(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--debug[0m[m
+[7m Manual page sed(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              annotate program execution[m
+[7m Manual page sed(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-e [22mscript, [1m--expression[22m=[4mscript[0m[m
+[7m Manual page sed(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the script to the commands to be executed[m
+[7m Manual page sed(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-f [22mscript-file, [1m--file[22m=[4mscript-file[0m[m
+[7m Manual page sed(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              add the contents of script-file to the commands to be executed[m
+[7m Manual page sed(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--follow-symlinks[0m[m
+[7m Manual page sed(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              follow symlinks when processing in place[m
+[7m Manual page sed(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-i[SUFFIX][22m, [1m--in-place[22m[=[4mSUFFIX[24m][m
+[7m Manual page sed(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              edit files in place (makes backup if SUFFIX supplied)[m
+[7m Manual page sed(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-l [22mN, [1m--line-length[22m=[4mN[0m[m
+[7m Manual page sed(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              specify the desired line-wrap length for the `l' command[m
+[7m Manual page sed(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--posix[0m[m
+[7m Manual page sed(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              disable all GNU extensions.[m
+[7m Manual page sed(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-E[22m, [1m-r[22m, [1m--regexp-extended[0m[m
+[7m Manual page sed(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              use extended regular expressions in the script (for portability use POSIX [1m-E[22m).[m
+[7m Manual page sed(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-s[22m, [1m--separate[0m[m
+[7m Manual page sed(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              consider files as separate rather than as a single, continuous long stream.[m
+[7m Manual page sed(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--sandbox[0m[m
+[7m Manual page sed(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              operate in sandbox mode (disable e/r/w commands).[m
+[7m Manual page sed(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-u[22m, [1m--unbuffered[0m[m
+[7m Manual page sed(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              load minimal amounts of data from the input files and flush the output buffers more often[m
+[7m Manual page sed(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-z[22m, [1m--null-data[0m[m
+[7m Manual page sed(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              separate lines by NUL characters[m
+[7m Manual page sed(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--help[0m[m
+[7m Manual page sed(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              display this help and exit[m
+[7m Manual page sed(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--version[0m[m
+[7m Manual page sed(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              output version information and exit[m
+[7m Manual page sed(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       If no [1m-e[22m, [1m--expression[22m, [1m-f[22m, or [1m--file [22moption is given, then the first non-option argument is taken as the sed script to interpret.   All  remaining[m
+[7m Manual page sed(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       arguments are names of input files; if no input files are specified, then the standard input is read.[m
+[7m Manual page sed(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU  sed  home page: <https://www.gnu.org/software/sed/>.  General help using GNU software: <https://www.gnu.org/gethelp/>.  E-mail bug reports to:[m
+[7m Manual page sed(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       <bug-sed@gnu.org>.[m
+[7m Manual page sed(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Packaged by Debian Copyright © 2022 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.[m
+[7m Manual page sed(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page sed(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOMMAND SYNOPSIS[0m[m
+[7m Manual page sed(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This is just a brief synopsis of [4msed[24m commands to serve as a reminder to those who already know [4msed[24m; other documentation (such as the texinfo  docu‐[m
+[7m Manual page sed(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ment) must be consulted for fuller descriptions.[m
+[7m Manual page sed(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mZero-address ``commands''[0m[m
+[7m Manual page sed(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       : [4mlabel[0m[m
+[7m Manual page sed(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Label for [1mb [22mand [1mt [22mcommands.[m
+[7m Manual page sed(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       #[4mcomment[0m[m
+[7m Manual page sed(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The comment extends until the next newline (or the end of a [1m-e [22mscript fragment).[m
+[7m Manual page sed(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       }      The closing bracket of a { } block.[m
+[7m Manual page sed(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mZero- or One- address commands[0m[m
+[7m Manual page sed(1) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       =      Print the current line number.[m
+[7m Manual page sed(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       a \[m
+[7m Manual page sed(1) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page sed(1) line 84 (press h for help or q to quit)[27m[K[H[2J[H       Packaged by Debian Copyright © 2022 Free Software Foundation, Inc.  License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.[m
+       This is free software: you are free to change and redistribute it.  There is NO WARRANTY, to the extent permitted by law.[m
+[m
+[1mCOMMAND SYNOPSIS[0m[m
+       This is just a brief synopsis of [4msed[24m commands to serve as a reminder to those who already know [4msed[24m; other documentation (such as the texinfo  docu‐[m
+       ment) must be consulted for fuller descriptions.[m
+[m
+   [1mZero-address ``commands''[0m[m
+       : [4mlabel[0m[m
+              Label for [1mb [22mand [1mt [22mcommands.[m
+[m
+       #[4mcomment[0m[m
+              The comment extends until the next newline (or the end of a [1m-e [22mscript fragment).[m
+[m
+       }      The closing bracket of a { } block.[m
+[m
+   [1mZero- or One- address commands[0m[m
+       =      Print the current line number.[m
+[m
+       a \[m
+[m
+[7m Manual page sed(1) line 84 (press h for help or q to quit)[27m[K[K [K^X^X[K[?1l>[?1049l[23;0;0t
+[1]+  Stopped                 man sed
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ man sedname='Keanu Reeves'cat the-matrix-reloaded.csv | grep ^Merovingian | grep Trinity | grep . | grep contrivances -c[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcsv | grep ^M[K[K^Merovingian | grep Trinity | grep . | grep contrivances | wc -l[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksed [K ""[7m1i\ --Text for $name[27m"1i\ --Text for $name"
+[?2004l --Text for Keanu Reeves
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+Merovingian," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+Merovingian," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+Merovingian," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+Merovingian," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+Merovingian," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+Merovingian," Cause? There is no cause for this, what cause?"
+Merovingian," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+Merovingian," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+Merovingian," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+Merovingian," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+Merovingian," Okay, you have some skill. Kill him."
+Merovingian," You see, he’s just a man."
+Merovingian," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5
+[?2004l --Text for Keanu Reeves
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [7mcat the-matrix-reloaded.csv | grep ^Neo | sed "s/Neo,/$name:/" > keanu_text[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat the-matrix-reloaded.csv | grep ^Neo | sed "s/Neo,/$name:/" > keanu_text[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [7mcounter=1; while read line; do echo $counter $line; ((counter++)); done < keanu_text[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccounter=1; while read line; do echo $counter $line; ((counter++)); done < keanu_text
+[?2004l1 Keanu Reeves: They’re just dreams.
+2 Keanu Reeves: I just wish… I wish I knew what I’m supposed to do. That’s all. I just wish I knew.
+3 Keanu Reeves: Who was that?
+4 Keanu Reeves:" The meeting is over, retreat to your exits. Agents are coming."
+5 Keanu Reeves: Go.
+6 Keanu Reeves:" Hiya, fellas."
+7 Keanu Reeves: Hmm. Upgrades.
+8 Keanu Reeves: Where are you?
+9 Keanu Reeves: What is it between them?
+10 Keanu Reeves: Captain Niobe?
+11 Keanu Reeves: What happened?
+12 Keanu Reeves:" Yeah, she can do that."
+13 Keanu Reeves:" Oh, no."
+14 Keanu Reeves: Doesn’t he have anything better to do?
+15 Keanu Reeves: I didn’t save his life.
+16 Keanu Reeves: Thanks. It’s good to be back.
+17 Keanu Reeves:" No, I can carry my own bag."
+18 Keanu Reeves:" I told you, Kid, you found me, I didn’t find you."
+19 Keanu Reeves: You saved yourself.
+20 Keanu Reeves: Are you thinking what I’m thinking?
+21 Keanu Reeves: How long to recharge the Neb?
+22 Keanu Reeves: Some people go their entire lives without hearing news that good.
+23 Keanu Reeves: I’ll try.
+24 Keanu Reeves:" No, wait."
+25 Keanu Reeves: I need you.
+26 Keanu Reeves: Excuse me.
+27 Keanu Reeves: I missed you.
+28 Keanu Reeves: I was thinking… Everyone is here.
+29 Keanu Reeves: Trinity…
+30 Keanu Reeves: I can’t lose you.
+31 Keanu Reeves: Councillor Hamann.
+32 Keanu Reeves:" No, I could probably use some company."
+33 Keanu Reeves: Not everyone.
+34 Keanu Reeves: I just haven’t been able to sleep much.
+35 Keanu Reeves: Of what?
+36 Keanu Reeves: Sure.
+37 Keanu Reeves: We have the same power.
+38 Keanu Reeves:" But we control these machines, they don’t control us."
+39 Keanu Reeves:" If we wanted, we could shut these machines down."
+40 Keanu Reeves:" So we need machines and they need us. Is that your point, Councillor?"
+41 Keanu Reeves: Is that why there are no young men on the Council?
+42 Keanu Reeves:" Why don’t you tell me what’s on your mind, Councillor?"
+43 Keanu Reeves: It’s time to go.
+44 Keanu Reeves: Is something wrong?
+45 Keanu Reeves: Thanks.
+46 Keanu Reeves: Thanks.
+47 Keanu Reeves: Hello.
+48 Keanu Reeves: Who are you?
+49 Keanu Reeves: Apologize for what?
+50 Keanu Reeves: Of what?
+51 Keanu Reeves: You could’ve just asked.
+52 Keanu Reeves:" These are back doors, aren’t they? Programmer access."
+53 Keanu Reeves: How do they work?
+54 Keanu Reeves: Are you a programmer?
+55 Keanu Reeves: Then what are you?
+56 Keanu Reeves:" I, uh…"
+57 Keanu Reeves: Maybe I’ll stand.
+58 Keanu Reeves: I felt like sitting.
+59 Keanu Reeves:" You’re not human, are you?"
+60 Keanu Reeves:" If I had to guess, I’d say you’re a program from the machine world. So is he."
+61 Keanu Reeves:" But if that’s true, that can mean you are a part of this system, another kind of control."
+62 Keanu Reeves:" I suppose the most obvious question is, how can I trust you?"
+63 Keanu Reeves: D’you already know if I’m going to take it?
+64 Keanu Reeves:" But if you already know, how can I make a choice?"
+65 Keanu Reeves: Why are you here?
+66 Keanu Reeves: But why help us?
+67 Keanu Reeves: Are there other programs like you?
+68 Keanu Reeves: I’ve never heard of them.
+69 Keanu Reeves: Programs hacking programs. Why?
+70 Keanu Reeves: And why would a program be deleted?
+71 Keanu Reeves: The machine mainframe?
+72 Keanu Reeves: [nods]
+73 Keanu Reeves:" I see Trinity, and something happens, something bad. She starts to fall, and then I wake up."
+74 Keanu Reeves: No.
+75 Keanu Reeves: Then why can’t I see what happens to her?
+76 Keanu Reeves: Are you saying I have to choose whether Trinity lives or dies?
+77 Keanu Reeves:" No, I can’t do that. I won’t."
+78 Keanu Reeves: Why?
+79 Keanu Reeves: What if I can’t? What happens if I fail?
+80 Keanu Reeves: The Keymaker?
+81 Keanu Reeves: What does he want?
+82 Keanu Reeves: Yeah.
+83 Keanu Reeves: No.
+84 Keanu Reeves: Of what?
+85 Keanu Reeves: And what reason is that?
+86 Keanu Reeves: Congratulations.
+87 Keanu Reeves: Yes.
+88 Keanu Reeves: A lot more.
+89 Keanu Reeves: I don’t know – somehow he’s found a way to copy himself.
+90 Keanu Reeves:" I don’t know what he was doing, but I know what it felt like."
+91 Keanu Reeves: Felt like I was back in that hallway. Felt like dying.
+92 Keanu Reeves:" It’s strange, the code is somehow different."
+93 Keanu Reeves: Maybe.
+94 Keanu Reeves:" Well, it looks like every floor is wired with explosives."
+95 Keanu Reeves:" No, thank you."
+96 Keanu Reeves: You know the answer to that question.
+97 Keanu Reeves: This isn’t over.
+98 Keanu Reeves:" Well, that didn’t go so well."
+99 Keanu Reeves: Yes.
+100 Keanu Reeves: Or didn’t do something.
+101 Keanu Reeves: How do you know?
+102 Keanu Reeves: What?
+103 Keanu Reeves: Why?
+104 Keanu Reeves: Why should we trust you?
+105 Keanu Reeves: All right.
+106 Keanu Reeves: All right.
+107 Keanu Reeves: Wait. Okay.
+108 Keanu Reeves: My name is Neo.
+109 Keanu Reeves: I’ll handle them.
+110 Keanu Reeves: Oh shit.
+111 Keanu Reeves:" Link, where am I?"
+112 Keanu Reeves: Really.
+113 Keanu Reeves: What?
+114 Keanu Reeves: Where are they?
+115 Keanu Reeves:" I want to ask you to do something, but I don’t know how."
+116 Keanu Reeves:" What if I asked you to stay out of this, no matter what. To stay out of the matrix?"
+117 Keanu Reeves: Please.
+118 Keanu Reeves: How much further?
+119 Keanu Reeves:" What do you want, Smith?"
+120 Keanu Reeves: Morpheus!
+121 Keanu Reeves: Who are you?
+122 Keanu Reeves: Why am I here?
+123 Keanu Reeves: You haven’t answered my question.
+124 Keanu Reeves:" There are only two possible explanations, either no one told me, or no one knows."
+125 Keanu Reeves: Choice. The problem is choice.
+126 Keanu Reeves: The Oracle.
+127 Keanu Reeves: This is about Zion.
+128 Keanu Reeves: Bullshit.
+129 Keanu Reeves: You won’t let it happen. You can’t. You need human beings to survive.
+130 Keanu Reeves: Trinity.
+131 Keanu Reeves: No.
+132 Keanu Reeves:" If I were you, I would hope that we don’t meet again."
+133 Keanu Reeves: I know. The bullet is still inside.
+134 Keanu Reeves:" Trinity. Trinity, I know you can hear me. I’m not letting go. I can’t. I love you too damn much."
+135 Keanu Reeves: In 24 hours it will be.
+136 Keanu Reeves:" If we don’t do something in 24 hours, Zion will be destroyed."
+137 Keanu Reeves: I was told it would happen.
+138 Keanu Reeves: It doesn’t matter. I believed him.
+139 Keanu Reeves:" It was a lie, Morpheus. The prophecy was a lie. The One was never meant to end anything. It was all another system of control."
+140 Keanu Reeves:" But you said it yourself – how can the prophecy be true if the war isn’t over? I’m sorry. I know it isn’t easy to hear, but I swear to you it’s the truth."
+141 Keanu Reeves: I don’t know.
+142 Keanu Reeves: It’s a bomb. We have to get out of here. Now.
+143 Keanu Reeves: We won’t make it.
+144 Keanu Reeves: Something’s different. I can feel them.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ exit
+[?2004lexit
+There are stopped jobs.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab3/work[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab3/work[01;32mleonidas@le
