@@ -1,0 +1,43 @@
+\chapter{ОСНОВЫ БЕЗОПАСНОСТИ В LINUX}
+
+\section{Цель работы}
+Изучить управление пользователями и группами, права доступа к файлам, а также базовые операции с процессами. Зафиксировать ход работы в файлах записи терминала.
+
+\section{Краткий ход выполнения}
+\subsection{Права root и системные файлы}
+- Просмотр \texttt{/etc/passwd} с пояснением полей: \texttt{имя:х:UID:GID:комментарий:домашний\_каталог:оболочка}
+- Использование \texttt{sudo} для безопасного выполнения привилегированных команд
+
+\subsection{Пользователи и группы}
+- Созданы пользователи: \texttt{user1}, \texttt{user2}, \texttt{user3}
+- Создана группа \texttt{Students}, добавлены \texttt{user1}, \texttt{user2}
+- \texttt{user3} получал root-права для административных шагов
+- Проверена принадлежность к группам командой \texttt{groups}
+
+\subsection{Файлы и права}
+- Под \texttt{user1} создан файл \texttt{schedule}, владельцем назначена группа \texttt{Students} (\texttt{chgrp})
+- Под \texttt{user2} проверена доступность и выполнена попытка записи
+- Под \texttt{user3} создан файл \texttt{important}, права изменены \texttt{chmod} для доступа Others
+- Исследованы умолчания прав и отличия прав у файлов, созданных с root
+
+\subsection{Процессы}
+- Получен список процессов и сохранён в \texttt{proc\_list}
+- Изучены \texttt{pstree}, \texttt{kill}, \texttt{killall}
+
+
+
+\subsection{Учебные файлы}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{schedule}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{important}
+
+\subsection{Список процессов}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{proc_list}
+
+\section{Полученные файлы (фрагменты/полный вывод)}
+\subsection{Файлы записи терминала}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{l4_result_u1_clean_2}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{l4_result_u2_clean_2}
+\lstinputlisting[language={},basicstyle=\ttfamily\small]{l4_result_u3_clean_2}
+
+\section{Вывод}
+Выполнены основные действия по управлению пользователями/группами, настройке прав доступа к файлам и работе с процессами. Результаты шагов зафиксированы в приложенных файлах записи.

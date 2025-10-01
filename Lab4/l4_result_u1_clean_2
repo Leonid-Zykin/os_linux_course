@@ -1,0 +1,946 @@
+Script started on 2025-10-01 15:35:22+03:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="48" LINES="20"]
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ add[K[K[K[7msudo adduser ivanov1[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo adduser ivanov1
+[?2004l[sudo] password for leonidas: 
+info: Adding user `ivanov1' ...
+info: Selecting UID/GID from range 1000 to 59999 ...
+info: Adding new group `ivanov1' (1001) ...
+info: Adding new user `ivanov1' (1001) with group `ivanov1 (1001)' ...
+warn: The home directory `/home/ivanov1' already exists.  Not touching this directory.
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for ivanov1
+Enter the new value, or press ENTER for the default
+	Full Name []: 
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] y
+info: Adding new user `ivanov1' to supplemental / extra groups `users' ...
+info: Adding user `ivanov1' to group `users' ...
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ sudo adduser ivanov1[K2
+[?2004linfo: Adding user `ivanov2' ...
+info: Selecting UID/GID from range 1000 to 59999 ...
+info: Adding new group `ivanov2' (1002) ...
+info: Adding new user `ivanov2' (1002) with group `ivanov2 (1002)' ...
+warn: The home directory `/home/ivanov2' already exists.  Not touching this directory.
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for ivanov2
+Enter the new value, or press ENTER for the default
+	Full Name []: 
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] y
+info: Adding new user `ivanov2' to supplemental / extra groups `users' ...
+info: Adding user `ivanov2' to group `users' ...
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ sudo adduser ivanov2[K3
+[?2004linfo: Adding user `ivanov3' ...
+info: Selecting UID/GID from range 1000 to 59999 ...
+info: Adding new group `ivanov3' (1003) ...
+info: Adding new user `ivanov3' (1003) with group `ivanov3 (1003)' ...
+warn: The home directory `/home/ivanov3' already exists.  Not touching this directory.
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for ivanov3
+Enter the new value, or press ENTER for the default
+	Full Name []: 
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] y
+info: Adding new user `ivanov3' to supplemental / extra groups `users' ...
+info: Adding user `ivanov3' to group `users' ...
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ su
+[?2004lPassword: 
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ su ivanov1
+[?2004lPassword: 
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ passwd 
+[?2004lChanging password for ivanov1.
+Current password: 
+New password: 
+Retype new password: 
+passwd: password updated successfully
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [7mgroups ivanov1[27mgroups ivanov1
+[?2004livanov1 : ivanov1 users Students
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ nano schedule
+[?2004l[?2004h[?1049h[22;0;0t[1;20r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[18;8H(B[0;1m[37m[41m[ Directory '.' is not writable ][39;49m(B[m[H(B[0;7m  GNU nano 7.2        schedule                  [1;47H(B[m[19d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[20d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[2d[?12l[?25h[?25l[18d[K[1;32H(B[0;7m*[47G(B[m[2d10:00 Maths[4d11:40 Physics[6d13:30 Economics[8d15:20 Programming[?12l[?25h[?25l[19;13H(B[0;7mM-D(B[m DOS Form(B[0;7mM-A(B[m Append  (B[0;7mM-B(B[m Backup F[20;2H(B[0;7mC(B[m Cancel   (B[0;7mM-M(B[m Mac Form(B[0;7mM-P(B[m Prepend (B[0;7m^T(B[m Browse[18d(B[0;7mFile Name to Write: schedule                    [18;29H(B[m[?12l[?25h[?25l (B[0;1m[37m[41m[ Error writing schedule: Permission denied ][39;49m(B[m[K[19;13H(B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[K[20;2H(B[0;7mX(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[K[?12l[?25h[8;18H[?25l[18d(B[0;7mSave modified buffer?                           [19;1H Y(B[m Yes[K[20d(B[0;7m N(B[m No           (B[0;7m^C(B[m Cancel[K[18;23H[?12l[?25h[?25l[19d(B[0;7m^G(B[m Help     (B[0;7mM-D(B[m DOS Form(B[0;7mM-A(B[m Append  (B[0;7mM-B(B[m Backup F[20;1H(B[0;7m^C(B[m Cancel   (B[0;7mM-M(B[m Mac Form(B[0;7mM-P(B[m Prepend (B[0;7m^T(B[m Browse[18d(B[0;7mFile Name to Write: schedule(B[m[?12l[?25h[?25l[?12l[?25h[?25l (B[0;1m[37m[41m[ Error writing schedule: Permission denied ][39;49m(B[m[K[19;13H(B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[K[20;2H(B[0;7mX(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[K[?12l[?25h[8;18H[?25l[18d(B[0;7mSave modified buffer?                           [19;1H Y(B[m Yes[K[20d(B[0;7m N(B[m No           (B[0;7m^C(B[m Cancel[K[18;23H[?12l[?25h[?25l[17G[1K (B[0;7m[ Cancelled ](B[m[K[19d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[20d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[?12l[?25h[8;18H[?25l[18d(B[0;7mline  7/8 (87%), col 18/18 (100%), char 62/63 (9[19;1H(B[m[?12l[?25h[8;18H[?25l[18d(B[0;7mSave modified buffer?                           [19;1H Y(B[m Yes[K[20d(B[0;7m N(B[m No           (B[0;7m^C(B[m Cancel[K[18;23H[?12l[?25h[?25l[J[20d[?12l[?25h[20;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo nano sch[K[K[K[K[K[K[K[K[K[K[K[K[Knano schedulesudo 
+[?2004l[sudo] password for ivanov1: 
+Sorry, try again.
+[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo nano schedule
+[?2004l[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo nano schedule
+[?2004l[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ cd [K[K[Ksu[Kource .[K/home/.bashr c[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[KЁ[K`[K~[1P~[C/.bashrc 
+[?2004l[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ source ~/.bashrc udo nano schedule
+[?2004l[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo nano schedule[1P[1P[1P[1P[1P
+[?2004l[?2004h[?1049h[22;0;0t[1;20r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[18;8H(B[0;1m[37m[41m[ Directory '.' is not writable ][39;49m(B[m[H(B[0;7m  GNU nano 7.2        schedule                  [1;47H(B[m[19d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[20d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[2d[?12l[?25h[?25l[18d[J[20d[?12l[?25h[20;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo su
+[?2004l[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo su
+[?2004l[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ sudo sunano schedulesudo [C[C[C[C[C[C[C[C[C[C[C[C[C[1Pource ~/.bashrc udo nano schedule[1Pource ~/.bashrc 
+[?2004l[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ source ~/.bashrc [10Pudo su
+[?2004l[sudo] password for ivanov1: 
+ivanov1 is not in the sudoers file.
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ groups 
+[?2004livanov1 users
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ exit
+[?2004lexit
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ su ic[Kvanov1
+[?2004lPassword: 
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ exitgroups 
+[?2004livanov1 sudo users Students
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ nano impot[Krtant
+[?2004l[?2004h[?1049h[22;0;0t[1;20r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[18;8H(B[0;1m[37m[41m[ Directory '.' is not writable ][39;49m(B[m[H(B[0;7m  GNU nano 7.2        important                 [1;47H(B[m[19d(B[0;7m^G(B[m Help     (B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[20d(B[0;7m^X(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[2d[?12l[?25h[?25l[18d[K[1;33H(B[0;7m*[47G(B[m[2dAll students need to be in recreation area at 1(B[0;7m>[4;1H(B[m[?12l[?25h[?25l[19;13H(B[0;7mM-D(B[m DOS Form(B[0;7mM-A(B[m Append  (B[0;7mM-B(B[m Backup F[20;2H(B[0;7mC(B[m Cancel   (B[0;7mM-M(B[m Mac Form(B[0;7mM-P(B[m Prepend (B[0;7m^T(B[m Browse[18d(B[0;7mFile Name to Write: important                   [18;30H(B[m[?12l[?25h[?25l (B[0;1m[37m[41m[ Error writing important: Permission denied ][39;49m(B[m[K[19;13H(B[0;7m^O(B[m Write Out(B[0;7m^W(B[m Where Is (B[0;7m^K(B[m Cut[K[20;2H(B[0;7mX(B[m Exit     (B[0;7m^R(B[m Read File(B[0;7m^\(B[m Replace  (B[0;7m^U(B[m Paste[K[?12l[?25h[4d[?25l[18d(B[0;7mSave modified buffer?                           [19;1H Y(B[m Yes[K[20d(B[0;7m N(B[m No           (B[0;7m^C(B[m Cancel[K[18;23H[?12l[?25h[?25l[J[20d[?12l[?25h[20;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ exit
+[?2004lexit
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ su ivanov1
+[?2004lPassword: 
+To run a command as administrator (user "root"), use "sudo <command>".
+See "man sudo_root" for details.
+
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ps
+[?2004l    PID TTY          TIME CMD
+  79294 pts/8    00:00:00 bash
+ 154095 pts/8    00:00:00 ps
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$
+ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ зы[K[Kps
+[?2004l    PID TTY          TIME CMD
+  79294 pts/8    00:00:00 bash
+ 154624 pts/8    00:00:00 ps
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ps -a
+[?2004l    PID TTY          TIME CMD
+   2221 tty2     00:00:00 gnome-session-b
+  46761 pts/4    00:00:00 script
+  46865 pts/5    00:00:00 script
+  46955 pts/7    00:00:00 script
+  49342 pts/10   00:00:00 su
+  49364 pts/10   00:00:00 bash
+  50275 pts/10   00:00:00 su
+  50324 pts/10   00:00:00 bash
+  79083 pts/9    00:00:00 su
+  79111 pts/9    00:00:00 bash
+  79253 pts/8    00:00:00 su
+  79294 pts/8    00:00:00 bash
+  80331 pts/10   00:00:00 su
+  80353 pts/10   00:00:00 bash
+ 154820 pts/8    00:00:00 ps
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ps -d
+[?2004l    PID TTY          TIME CMD
+      2 ?        00:00:00 kthreadd
+      3 ?        00:00:00 pool_workqueue_release
+      4 ?        00:00:00 kworker/R-rcu_gp
+      5 ?        00:00:00 kworker/R-sync_wq
+      6 ?        00:00:00 kworker/R-kvfree_rcu_reclaim
+      7 ?        00:00:00 kworker/R-slub_flushwq
+      8 ?        00:00:00 kworker/R-netns
+     11 ?        00:00:00 kworker/0:0H-events_highpri
+     13 ?        00:00:00 kworker/R-mm_percpu_wq
+     14 ?        00:00:00 rcu_tasks_kthread
+     15 ?        00:00:00 rcu_tasks_rude_kthread
+     16 ?        00:00:00 rcu_tasks_trace_kthread
+     17 ?        00:00:00 ksoftirqd/0
+     18 ?        00:00:11 rcu_preempt
+     19 ?        00:00:00 rcu_exp_par_gp_kthread_worker/0
+     20 ?        00:00:00 rcu_exp_gp_kthread_worker
+     21 ?        00:00:00 migration/0
+     22 ?        00:00:00 idle_inject/0
+     23 ?        00:00:00 cpuhp/0
+     24 ?        00:00:00 cpuhp/1
+     25 ?        00:00:00 idle_inject/1
+     26 ?        00:00:00 migration/1
+     27 ?        00:00:00 ksoftirqd/1
+     29 ?        00:00:00 kworker/1:0H-events_highpri
+     30 ?        00:00:00 cpuhp/2
+     31 ?        00:00:00 idle_inject/2
+     32 ?        00:00:00 migration/2
+     33 ?        00:00:00 ksoftirqd/2
+     35 ?        00:00:00 kworker/2:0H-events_highpri
+     36 ?        00:00:00 cpuhp/3
+     37 ?        00:00:00 idle_inject/3
+     38 ?        00:00:00 migration/3
+     39 ?        00:00:00 ksoftirqd/3
+     41 ?        00:00:00 kworker/3:0H-events_highpri
+     42 ?        00:00:00 cpuhp/4
+     43 ?        00:00:00 idle_inject/4
+     44 ?        00:00:00 migration/4
+     45 ?        00:00:00 ksoftirqd/4
+     47 ?        00:00:00 kworker/4:0H-events_highpri
+     48 ?        00:00:00 cpuhp/5
+     49 ?        00:00:00 idle_inject/5
+     50 ?        00:00:00 migration/5
+     51 ?        00:00:00 ksoftirqd/5
+     53 ?        00:00:00 kworker/5:0H-events_highpri
+     56 ?        00:00:00 kdevtmpfs
+     57 ?        00:00:00 kworker/R-inet_frag_wq
+     58 ?        00:00:00 kauditd
+     59 ?        00:00:00 khungtaskd
+     60 ?        00:00:00 oom_reaper
+     63 ?        00:00:00 kworker/R-writeback
+     64 ?        00:00:01 kcompactd0
+     65 ?        00:00:00 ksmd
+     66 ?        00:00:00 khugepaged
+     67 ?        00:00:00 kworker/R-kintegrityd
+     68 ?        00:00:00 kworker/R-kblockd
+     69 ?        00:00:00 kworker/R-blkcg_punt_bio
+     70 ?        00:00:02 irq/9-acpi
+     72 ?        00:00:00 kworker/R-tpm_dev_wq
+     73 ?        00:00:00 kworker/R-ata_sff
+     75 ?        00:00:00 kworker/R-md
+     76 ?        00:00:00 kworker/R-md_bitmap
+     77 ?        00:00:00 kworker/R-edac-poller
+     79 ?        00:00:00 kworker/R-devfreq_wq
+     81 ?        00:00:00 watchdogd
+     82 ?        00:00:00 kworker/4:1H-kblockd
+     83 ?        00:00:00 irq/25-AMD-Vi0-Evt
+     84 ?        00:00:00 irq/26-AMD-Vi0-PPR
+     85 ?        00:00:00 irq/27-AMD-Vi0-GA
+     87 ?        00:00:00 kswapd0
+     88 ?        00:00:00 ecryptfs-kthread
+     89 ?        00:00:00 kworker/R-kthrotld
+     90 ?        00:00:00 kworker/u27:0-hci0
+     92 ?        00:00:00 kworker/R-acpi_thermal_pm
+     97 ?        00:00:00 kworker/R-mld
+     98 ?        00:00:00 kworker/R-ipv6_addrconf
+     99 ?        00:00:00 kworker/3:1H-kblockd
+    107 ?        00:00:00 kworker/R-kstrp
+    108 ?        00:00:01 kworker/2:1-events
+    124 ?        00:00:00 kworker/R-charger_manager
+    125 ?        00:00:00 kworker/0:1H-kblockd
+    183 ?        00:00:00 kworker/5:1H-kblockd
+    184 ?        00:00:00 kworker/2:1H-kblockd
+    185 ?        00:00:00 kworker/1:1H-kblockd
+    205 ?        00:00:01 kworker/0:2-events
+    209 ?        00:00:00 kworker/R-nvme-wq
+    210 ?        00:00:00 kworker/R-nvme-reset-wq
+    211 ?        00:00:00 kworker/R-nvme-delete-wq
+    212 ?        00:00:00 irq/48-PNP0C50:09
+    213 ?        00:00:00 kworker/R-nvme-auth-wq
+    214 ?        00:00:00 scsi_eh_0
+    215 ?        00:00:00 kworker/R-scsi_tmf_0
+    352 ?        00:00:03 jbd2/nvme0n1p6-8
+    353 ?        00:00:00 kworker/R-ext4-rsv-conversion
+    508 ?        00:00:00 psimon
+    674 ?        00:00:00 kworker/R-cfg80211
+    747 ?        00:00:00 kworker/R-cryptd
+    798 ?        00:01:34 irq/65-rtw88_pci
+   1048 ?        00:00:00 kworker/R-amdgpu-reset-dev
+   1079 ?        00:00:00 kworker/R-ttm
+   1250 ?        00:00:00 avahi-daemon
+   1256 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1257 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1258 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1259 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1260 ?        00:00:00 kworker/R-dm_vblank_control_workqueue
+   1269 ?        00:00:00 lttng-runas
+   1311 ?        00:00:00 card1-crtc0
+   1312 ?        00:00:00 card1-crtc1
+   1313 ?        00:00:00 card1-crtc2
+   1314 ?        00:00:00 card1-crtc3
+   1319 ?        00:00:00 kworker/R-gfx
+   1320 ?        00:00:00 kworker/R-comp_1.0.0
+   1321 ?        00:00:00 kworker/R-comp_1.1.0
+   1322 ?        00:00:00 kworker/R-comp_1.2.0
+   1323 ?        00:00:00 kworker/R-comp_1.3.0
+   1324 ?        00:00:00 kworker/R-comp_1.0.1
+   1325 ?        00:00:00 kworker/R-comp_1.1.1
+   1326 ?        00:00:00 kworker/R-comp_1.2.1
+   1327 ?        00:00:00 kworker/R-comp_1.3.1
+   1328 ?        00:00:00 kworker/R-sdma0
+   1329 ?        00:00:00 kworker/R-vcn_dec
+   1330 ?        00:00:00 kworker/R-vcn_enc0
+   1331 ?        00:00:00 kworker/R-vcn_enc1
+   1332 ?        00:00:00 kworker/R-jpeg_dec
+   1982 ?        00:00:00 gdm-session-wor
+   2030 ?        00:00:00 (sd-pam)
+   2059 ?        00:00:00 wb[LEONIDAS-AX1
+   2138 ?        00:00:00 cupsd
+   2139 ?        00:00:00 cups-proxyd
+   2192 ?        00:00:00 run-cups-browse
+   2221 tty2     00:00:00 gnome-session-b
+   2338 ?        00:00:00 gvfsd-fuse
+   2361 ?        00:00:00 krfcommd
+   2386 ?        00:00:00 at-spi-bus-laun
+   2397 ?        00:00:00 dbus-daemon
+   2449 ?        00:00:00 at-spi2-registr
+   2503 ?        00:00:00 gnome-shell-cal
+   2521 ?        00:00:00 gjs
+   2593 ?        00:00:00 gsd-disk-utilit
+   2601 ?        00:00:00 evolution-alarm
+   2616 ?        00:00:47 gnome-software
+   2721 ?        00:00:00 ibus-dconf
+   2733 ?        00:00:05 ibus-extension-
+   2742 ?        00:00:02 ibus-portal
+   2854 ?        00:00:00 goa-daemon
+   2859 ?        00:00:00 snapd-desktop-i
+   2861 ?        00:00:00 gsd-printer
+   2875 ?        00:00:00 goa-identity-se
+   2934 ?        00:00:04 ibus-engine-sim
+   3006 ?        00:00:00 gvfsd-trash
+   3090 ?        00:00:00 gjs
+   3194 ?        00:02:44 com.docker.back
+   3237 ?        00:00:00 com.docker.dev-
+   3248 ?        00:00:00 com.docker.buil
+   3249 ?        00:00:15 Docker Desktop
+   3292 ?        00:00:00 Docker Desktop
+   3294 ?        00:00:00 Docker Desktop
+   3298 ?        00:00:00 Docker Desktop
+   3668 ?        00:00:32 Xwayland
+   3826 ?        00:00:00 gvfsd-recent
+   3833 ?        00:00:00 ibus-x11
+   3878 ?        00:00:06 mutter-x11-fram
+   3922 ?        00:00:02 Docker Desktop
+   3935 ?        00:00:02 Docker Desktop
+   4157 ?        00:02:03 cursor
+   4188 ?        00:00:00 cursor
+   4189 ?        00:00:00 cursor
+   4207 ?        00:00:00 cursor
+   4245 ?        00:00:00 chrome_crashpad
+   4264 ?        00:01:50 cursor
+   4270 ?        00:00:05 cursor
+   4335 ?        00:01:05 cursor
+   4393 ?        00:02:30 cursor
+   4429 ?        00:00:12 cursor
+   4430 ?        00:00:08 cursor
+   4470 ?        00:01:00 cursor
+   4557 ?        00:01:24 cursor
+   5169 ?        00:00:00 update-notifier
+   8814 ?        00:00:00 psimon
+   9243 ?        00:00:01 kworker/5:0-events
+   9698 ?        00:10:23 cursor
+   9776 ?        00:00:00 gvfsd-network
+   9785 ?        00:00:00 gvfsd-dnssd
+   9942 ?        00:03:11 cursor
+   9953 ?        00:00:09 cursor
+  11422 ?        00:00:01 kworker/1:1-events
+  11819 ?        00:10:05 chrome
+  11826 ?        00:00:00 cat
+  11827 ?        00:00:00 cat
+  11829 ?        00:00:00 chrome_crashpad
+  11831 ?        00:00:00 chrome_crashpad
+  11837 ?        00:00:00 chrome
+  11838 ?        00:00:00 chrome
+  11847 ?        00:00:01 chrome
+  11893 ?        00:02:10 chrome
+  11905 ?        00:01:14 chrome
+  11944 ?        00:00:13 chrome
+  11963 ?        00:02:07 chrome
+  12228 ?        00:00:01 chrome
+  12302 ?        00:00:51 chrome
+  12407 ?        00:00:04 chrome
+  12542 ?        00:04:24 chrome
+  12664 ?        00:00:01 chrome
+  12674 ?        00:00:01 chrome
+  12721 ?        00:00:02 chrome
+  12888 ?        00:00:14 chrome
+  13072 ?        00:00:36 chrome
+  18496 ?        00:00:27 chrome
+  18501 ?        00:00:06 chrome
+  19365 ?        00:16:13 chrome
+  22985 ?        00:00:00 script
+  26135 ?        00:06:29 chrome
+  27404 ?        00:00:01 kworker/4:1-cgroup_destroy
+  46761 pts/4    00:00:00 script
+  46865 pts/5    00:00:00 script
+  46955 pts/7    00:00:00 script
+  49342 pts/10   00:00:00 su
+  49364 pts/10   00:00:00 bash
+  50275 pts/10   00:00:00 su
+  50324 pts/10   00:00:00 bash
+  56677 ?        00:00:01 chrome
+  78183 ?        00:00:00 gnome-terminal
+  78186 ?        00:00:00 gnome-terminal.
+  79083 pts/9    00:00:00 su
+  79111 pts/9    00:00:00 bash
+  79253 pts/8    00:00:00 su
+  79294 pts/8    00:00:00 bash
+  80331 pts/10   00:00:00 su
+  80353 pts/10   00:00:00 bash
+  99103 ?        00:00:00 kworker/1:2-events
+ 109042 ?        00:00:01 kworker/u25:1-writeback
+ 110360 ?        00:00:00 bwrap
+ 110368 ?        00:00:00 bwrap
+ 110369 ?        00:00:00 xdg-dbus-proxy
+ 110372 ?        00:00:00 bwrap
+ 110373 ?        00:01:30 Telegram
+ 110777 ?        00:00:00 kworker/3:2-cgroup_destroy
+ 121295 ?        00:00:29 chrome
+ 131706 ?        00:00:00 kworker/4:2-events
+ 135624 ?        00:00:00 sleep
+ 140132 ?        00:00:00 kworker/2:0-events
+ 142110 ?        00:00:01 kworker/u24:2-phy0
+ 144814 ?        00:00:00 kworker/5:2-cgroup_destroy
+ 144815 ?        00:00:00 kworker/u25:4-flush-259:0
+ 144816 ?        00:00:00 kworker/u25:5-events_unbound
+ 144821 ?        00:00:01 kworker/u25:10-flush-259:0
+ 144841 ?        00:00:00 kworker/u26:0-flush-259:0
+ 144842 ?        00:00:00 kworker/u29:0-ttm
+ 144844 ?        00:00:00 kworker/3:3-mm_percpu_wq
+ 144857 ?        00:00:00 kworker/u26:1-flush-259:0
+ 144859 ?        00:00:00 kworker/u27:2-hci0
+ 145075 ?        00:00:00 kworker/0:4-events
+ 145273 ?        00:00:00 kworker/u26:3-flush-259:0
+ 145376 ?        00:00:00 gjs
+ 145420 ?        00:00:00 chrome
+ 145443 ?        00:00:00 kworker/u28:1-ttm
+ 145469 ?        00:00:00 kworker/u29:2-rtw_tx_wq
+ 145535 ?        00:00:00 kworker/u29:3-ttm
+ 145537 ?        00:00:00 kworker/u29:5-ttm
+ 145538 ?        00:00:00 kworker/u29:6-ttm
+ 145715 ?        00:00:00 kworker/u26:4-events_unbound
+ 148729 ?        00:00:00 kworker/u24:0-gfx
+ 148818 ?        00:00:00 kworker/u24:1-sdma0
+ 149698 ?        00:00:00 kworker/u28:8-rtw_tx_wq
+ 149699 ?        00:00:00 kworker/u28:9-rtw_tx_wq
+ 149700 ?        00:00:00 kworker/u28:10-ttm
+ 149701 ?        00:00:00 kworker/u28:11-ttm
+ 150955 ?        00:00:00 kworker/1:0
+ 150978 ?        00:00:00 kworker/2:2-cgroup_destroy
+ 151346 ?        00:00:00 kworker/u26:2-flush-259:0
+ 151849 ?        00:00:00 kworker/0:0-events
+ 151997 ?        00:00:00 kworker/u25:0-flush-259:0
+ 153872 ?        00:00:00 kworker/2:3-cgroup_destroy
+ 154401 ?        00:00:00 chrome
+ 154410 ?        00:00:00 chrome
+ 154440 ?        00:00:00 chrome
+ 154970 ?        00:00:00 chrome
+ 155044 pts/8    00:00:00 ps
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ps -d[Ke
+[?2004l    PID TTY          TIME CMD
+      1 ?        00:00:04 systemd
+      2 ?        00:00:00 kthreadd
+      3 ?        00:00:00 pool_workqueue_release
+      4 ?        00:00:00 kworker/R-rcu_gp
+      5 ?        00:00:00 kworker/R-sync_wq
+      6 ?        00:00:00 kworker/R-kvfree_rcu_reclaim
+      7 ?        00:00:00 kworker/R-slub_flushwq
+      8 ?        00:00:00 kworker/R-netns
+     11 ?        00:00:00 kworker/0:0H-events_highpri
+     13 ?        00:00:00 kworker/R-mm_percpu_wq
+     14 ?        00:00:00 rcu_tasks_kthread
+     15 ?        00:00:00 rcu_tasks_rude_kthread
+     16 ?        00:00:00 rcu_tasks_trace_kthread
+     17 ?        00:00:00 ksoftirqd/0
+     18 ?        00:00:11 rcu_preempt
+     19 ?        00:00:00 rcu_exp_par_gp_kthread_worker/0
+     20 ?        00:00:00 rcu_exp_gp_kthread_worker
+     21 ?        00:00:00 migration/0
+     22 ?        00:00:00 idle_inject/0
+     23 ?        00:00:00 cpuhp/0
+     24 ?        00:00:00 cpuhp/1
+     25 ?        00:00:00 idle_inject/1
+     26 ?        00:00:00 migration/1
+     27 ?        00:00:00 ksoftirqd/1
+     29 ?        00:00:00 kworker/1:0H-events_highpri
+     30 ?        00:00:00 cpuhp/2
+     31 ?        00:00:00 idle_inject/2
+     32 ?        00:00:00 migration/2
+     33 ?        00:00:00 ksoftirqd/2
+     35 ?        00:00:00 kworker/2:0H-events_highpri
+     36 ?        00:00:00 cpuhp/3
+     37 ?        00:00:00 idle_inject/3
+     38 ?        00:00:00 migration/3
+     39 ?        00:00:00 ksoftirqd/3
+     41 ?        00:00:00 kworker/3:0H-events_highpri
+     42 ?        00:00:00 cpuhp/4
+     43 ?        00:00:00 idle_inject/4
+     44 ?        00:00:00 migration/4
+     45 ?        00:00:00 ksoftirqd/4
+     47 ?        00:00:00 kworker/4:0H-events_highpri
+     48 ?        00:00:00 cpuhp/5
+     49 ?        00:00:00 idle_inject/5
+     50 ?        00:00:00 migration/5
+     51 ?        00:00:00 ksoftirqd/5
+     53 ?        00:00:00 kworker/5:0H-events_highpri
+     56 ?        00:00:00 kdevtmpfs
+     57 ?        00:00:00 kworker/R-inet_frag_wq
+     58 ?        00:00:00 kauditd
+     59 ?        00:00:00 khungtaskd
+     60 ?        00:00:00 oom_reaper
+     63 ?        00:00:00 kworker/R-writeback
+     64 ?        00:00:01 kcompactd0
+     65 ?        00:00:00 ksmd
+     66 ?        00:00:00 khugepaged
+     67 ?        00:00:00 kworker/R-kintegrityd
+     68 ?        00:00:00 kworker/R-kblockd
+     69 ?        00:00:00 kworker/R-blkcg_punt_bio
+     70 ?        00:00:02 irq/9-acpi
+     72 ?        00:00:00 kworker/R-tpm_dev_wq
+     73 ?        00:00:00 kworker/R-ata_sff
+     75 ?        00:00:00 kworker/R-md
+     76 ?        00:00:00 kworker/R-md_bitmap
+     77 ?        00:00:00 kworker/R-edac-poller
+     79 ?        00:00:00 kworker/R-devfreq_wq
+     81 ?        00:00:00 watchdogd
+     82 ?        00:00:00 kworker/4:1H-kblockd
+     83 ?        00:00:00 irq/25-AMD-Vi0-Evt
+     84 ?        00:00:00 irq/26-AMD-Vi0-PPR
+     85 ?        00:00:00 irq/27-AMD-Vi0-GA
+     87 ?        00:00:00 kswapd0
+     88 ?        00:00:00 ecryptfs-kthread
+     89 ?        00:00:00 kworker/R-kthrotld
+     90 ?        00:00:00 kworker/u27:0-hci0
+     92 ?        00:00:00 kworker/R-acpi_thermal_pm
+     97 ?        00:00:00 kworker/R-mld
+     98 ?        00:00:00 kworker/R-ipv6_addrconf
+     99 ?        00:00:00 kworker/3:1H-kblockd
+    107 ?        00:00:00 kworker/R-kstrp
+    108 ?        00:00:01 kworker/2:1-mm_percpu_wq
+    124 ?        00:00:00 kworker/R-charger_manager
+    125 ?        00:00:00 kworker/0:1H-kblockd
+    183 ?        00:00:00 kworker/5:1H-kblockd
+    184 ?        00:00:00 kworker/2:1H-kblockd
+    185 ?        00:00:00 kworker/1:1H-kblockd
+    205 ?        00:00:01 kworker/0:2-events
+    209 ?        00:00:00 kworker/R-nvme-wq
+    210 ?        00:00:00 kworker/R-nvme-reset-wq
+    211 ?        00:00:00 kworker/R-nvme-delete-wq
+    212 ?        00:00:00 irq/48-PNP0C50:09
+    213 ?        00:00:00 kworker/R-nvme-auth-wq
+    214 ?        00:00:00 scsi_eh_0
+    215 ?        00:00:00 kworker/R-scsi_tmf_0
+    352 ?        00:00:03 jbd2/nvme0n1p6-8
+    353 ?        00:00:00 kworker/R-ext4-rsv-conversion
+    406 ?        00:00:04 systemd-journal
+    505 ?        00:00:00 systemd-udevd
+    508 ?        00:00:00 psimon
+    674 ?        00:00:00 kworker/R-cfg80211
+    747 ?        00:00:00 kworker/R-cryptd
+    798 ?        00:01:35 irq/65-rtw88_pci
+    940 ?        00:00:04 systemd-oomd
+    950 ?        00:00:03 systemd-resolve
+    951 ?        00:00:00 systemd-timesyn
+   1048 ?        00:00:00 kworker/R-amdgpu-reset-dev
+   1079 ?        00:00:00 kworker/R-ttm
+   1186 ?        00:00:00 avahi-daemon
+   1187 ?        00:00:00 bluetoothd
+   1188 ?        00:00:04 dbus-daemon
+   1192 ?        00:00:00 gnome-remote-de
+   1197 ?        00:00:00 lttng-sessiond
+   1211 ?        00:00:00 polkitd
+   1217 ?        00:00:00 power-profiles-
+   1223 ?        00:00:09 snapd
+   1226 ?        00:00:00 accounts-daemon
+   1230 ?        00:00:00 cron
+   1231 ?        00:00:00 switcheroo-cont
+   1233 ?        00:00:00 systemd-logind
+   1237 ?        00:00:01 udisksd
+   1250 ?        00:00:00 avahi-daemon
+   1256 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1257 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1258 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1259 ?        00:00:00 kworker/R-amdgpu_dm_hpd_rx_offload_wq
+   1260 ?        00:00:00 kworker/R-dm_vblank_control_workqueue
+   1261 ?        00:00:00 rsyslogd
+   1269 ?        00:00:00 lttng-runas
+   1311 ?        00:00:00 card1-crtc0
+   1312 ?        00:00:00 card1-crtc1
+   1313 ?        00:00:00 card1-crtc2
+   1314 ?        00:00:00 card1-crtc3
+   1319 ?        00:00:00 kworker/R-gfx
+   1320 ?        00:00:00 kworker/R-comp_1.0.0
+   1321 ?        00:00:00 kworker/R-comp_1.1.0
+   1322 ?        00:00:00 kworker/R-comp_1.2.0
+   1323 ?        00:00:00 kworker/R-comp_1.3.0
+   1324 ?        00:00:00 kworker/R-comp_1.0.1
+   1325 ?        00:00:00 kworker/R-comp_1.1.1
+   1326 ?        00:00:00 kworker/R-comp_1.2.1
+   1327 ?        00:00:00 kworker/R-comp_1.3.1
+   1328 ?        00:00:00 kworker/R-sdma0
+   1329 ?        00:00:00 kworker/R-vcn_dec
+   1330 ?        00:00:00 kworker/R-vcn_enc0
+   1331 ?        00:00:00 kworker/R-vcn_enc1
+   1332 ?        00:00:00 kworker/R-jpeg_dec
+   1689 ?        00:00:03 NetworkManager
+   1690 ?        00:00:00 wpa_supplicant
+   1739 ?        00:00:00 ModemManager
+   1853 ?        00:00:00 cupsd
+   1855 ?        00:00:00 run-cups-browse
+   1856 ?        00:00:00 run-cupsd
+   1858 ?        00:00:00 unattended-upgr
+   1866 ?        00:00:05 containerd
+   1961 ?        00:00:00 gdm3
+   1982 ?        00:00:00 gdm-session-wor
+   1996 ?        00:00:00 winbindd
+   2017 ?        00:00:02 systemd
+   2030 ?        00:00:00 (sd-pam)
+   2059 ?        00:00:00 wb[LEONIDAS-AX1
+   2138 ?        00:00:00 cupsd
+   2139 ?        00:00:00 cups-proxyd
+   2145 ?        00:00:33 pipewire
+   2146 ?        00:00:00 pipewire
+   2148 ?        00:00:01 wireplumber
+   2149 ?        00:00:40 pipewire-pulse
+   2150 ?        00:00:00 gnome-keyring-d
+   2175 ?        00:00:02 dbus-daemon
+   2188 ?        00:00:00 rtkit-daemon
+   2189 ?        00:00:00 xdg-document-po
+   2192 ?        00:00:00 run-cups-browse
+   2205 ?        00:00:00 xdg-permission-
+   2210 tty2     00:00:00 gdm-wayland-ses
+   2221 tty2     00:00:00 gnome-session-b
+   2225 ?        00:00:00 fusermount3
+   2307 ?        00:00:00 gcr-ssh-agent
+   2309 ?        00:00:00 gnome-session-c
+   2329 ?        00:00:00 gvfsd
+   2338 ?        00:00:00 gvfsd-fuse
+   2341 ?        00:00:00 gnome-session-b
+   2361 ?        00:00:00 krfcommd
+   2384 ?        00:05:26 gnome-shell
+   2386 ?        00:00:00 at-spi-bus-laun
+   2397 ?        00:00:00 dbus-daemon
+   2449 ?        00:00:00 at-spi2-registr
+   2450 ?        00:00:00 colord
+   2477 ?        00:00:00 cups-browsed
+   2479 ?        00:00:00 kerneloops
+   2482 ?        00:00:00 kerneloops
+   2503 ?        00:00:00 gnome-shell-cal
+   2519 ?        00:00:00 evolution-sourc
+   2521 ?        00:00:00 gjs
+   2523 ?        00:00:03 upowerd
+   2535 ?        00:00:17 ibus-daemon
+   2539 ?        00:00:00 gsd-a11y-settin
+   2541 ?        00:00:00 gsd-color
+   2546 ?        00:00:00 gsd-datetime
+   2549 ?        00:00:00 gsd-housekeepin
+   2551 ?        00:00:00 gsd-keyboard
+   2552 ?        00:00:00 gsd-media-keys
+   2560 ?        00:00:00 gsd-power
+   2562 ?        00:00:00 gsd-print-notif
+   2570 ?        00:00:00 gsd-rfkill
+   2574 ?        00:00:00 gsd-screensaver
+   2575 ?        00:00:01 gsd-sharing
+   2576 ?        00:00:00 gsd-smartcard
+   2577 ?        00:00:00 gsd-sound
+   2578 ?        00:00:00 gsd-wacom
+   2593 ?        00:00:00 gsd-disk-utilit
+   2601 ?        00:00:00 evolution-alarm
+   2616 ?        00:00:47 gnome-software
+   2721 ?        00:00:00 ibus-dconf
+   2722 ?        00:00:01 gvfs-udisks2-vo
+   2733 ?        00:00:05 ibus-extension-
+   2742 ?        00:00:02 ibus-portal
+   2753 ?        00:00:00 gvfs-gphoto2-vo
+   2769 ?        00:00:00 snapd-desktop-i
+   2780 ?        00:00:00 gvfs-mtp-volume
+   2822 ?        00:00:00 gvfs-goa-volume
+   2854 ?        00:00:00 goa-daemon
+   2859 ?        00:00:00 snapd-desktop-i
+   2861 ?        00:00:00 gsd-printer
+   2875 ?        00:00:00 goa-identity-se
+   2888 ?        00:00:00 gvfs-afc-volume
+   2916 ?        00:00:00 gvfsd-metadata
+   2927 ?        00:00:00 evolution-calen
+   2934 ?        00:00:04 ibus-engine-sim
+   2962 ?        00:00:00 dconf-service
+   2975 ?        00:00:00 evolution-addre
+   3006 ?        00:00:00 gvfsd-trash
+   3057 ?        00:00:00 xdg-desktop-por
+   3083 ?        00:00:03 com.docker.back
+   3084 ?        00:00:00 tracker-miner-f
+   3086 ?        00:00:00 xdg-desktop-por
+   3090 ?        00:00:00 gjs
+   3134 ?        00:00:00 xdg-desktop-por
+   3174 ?        00:00:02 fwupd
+   3194 ?        00:02:44 com.docker.back
+   3237 ?        00:00:00 com.docker.dev-
+   3248 ?        00:00:00 com.docker.buil
+   3249 ?        00:00:15 Docker Desktop
+   3292 ?        00:00:00 Docker Desktop
+   3294 ?        00:00:00 Docker Desktop
+   3298 ?        00:00:00 Docker Desktop
+   3668 ?        00:00:32 Xwayland
+   3741 ?        00:00:00 gsd-xsettings
+   3826 ?        00:00:00 gvfsd-recent
+   3833 ?        00:00:00 ibus-x11
+   3878 ?        00:00:06 mutter-x11-fram
+   3922 ?        00:00:02 Docker Desktop
+   3935 ?        00:00:02 Docker Desktop
+   4157 ?        00:02:03 cursor
+   4165 ?        00:00:22 Cursor-1.0.0-x8
+   4188 ?        00:00:00 cursor
+   4189 ?        00:00:00 cursor
+   4207 ?        00:00:00 cursor
+   4245 ?        00:00:00 chrome_crashpad
+   4264 ?        00:01:50 cursor
+   4270 ?        00:00:05 cursor
+   4335 ?        00:01:06 cursor
+   4393 ?        00:02:30 cursor
+   4429 ?        00:00:12 cursor
+   4430 ?        00:00:08 cursor
+   4470 ?        00:01:00 cursor
+   4557 ?        00:01:24 cursor
+   4685 pts/1    00:00:00 bash
+   5169 ?        00:00:00 update-notifier
+   7051 ?        00:00:00 flatpak-session
+   7056 ?        00:00:00 p11-kit-server
+   8814 ?        00:00:00 psimon
+   9243 ?        00:00:01 kworker/5:0-events
+   9698 ?        00:10:27 cursor
+   9776 ?        00:00:00 gvfsd-network
+   9785 ?        00:00:00 gvfsd-dnssd
+   9942 ?        00:03:12 cursor
+   9953 ?        00:00:09 cursor
+  11422 ?        00:00:01 kworker/1:1-mm_percpu_wq
+  11819 ?        00:10:06 chrome
+  11826 ?        00:00:00 cat
+  11827 ?        00:00:00 cat
+  11829 ?        00:00:00 chrome_crashpad
+  11831 ?        00:00:00 chrome_crashpad
+  11837 ?        00:00:00 chrome
+  11838 ?        00:00:00 chrome
+  11847 ?        00:00:01 chrome
+  11893 ?        00:02:10 chrome
+  11905 ?        00:01:14 chrome
+  11944 ?        00:00:13 chrome
+  11963 ?        00:02:07 chrome
+  12228 ?        00:00:01 chrome
+  12302 ?        00:00:51 chrome
+  12407 ?        00:00:04 chrome
+  12542 ?        00:04:24 chrome
+  12664 ?        00:00:01 chrome
+  12674 ?        00:00:01 chrome
+  12721 ?        00:00:02 chrome
+  12888 ?        00:00:14 chrome
+  13072 ?        00:00:36 chrome
+  18496 ?        00:00:27 chrome
+  18501 ?        00:00:06 chrome
+  19365 ?        00:16:13 chrome
+  22985 ?        00:00:00 script
+  22986 pts/6    00:00:00 bash
+  26135 ?        00:06:29 chrome
+  27404 ?        00:00:01 kworker/4:1-cgroup_destroy
+  42431 pts/4    00:00:00 bash
+  44425 pts/5    00:00:00 bash
+  44480 pts/7    00:00:00 bash
+  46761 pts/4    00:00:00 script
+  46762 pts/8    00:00:00 bash
+  46865 pts/5    00:00:00 script
+  46866 pts/9    00:00:00 bash
+  46955 pts/7    00:00:00 script
+  46956 pts/10   00:00:00 bash
+  49342 pts/10   00:00:00 su
+  49364 pts/10   00:00:00 bash
+  50275 pts/10   00:00:00 su
+  50324 pts/10   00:00:00 bash
+  56677 ?        00:00:01 chrome
+  68865 ?        00:00:01 gnome-terminal-
+  78183 ?        00:00:00 gnome-terminal
+  78186 ?        00:00:00 gnome-terminal.
+  78192 pts/13   00:00:00 bash
+  79083 pts/9    00:00:00 su
+  79111 pts/9    00:00:00 bash
+  79253 pts/8    00:00:00 su
+  79294 pts/8    00:00:00 bash
+  80331 pts/10   00:00:00 su
+  80353 pts/10   00:00:00 bash
+  99103 ?        00:00:00 kworker/1:2-events
+ 109042 ?        00:00:01 kworker/u25:1-flush-259:0
+ 110360 ?        00:00:00 bwrap
+ 110368 ?        00:00:00 bwrap
+ 110369 ?        00:00:00 xdg-dbus-proxy
+ 110372 ?        00:00:00 bwrap
+ 110373 ?        00:01:30 Telegram
+ 110777 ?        00:00:00 kworker/3:2-cgroup_destroy
+ 121295 ?        00:00:29 chrome
+ 131706 ?        00:00:00 kworker/4:2-events
+ 135624 ?        00:00:00 sleep
+ 140132 ?        00:00:00 kworker/2:0-events
+ 142110 ?        00:00:01 kworker/u24:2-dm_vblank_control_workqueue
+ 144814 ?        00:00:00 kworker/5:2-cgroup_destroy
+ 144815 ?        00:00:00 kworker/u25:4-flush-259:0
+ 144816 ?        00:00:00 kworker/u25:5-events_unbound
+ 144821 ?        00:00:01 kworker/u25:10-flush-259:0
+ 144841 ?        00:00:00 kworker/u26:0-flush-259:0
+ 144842 ?        00:00:00 kworker/u29:0-ttm
+ 144844 ?        00:00:00 kworker/3:3-events
+ 144857 ?        00:00:00 kworker/u26:1-events_power_efficient
+ 144859 ?        00:00:00 kworker/u27:2-hci0
+ 145075 ?        00:00:00 kworker/0:4-events
+ 145273 ?        00:00:00 kworker/u26:3-events_unbound
+ 145376 ?        00:00:00 gjs
+ 145420 ?        00:00:00 chrome
+ 145443 ?        00:00:00 kworker/u28:1-ttm
+ 145469 ?        00:00:00 kworker/u29:2-ttm
+ 145535 ?        00:00:00 kworker/u29:3-ttm
+ 145537 ?        00:00:00 kworker/u29:5-ttm
+ 145538 ?        00:00:00 kworker/u29:6-ttm
+ 145715 ?        00:00:00 kworker/u26:4-flush-259:0
+ 148818 ?        00:00:00 kworker/u24:1-sdma0
+ 149698 ?        00:00:00 kworker/u28:8-ttm
+ 149699 ?        00:00:00 kworker/u28:9-rtw_tx_wq
+ 149700 ?        00:00:00 kworker/u28:10-ttm
+ 150955 ?        00:00:00 kworker/1:0
+ 150978 ?        00:00:00 kworker/2:2-cgroup_destroy
+ 151346 ?        00:00:00 kworker/u26:2-flush-259:0
+ 151849 ?        00:00:00 kworker/0:0-events
+ 151997 ?        00:00:00 kworker/u25:0-events_unbound
+ 153872 ?        00:00:00 kworker/2:3-cgroup_destroy
+ 154401 ?        00:00:00 chrome
+ 154410 ?        00:00:00 chrome
+ 154440 ?        00:00:00 chrome
+ 154970 ?        00:00:00 chrome
+ 155192 ?        00:00:00 kworker/u24:0-sdma0
+ 155303 ?        00:00:00 sh
+ 155304 ?        00:00:00 cpuUsage.sh
+ 155311 ?        00:00:00 sleep
+ 155312 pts/8    00:00:00 ps
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ps -o
+[?2004lerror: format specification must follow -o
+
+Usage:
+ ps [options]
+
+ Try 'ps --help <simple|list|output|threads|misc|all>'
+  or 'ps --help <s|l|o|t|m|a>'
+ for additional help text.
+
+For more details see ps(1).
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ps -o[Ku
+[?2004lUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+ivanov1    79294  0.0  0.0  11584  5480 pts/8    S    16:12   0:00 bash
+ivanov1   155766  0.0  0.0  13944  4596 pts/8    R+   20:41   0:00 ps -u
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ [K[A[K]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ ыгвщ [K[K[K[K[Ksudo su 
+[?2004l[sudo] password for ivanov1: 
+[?2004h]0;root@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4root@leonidas-AX1540SD:/home/leonidas/projects/itmo/os_linux_course/Lab4# [7msudo ps -e > proc_list[27msudo ps -e > proc_list
+[?2004l[?2004h]0;root@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4root@leonidas-AX1540SD:/home/leonidas/projects/itmo/os_linux_course/Lab4# [7mfirefox &[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cfirefox &
+[A
+[?2004l[1] 164080
+[?2004h]0;root@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4root@leonidas-AX1540SD:/home/leonidas/projects/itmo/os_linux_course/Lab4# update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/local/share/doc /usr/local/share/doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/local/share/doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/gtk-doc /usr/share/gtk-doc none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/gtk-doc" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/libreoffice/help /usr/share/libreoffice/help none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/libreoffice/help" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme /usr/share/sphinx_rtd_theme none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/sphinx_rtd_theme" because it would affect the host in "/var/lib/snapd"
+update.go:85: cannot change mount namespace according to change mount (/var/lib/snapd/hostfs/usr/share/xubuntu-docs /usr/share/xubuntu-docs none bind,ro 0 0): cannot write to "/var/lib/snapd/hostfs/usr/share/xubuntu-docs" because it would affect the host in "/var/lib/snapd"
+touch: cannot touch '/root/snap/firefox/common/.cache/desktop-runtime-date': No such file or directory
+mkdir: cannot create directory ‘/run/user/0’: Permission denied
+Authorization required, but no authorization protocol specified
+Error: cannot open display: :0
+^C[?2004l[?2004h[?2004l
+[1]+  Exit 1                  firefox
+[?2004h]0;root@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4root@leonidas-AX1540SD:/home/leonidas/projects/itmo/os_linux_course/Lab4# [7mfirefox[27mfirefox
+[?2004lmkdir: cannot create directory ‘/run/user/0’: Permission denied
+Authorization required, but no authorization protocol specified
+Error: cannot open display: :0
+[?2004h]0;root@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4root@leonidas-AX1540SD:/home/leonidas/projects/itmo/os_linux_course/Lab4# exit
+[?2004lexit
+[?2004h]0;ivanov1@leonidas-AX1540SD: /home/leonidas/projects/itmo/os_linux_course/Lab4[01;32mivanov1@leonidas-AX1540SD[00m:[01;34m/home/leonidas/projects/itmo/os_linux_course/Lab4[00m$ exit
+[?2004lexit
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ firefox
+[?2004lGtk-[1;32mMessage[0m: [34m20:54:24.368[0m: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+^CExiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ ашк[K[K[Kfirefox
+[?2004lGtk-[1;32mMessage[0m: [34m20:55:50.702[0m: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+^CExiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ firefox &
+[?2004l[1] 167975
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ Gtk-[1;32mMessage[0m: [34m20:55:57.930[0m: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ ps
+[?2004l    PID TTY          TIME CMD
+  46762 pts/8    00:00:00 bash
+ 167975 pts/8    00:00:04 firefox
+ 168193 pts/8    00:00:00 forkserver
+ 168198 pts/8    00:00:00 Socket Process
+ 168228 pts/8    00:00:00 Privileged Cont
+ 168238 pts/8    00:00:00 RDD Process
+ 168341 pts/8    00:00:00 WebExtensions
+ 168451 pts/8    00:00:00 Utility Process
+ 168496 pts/8    00:00:00 Web Content
+ 168503 pts/8    00:00:00 Web Content
+ 168526 pts/8    00:00:00 Web Content
+ 168832 pts/8    00:00:00 ps
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ kill -0 16
+16      164539  166334  167922  167954  168526
+161559  164701  166335  167923  167975  1689
+162113  164811  166336  167924  168071  1690
+162212  164848  166337  167925  168193  169087
+162805  164849  166487  167926  168198  169138
+162897  164850  166740  167927  168228  169139
+163009  165922  167107  167928  168238  
+163010  166330  167116  167929  168341  
+163011  166331  167145  167930  168451  
+163061  166332  167680  167931  168496  
+163448  166333  167921  167932  168503  
+]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ kill -0 167975 
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ kill -0 167975 sudo 
+[?2004l[sudo] password for leonidas: 
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ ps
+[?2004l    PID TTY          TIME CMD
+  46762 pts/8    00:00:00 bash
+ 167975 pts/8    00:00:05 firefox
+ 168193 pts/8    00:00:00 forkserver
+ 168198 pts/8    00:00:00 Socket Process
+ 168228 pts/8    00:00:00 Privileged Cont
+ 168238 pts/8    00:00:00 RDD Process
+ 168341 pts/8    00:00:00 WebExtensions
+ 168451 pts/8    00:00:00 Utility Process
+ 168496 pts/8    00:00:00 Web Content
+ 168503 pts/8    00:00:00 Web Content
+ 168526 pts/8    00:00:00 Web Content
+ 169862 pts/8    00:00:00 ps
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ pssudo kill -0 167975 [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mkill -9 167975[27mkill -9 167975
+[?2004lbash: kill: (167975) - Permission denied
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ kill -9 167975ыг[1P[1Psudo 
+[?2004lkill: (167975): Permission denied
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ [7mkillall -u [27mkillall -u 
+[?2004lUsage: killall [OPTION]... [--] NAME...
+       killall -l, --list
+       killall -V, --version
+
+  -e,--exact          require exact match for very long names
+  -I,--ignore-case    case insensitive process name match
+  -g,--process-group  kill process group instead of process
+  -y,--younger-than   kill processes younger than TIME
+  -o,--older-than     kill processes older than TIME
+  -i,--interactive    ask for confirmation before killing
+  -l,--list           list all known signal names
+  -q,--quiet          don't print complaints
+  -r,--regexp         interpret NAME as an extended regular expression
+  -s,--signal SIGNAL  send this signal instead of SIGTERM
+  -u,--user USER      kill only process(es) running as USER
+  -v,--verbose        report if the signal was successfully sent
+  -V,--version        display version information
+  -w,--wait           wait for processes to die
+  -n,--ns PID         match processes that belong to the same namespaces
+                      as PID
+  -Z,--context REGEXP kill only process(es) having context
+                      (must precede other arguments)
+
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ killall -u ivanov3
+[?2004lbash(49364): Operation not permitted
+su(50275): Operation not permitted
+bash(80353): Operation not permitted
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ killall -u ivanov3sudo 
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ sudo killall -u ivanov3[K1
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab4[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab4[00m$ exit
+[?2004lexit
+
+Script done on 2025-10-01 20:59:11+03:00 [COMMAND_EXIT_CODE="1"]
