@@ -1,0 +1,9 @@
+[Unit]
+Description=scheduler for eyes service
+
+[Timer]
+OnBootSec=60s
+OnUnitActiveSec=50s   #  repetition_period
+
+[Install]
+WantedBy=timers.target graphical.target

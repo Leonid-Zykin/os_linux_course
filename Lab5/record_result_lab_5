@@ -1,0 +1,3580 @@
+Script started on 2025-10-01 21:32:07+03:00 [TERM="xterm-256color" TTY="/dev/pts/4" COLUMNS="158" LINES="15"]
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7mtar -xvzf faces.tar.gz[27mtar -xvzf faces.tar.gz
+[?2004limages/
+images/10565_2005.jpg
+images/12089_2005.jpg
+images/12583_2005.jpg
+images/10483_2005.jpg
+images/12516_2005.jpg
+images/11995_2005.jpg
+images/12528_2005.jpg
+images/10823_2005.jpg
+images/11908_2005.jpg
+images/11616_2005.jpg
+images/10718_2005.jpg
+images/11791_2005.jpg
+images/10451_2005.jpg
+images/12082_2005.jpg
+images/11110_2005.jpg
+images/11938_2005.jpg
+images/12484_2005.jpg
+images/11570_2005.jpg
+images/11123_2005.jpg
+images/13086_2005.jpg
+images/11440_2005.jpg
+images/10621_2005.jpg
+images/11498_2005.jpg
+images/12906_2005.jpg
+images/11371_2005.jpg
+images/12440_2005.jpg
+images/10424_2005.jpg
+images/11755_2005.jpg
+images/10725_2005.jpg
+images/12363_2005.jpg
+images/13145_2005.jpg
+images/13219_2005.jpg
+images/10623_2005.jpg
+images/11194_2005.jpg
+images/12640_2005.jpg
+images/11725_2005.jpg
+images/13255_2005.jpg
+images/12283_2005.jpg
+images/12951_2005.jpg
+images/11757_2005.jpg
+images/11621_2005.jpg
+images/13265_2005.jpg
+images/12289_2005.jpg
+images/12746_2005.jpg
+images/11411_2005.jpg
+images/10460_2005.jpg
+images/13154_2005.jpg
+images/11781_2005.jpg
+images/10635_2005.jpg
+images/12147_2005.jpg
+images/13104_2005.jpg
+images/13349_2005.jpg
+images/11625_2005.jpg
+images/12312_2005.jpg
+images/11380_2005.jpg
+images/10719_2005.jpg
+images/12043_2005.jpg
+images/11483_2005.jpg
+images/12005_2005.jpg
+images/11361_2005.jpg
+images/11245_2005.jpg
+images/12799_2005.jpg
+images/10702_2005.jpg
+images/11775_2005.jpg
+images/12570_2005.jpg
+images/12762_2005.jpg
+images/13208_2005.jpg
+images/10457_2005.jpg
+images/12150_2005.jpg
+images/11428_2005.jpg
+images/12505_2005.jpg
+images/13342_2005.jpg
+images/10468_2005.jpg
+images/13413_2005.jpg
+images/10942_2005.jpg
+images/12995_2005.jpg
+images/12852_2005.jpg
+images/12308_2005.jpg
+images/13130_2005.jpg
+images/12152_2005.jpg
+images/12122_2005.jpg
+images/12113_2005.jpg
+images/12701_2005.jpg
+images/12162_2005.jpg
+images/12752_2005.jpg
+images/11269_2005.jpg
+images/12371_2005.jpg
+images/13095_2005.jpg
+images/13126_2005.jpg
+images/10873_2005.jpg
+images/10970_2005.jpg
+images/12712_2005.jpg
+images/11018_2005.jpg
+images/13171_2005.jpg
+images/12397_2005.jpg
+images/11492_2005.jpg
+images/12352_2005.jpg
+images/11527_2005.jpg
+images/11098_2005.jpg
+images/12278_2005.jpg
+images/11932_2005.jpg
+images/11383_2005.jpg
+images/12924_2005.jpg
+images/13143_2005.jpg
+images/11729_2005.jpg
+images/11267_2005.jpg
+images/12324_2005.jpg
+images/11382_2005.jpg
+images/12611_2005.jpg
+images/11129_2005.jpg
+images/10910_2005.jpg
+images/11229_2005.jpg
+images/12674_2005.jpg
+images/12802_2005.jpg
+images/10768_2005.jpg
+images/10500_2005.jpg
+images/10592_2005.jpg
+images/10949_2005.jpg
+images/10667_2005.jpg
+images/12303_2005.jpg
+images/12141_2005.jpg
+images/12790_2005.jpg
+images/12703_2005.jpg
+images/11540_2005.jpg
+images/13006_2005.jpg
+images/12125_2005.jpg
+images/13018_2005.jpg
+images/11421_2005.jpg
+images/10914_2005.jpg
+images/12688_2005.jpg
+images/10871_2005.jpg
+images/11251_2005.jpg
+images/13082_2005.jpg
+images/12354_2005.jpg
+images/11702_2005.jpg
+images/12330_2005.jpg
+images/11737_2005.jpg
+images/12487_2005.jpg
+images/11283_2005.jpg
+images/13101_2005.jpg
+images/13040_2005.jpg
+images/11302_2005.jpg
+images/13231_2005.jpg
+images/10604_2005.jpg
+images/12933_2005.jpg
+images/11668_2005.jpg
+images/10832_2005.jpg
+images/12877_2005.jpg
+images/11572_2005.jpg
+images/11136_2005.jpg
+images/10465_2005.jpg
+images/11234_2005.jpg
+images/10859_2005.jpg
+images/12131_2005.jpg
+images/13277_2005.jpg
+images/11916_2005.jpg
+images/12293_2005.jpg
+images/12868_2005.jpg
+images/11849_2005.jpg
+images/11454_2005.jpg
+images/10675_2005.jpg
+images/12343_2005.jpg
+images/11697_2005.jpg
+images/13153_2005.jpg
+images/13326_2005.jpg
+images/12260_2005.jpg
+images/10754_2005.jpg
+images/11258_2005.jpg
+images/10844_2005.jpg
+images/11122_2005.jpg
+images/12559_2005.jpg
+images/11460_2005.jpg
+images/12266_2005.jpg
+images/11741_2005.jpg
+images/12733_2005.jpg
+images/10803_2005.jpg
+images/11542_2005.jpg
+images/13138_2005.jpg
+images/11367_2005.jpg
+images/12501_2005.jpg
+images/11341_2005.jpg
+images/12964_2005.jpg
+images/13268_2005.jpg
+images/13418_2005.jpg
+images/11446_2005.jpg
+images/12270_2005.jpg
+images/10917_2005.jpg
+images/11474_2005.jpg
+images/11158_2005.jpg
+images/10867_2005.jpg
+images/13309_2005.jpg
+images/10545_2005.jpg
+images/12535_2005.jpg
+images/10614_2005.jpg
+images/12614_2005.jpg
+images/11530_2005.jpg
+images/12582_2005.jpg
+images/13223_2005.jpg
+images/10655_2005.jpg
+images/12585_2005.jpg
+images/11858_2005.jpg
+images/11392_2005.jpg
+images/11576_2005.jpg
+images/11424_2005.jpg
+images/12280_2005.jpg
+images/11350_2005.jpg
+images/10907_2005.jpg
+images/11402_2005.jpg
+images/11841_2005.jpg
+images/11666_2005.jpg
+images/12593_2005.jpg
+images/13250_2005.jpg
+images/11863_2005.jpg
+images/11714_2005.jpg
+images/12735_2005.jpg
+images/10967_2005.jpg
+images/10631_2005.jpg
+images/11848_2005.jpg
+images/13114_2005.jpg
+images/12180_2005.jpg
+images/11587_2005.jpg
+images/10888_2005.jpg
+images/12102_2005.jpg
+images/12706_2005.jpg
+images/13356_2005.jpg
+images/11869_2005.jpg
+images/13234_2005.jpg
+images/11015_2005.jpg
+images/12997_2005.jpg
+images/10576_2005.jpg
+images/11753_2005.jpg
+images/12178_2005.jpg
+images/12771_2005.jpg
+images/12763_2005.jpg
+images/13170_2005.jpg
+images/13129_2005.jpg
+images/11115_2005.jpg
+images/10507_2005.jpg
+images/10441_2005.jpg
+images/12875_2005.jpg
+images/11374_2005.jpg
+images/13317_2005.jpg
+images/12468_2005.jpg
+images/12007_2005.jpg
+images/11407_2005.jpg
+images/11197_2005.jpg
+images/11087_2005.jpg
+images/10990_2005.jpg
+images/10518_2005.jpg
+images/13280_2005.jpg
+images/13020_2005.jpg
+images/12769_2005.jpg
+images/12307_2005.jpg
+images/11010_2005.jpg
+images/12738_2005.jpg
+images/13165_2005.jpg
+images/11301_2005.jpg
+images/13033_2005.jpg
+images/12413_2005.jpg
+images/13358_2005.jpg
+images/10863_2005.jpg
+images/12130_2005.jpg
+images/10648_2005.jpg
+images/12075_2005.jpg
+images/11973_2005.jpg
+images/12068_2005.jpg
+images/13332_2005.jpg
+images/11309_2005.jpg
+images/11056_2005.jpg
+images/13314_2005.jpg
+images/11894_2005.jpg
+images/11719_2005.jpg
+images/12569_2005.jpg
+images/12361_2005.jpg
+images/10809_2005.jpg
+images/10980_2005.jpg
+images/12764_2005.jpg
+images/12332_2005.jpg
+images/13187_2005.jpg
+images/10678_2005.jpg
+images/12988_2005.jpg
+images/12425_2005.jpg
+images/11669_2005.jpg
+images/11224_2005.jpg
+images/12955_2005.jpg
+images/12690_2005.jpg
+images/10932_2005.jpg
+images/10464_2005.jpg
+images/10922_2005.jpg
+images/11799_2005.jpg
+images/11993_2005.jpg
+images/12807_2005.jpg
+images/11433_2005.jpg
+images/12033_2005.jpg
+images/12351_2005.jpg
+images/11213_2005.jpg
+images/11071_2005.jpg
+images/10701_2005.jpg
+images/13125_2005.jpg
+images/12136_2005.jpg
+images/12105_2005.jpg
+images/11541_2005.jpg
+images/11640_2005.jpg
+images/11925_2005.jpg
+images/11695_2005.jpg
+images/12069_2005.jpg
+images/10894_2005.jpg
+images/12723_2005.jpg
+images/13331_2005.jpg
+images/11105_2005.jpg
+images/10517_2005.jpg
+images/12414_2005.jpg
+images/12338_2005.jpg
+images/12184_2005.jpg
+images/10637_2005.jpg
+images/12296_2005.jpg
+images/12550_2005.jpg
+images/12344_2005.jpg
+images/10791_2005.jpg
+images/12392_2005.jpg
+images/12698_2005.jpg
+images/11262_2005.jpg
+images/11650_2005.jpg
+images/12313_2005.jpg
+images/11834_2005.jpg
+images/12527_2005.jpg
+images/11379_2005.jpg
+images/10944_2005.jpg
+images/11957_2005.jpg
+images/12702_2005.jpg
+images/13343_2005.jpg
+images/11502_2005.jpg
+images/11319_2005.jpg
+images/12508_2005.jpg
+images/11553_2005.jpg
+images/13107_2005.jpg
+images/12580_2005.jpg
+images/13201_2005.jpg
+images/10983_2005.jpg
+images/11102_2005.jpg
+images/13222_2005.jpg
+images/11261_2005.jpg
+images/10662_2005.jpg
+images/11161_2005.jpg
+images/11285_2005.jpg
+images/10872_2005.jpg
+images/10585_2005.jpg
+images/11618_2005.jpg
+images/11393_2005.jpg
+images/12713_2005.jpg
+images/12463_2005.jpg
+images/11082_2005.jpg
+images/11853_2005.jpg
+images/12399_2005.jpg
+images/12635_2005.jpg
+images/11602_2005.jpg
+images/10454_2005.jpg
+images/10519_2005.jpg
+images/11654_2005.jpg
+images/10788_2005.jpg
+images/12455_2005.jpg
+images/12002_2005.jpg
+images/13172_2005.jpg
+images/11447_2005.jpg
+images/11401_2005.jpg
+images/13388_2005.jpg
+images/13382_2005.jpg
+images/13057_2005.jpg
+images/11692_2005.jpg
+images/10891_2005.jpg
+images/10999_2005.jpg
+images/13281_2005.jpg
+images/12977_2005.jpg
+images/13292_2005.jpg
+images/10835_2005.jpg
+images/10886_2005.jpg
+images/13399_2005.jpg
+images/11100_2005.jpg
+images/12257_2005.jpg
+images/13322_2005.jpg
+images/11948_2005.jpg
+images/11613_2005.jpg
+images/12693_2005.jpg
+images/11386_2005.jpg
+images/11629_2005.jpg
+images/10920_2005.jpg
+images/11001_2005.jpg
+images/11972_2005.jpg
+images/12224_2005.jpg
+images/10966_2005.jpg
+images/12621_2005.jpg
+images/11182_2005.jpg
+images/11645_2005.jpg
+images/10734_2005.jpg
+images/11130_2005.jpg
+images/11982_2005.jpg
+images/13090_2005.jpg
+images/10834_2005.jpg
+images/10721_2005.jpg
+images/10452_2005.jpg
+images/12524_2005.jpg
+images/12880_2005.jpg
+images/12144_2005.jpg
+images/12218_2005.jpg
+images/12025_2005.jpg
+images/12003_2005.jpg
+images/12743_2005.jpg
+images/12660_2005.jpg
+images/12777_2005.jpg
+images/12235_2005.jpg
+images/12919_2005.jpg
+images/13158_2005.jpg
+images/11417_2005.jpg
+images/11833_2005.jpg
+images/12515_2005.jpg
+images/12750_2005.jpg
+images/11055_2005.jpg
+images/12926_2005.jpg
+images/10493_2005.jpg
+images/11466_2005.jpg
+images/11954_2005.jpg
+images/10562_2005.jpg
+images/10611_2005.jpg
+images/11637_2005.jpg
+images/12539_2005.jpg
+images/13237_2005.jpg
+images/11547_2005.jpg
+images/10680_2005.jpg
+images/10447_2005.jpg
+images/11544_2005.jpg
+images/10677_2005.jpg
+images/12273_2005.jpg
+images/11193_2005.jpg
+images/12902_2005.jpg
+images/11891_2005.jpg
+images/12060_2005.jpg
+images/12062_2005.jpg
+images/11590_2005.jpg
+images/12237_2005.jpg
+images/12768_2005.jpg
+images/13037_2005.jpg
+images/11339_2005.jpg
+images/11310_2005.jpg
+images/12262_2005.jpg
+images/10690_2005.jpg
+images/12689_2005.jpg
+images/10577_2005.jpg
+images/12494_2005.jpg
+images/11526_2005.jpg
+images/10574_2005.jpg
+images/11271_2005.jpg
+images/12020_2005.jpg
+images/11304_2005.jpg
+images/12911_2005.jpg
+images/10684_2005.jpg
+images/11494_2005.jpg
+images/11033_2005.jpg
+images/12139_2005.jpg
+images/12168_2005.jpg
+images/12556_2005.jpg
+images/10743_2005.jpg
+images/12833_2005.jpg
+images/11872_2005.jpg
+images/10496_2005.jpg
+images/11191_2005.jpg
+images/13284_2005.jpg
+images/12000_2005.jpg
+images/12598_2005.jpg
+images/12772_2005.jpg
+images/11529_2005.jpg
+images/12093_2005.jpg
+images/10567_2005.jpg
+images/11595_2005.jpg
+images/11579_2005.jpg
+images/13390_2005.jpg
+images/12297_2005.jpg
+images/13350_2005.jpg
+images/11837_2005.jpg
+images/10472_2005.jpg
+images/11763_2005.jpg
+images/11892_2005.jpg
+images/12411_2005.jpg
+images/11968_2005.jpg
+images/10427_2005.jpg
+images/13137_2005.jpg
+images/11990_2005.jpg
+images/12294_2005.jpg
+images/10899_2005.jpg
+images/11987_2005.jpg
+images/10742_2005.jpg
+images/10543_2005.jpg
+images/11034_2005.jpg
+images/11095_2005.jpg
+images/12353_2005.jpg
+images/13251_2005.jpg
+images/10420_2005.jpg
+images/12927_2005.jpg
+images/12717_2005.jpg
+images/10868_2005.jpg
+images/10575_2005.jpg
+images/13333_2005.jpg
+images/12084_2005.jpg
+images/12368_2005.jpg
+images/10696_2005.jpg
+images/11675_2005.jpg
+images/12021_2005.jpg
+images/12594_2005.jpg
+images/11237_2005.jpg
+images/10554_2005.jpg
+images/12653_2005.jpg
+images/13369_2005.jpg
+images/10884_2005.jpg
+images/11900_2005.jpg
+images/10913_2005.jpg
+images/12169_2005.jpg
+images/11475_2005.jpg
+images/10586_2005.jpg
+images/12464_2005.jpg
+images/13376_2005.jpg
+images/10731_2005.jpg
+images/13012_2005.jpg
+images/11355_2005.jpg
+images/10627_2005.jpg
+images/11549_2005.jpg
+images/10840_2005.jpg
+images/10925_2005.jpg
+images/11441_2005.jpg
+images/12916_2005.jpg
+images/10490_2005.jpg
+images/12616_2005.jpg
+images/13069_2005.jpg
+images/10764_2005.jpg
+images/12949_2005.jpg
+images/10716_2005.jpg
+images/12001_2005.jpg
+images/10869_2005.jpg
+images/10936_2005.jpg
+images/12603_2005.jpg
+images/13378_2005.jpg
+images/11036_2005.jpg
+images/10692_2005.jpg
+images/11715_2005.jpg
+images/10720_2005.jpg
+images/12669_2005.jpg
+images/11190_2005.jpg
+images/13233_2005.jpg
+images/10714_2005.jpg
+images/11327_2005.jpg
+images/13270_2005.jpg
+images/12160_2005.jpg
+images/13391_2005.jpg
+images/10996_2005.jpg
+images/11748_2005.jpg
+images/10937_2005.jpg
+images/11745_2005.jpg
+images/12612_2005.jpg
+images/10723_2005.jpg
+images/12157_2005.jpg
+images/11780_2005.jpg
+images/10818_2005.jpg
+images/10557_2005.jpg
+images/11351_2005.jpg
+images/12124_2005.jpg
+images/12862_2005.jpg
+images/11398_2005.jpg
+images/13043_2005.jpg
+images/11508_2005.jpg
+images/13063_2005.jpg
+images/11111_2005.jpg
+images/13410_2005.jpg
+images/11802_2005.jpg
+images/11756_2005.jpg
+images/11478_2005.jpg
+images/12429_2005.jpg
+images/11533_2005.jpg
+images/13279_2005.jpg
+images/11124_2005.jpg
+images/11117_2005.jpg
+images/10851_2005.jpg
+images/10960_2005.jpg
+images/12203_2005.jpg
+images/11253_2005.jpg
+images/12599_2005.jpg
+images/12991_2005.jpg
+images/11012_2005.jpg
+images/11073_2005.jpg
+images/10774_2005.jpg
+images/10535_2005.jpg
+images/11730_2005.jpg
+images/10449_2005.jpg
+images/11116_2005.jpg
+images/11661_2005.jpg
+images/12049_2005.jpg
+images/11609_2005.jpg
+images/12791_2005.jpg
+images/11598_2005.jpg
+images/13156_2005.jpg
+images/13178_2005.jpg
+images/11586_2005.jpg
+images/10842_2005.jpg
+images/11438_2005.jpg
+images/12844_2005.jpg
+images/11211_2005.jpg
+images/11296_2005.jpg
+images/10979_2005.jpg
+images/13340_2005.jpg
+images/12946_2005.jpg
+images/12636_2005.jpg
+images/11868_2005.jpg
+images/13306_2005.jpg
+images/13297_2005.jpg
+images/11871_2005.jpg
+images/11977_2005.jpg
+images/10864_2005.jpg
+images/10657_2005.jpg
+images/12849_2005.jpg
+images/12497_2005.jpg
+images/11574_2005.jpg
+images/13116_2005.jpg
+images/11658_2005.jpg
+images/11857_2005.jpg
+images/11679_2005.jpg
+images/12741_2005.jpg
+images/11970_2005.jpg
+images/10916_2005.jpg
+images/13015_2005.jpg
+images/12031_2005.jpg
+images/13124_2005.jpg
+images/12742_2005.jpg
+images/12819_2005.jpg
+images/11404_2005.jpg
+images/12143_2005.jpg
+images/12072_2005.jpg
+images/13400_2005.jpg
+images/10857_2005.jpg
+images/12436_2005.jpg
+images/12480_2005.jpg
+images/10610_2005.jpg
+images/12872_2005.jpg
+images/11337_2005.jpg
+images/12281_2005.jpg
+images/11560_2005.jpg
+images/10744_2005.jpg
+images/11722_2005.jpg
+images/10830_2005.jpg
+images/12568_2005.jpg
+images/12424_2005.jpg
+images/10553_2005.jpg
+images/10781_2005.jpg
+images/12519_2005.jpg
+images/11003_2005.jpg
+images/11413_2005.jpg
+images/11156_2005.jpg
+images/11620_2005.jpg
+images/12118_2005.jpg
+images/11979_2005.jpg
+images/11539_2005.jpg
+images/12590_2005.jpg
+images/11860_2005.jpg
+images/11584_2005.jpg
+images/13408_2005.jpg
+images/12710_2005.jpg
+images/11712_2005.jpg
+images/11054_2005.jpg
+images/12008_2005.jpg
+images/11914_2005.jpg
+images/12929_2005.jpg
+images/11563_2005.jpg
+images/13300_2005.jpg
+images/12525_2005.jpg
+images/11396_2005.jpg
+images/13197_2005.jpg
+images/11643_2005.jpg
+images/11835_2005.jpg
+images/12652_2005.jpg
+images/13294_2005.jpg
+images/11074_2005.jpg
+images/11976_2005.jpg
+images/10570_2005.jpg
+images/12978_2005.jpg
+images/12462_2005.jpg
+images/13311_2005.jpg
+images/12971_2005.jpg
+images/10470_2005.jpg
+images/12897_2005.jpg
+images/10513_2005.jpg
+images/11096_2005.jpg
+images/10591_2005.jpg
+images/13123_2005.jpg
+images/11828_2005.jpg
+images/13080_2005.jpg
+images/12227_2005.jpg
+images/11503_2005.jpg
+images/12112_2005.jpg
+images/11457_2005.jpg
+images/11270_2005.jpg
+images/13293_2005.jpg
+images/12901_2005.jpg
+images/10448_2005.jpg
+images/12248_2005.jpg
+images/12709_2005.jpg
+images/12798_2005.jpg
+images/10728_2005.jpg
+images/12451_2005.jpg
+images/12189_2005.jpg
+images/13336_2005.jpg
+images/11348_2005.jpg
+images/12894_2005.jpg
+images/10753_2005.jpg
+images/10874_2005.jpg
+images/12950_2005.jpg
+images/11577_2005.jpg
+images/11649_2005.jpg
+images/10664_2005.jpg
+images/10442_2005.jpg
+images/12794_2005.jpg
+images/13148_2005.jpg
+images/12714_2005.jpg
+images/12302_2005.jpg
+images/11784_2005.jpg
+images/12561_2005.jpg
+images/12554_2005.jpg
+images/13073_2005.jpg
+images/11873_2005.jpg
+images/10810_2005.jpg
+images/10924_2005.jpg
+images/10705_2005.jpg
+images/12448_2005.jpg
+images/11862_2005.jpg
+images/12970_2005.jpg
+images/10534_2005.jpg
+images/13139_2005.jpg
+images/11359_2005.jpg
+images/11233_2005.jpg
+images/11046_2005.jpg
+images/10901_2005.jpg
+images/11133_2005.jpg
+images/11328_2005.jpg
+images/12245_2005.jpg
+images/11653_2005.jpg
+images/11787_2005.jpg
+images/11002_2005.jpg
+images/10666_2005.jpg
+images/12809_2005.jpg
+images/13189_2005.jpg
+images/11838_2005.jpg
+images/11265_2005.jpg
+images/12490_2005.jpg
+images/12708_2005.jpg
+images/12449_2005.jpg
+images/11088_2005.jpg
+images/13112_2005.jpg
+images/10651_2005.jpg
+images/11565_2005.jpg
+images/12728_2005.jpg
+images/11901_2005.jpg
+images/12254_2005.jpg
+images/10484_2005.jpg
+images/11507_2005.jpg
+images/10612_2005.jpg
+images/12356_2005.jpg
+images/13243_2005.jpg
+images/13245_2005.jpg
+images/10613_2005.jpg
+images/12642_2005.jpg
+images/12654_2005.jpg
+images/11789_2005.jpg
+images/11060_2005.jpg
+images/10801_2005.jpg
+images/11766_2005.jpg
+images/12587_2005.jpg
+images/12996_2005.jpg
+images/12408_2005.jpg
+images/12816_2005.jpg
+images/12412_2005.jpg
+images/12967_2005.jpg
+images/12309_2005.jpg
+images/13052_2005.jpg
+images/11825_2005.jpg
+images/12503_2005.jpg
+images/11280_2005.jpg
+images/10476_2005.jpg
+images/12275_2005.jpg
+images/12186_2005.jpg
+images/10904_2005.jpg
+images/11633_2005.jpg
+images/11708_2005.jpg
+images/11389_2005.jpg
+images/11676_2005.jpg
+images/11740_2005.jpg
+images/13395_2005.jpg
+images/11043_2005.jpg
+images/10994_2005.jpg
+images/12362_2005.jpg
+images/13321_2005.jpg
+images/12207_2005.jpg
+images/11685_2005.jpg
+images/11031_2005.jpg
+images/10482_2005.jpg
+images/12333_2005.jpg
+images/13203_2005.jpg
+images/11564_2005.jpg
+images/12780_2005.jpg
+images/11171_2005.jpg
+images/12928_2005.jpg
+images/12438_2005.jpg
+images/11179_2005.jpg
+images/10987_2005.jpg
+images/12229_2005.jpg
+images/12182_2005.jpg
+images/12202_2005.jpg
+images/12676_2005.jpg
+images/12104_2005.jpg
+images/11268_2005.jpg
+images/11655_2005.jpg
+images/11235_2005.jpg
+images/12183_2005.jpg
+images/10831_2005.jpg
+images/11594_2005.jpg
+images/11709_2005.jpg
+images/12450_2005.jpg
+images/12657_2005.jpg
+images/12931_2005.jpg
+images/10546_2005.jpg
+images/10628_2005.jpg
+images/11299_2005.jpg
+images/11415_2005.jpg
+images/13272_2005.jpg
+images/12871_2005.jpg
+images/12697_2005.jpg
+images/11656_2005.jpg
+images/13075_2005.jpg
+images/12194_2005.jpg
+images/12909_2005.jpg
+images/11693_2005.jpg
+images/13159_2005.jpg
+images/11984_2005.jpg
+images/12135_2005.jpg
+images/12128_2005.jpg
+images/12932_2005.jpg
+images/11049_2005.jpg
+images/10435_2005.jpg
+images/10698_2005.jpg
+images/10601_2005.jpg
+images/13371_2005.jpg
+images/11929_2005.jpg
+images/11450_2005.jpg
+images/12256_2005.jpg
+images/10629_2005.jpg
+images/13409_2005.jpg
+images/13258_2005.jpg
+images/12865_2005.jpg
+images/12088_2005.jpg
+images/10881_2005.jpg
+images/11922_2005.jpg
+images/13051_2005.jpg
+images/12961_2005.jpg
+images/12204_2005.jpg
+images/12208_2005.jpg
+images/10963_2005.jpg
+images/13014_2005.jpg
+images/11334_2005.jpg
+images/11496_2005.jpg
+images/11548_2005.jpg
+images/12109_2005.jpg
+images/11801_2005.jpg
+images/11635_2005.jpg
+images/12327_2005.jpg
+images/11005_2005.jpg
+images/12563_2005.jpg
+images/11368_2005.jpg
+images/11063_2005.jpg
+images/11545_2005.jpg
+images/11694_2005.jpg
+images/12243_2005.jpg
+images/12512_2005.jpg
+images/13008_2005.jpg
+images/13160_2005.jpg
+images/13290_2005.jpg
+images/11673_2005.jpg
+images/11509_2005.jpg
+images/10795_2005.jpg
+images/11089_2005.jpg
+images/11903_2005.jpg
+images/13312_2005.jpg
+images/12979_2005.jpg
+images/12024_2005.jpg
+images/13064_2005.jpg
+images/10766_2005.jpg
+images/10849_2005.jpg
+images/10641_2005.jpg
+images/10771_2005.jpg
+images/12140_2005.jpg
+images/10918_2005.jpg
+images/11631_2005.jpg
+images/11180_2005.jpg
+images/13150_2005.jpg
+images/12625_2005.jpg
+images/11931_2005.jpg
+images/10645_2005.jpg
+images/12923_2005.jpg
+images/11538_2005.jpg
+images/11485_2005.jpg
+images/10433_2005.jpg
+images/11636_2005.jpg
+images/10527_2005.jpg
+images/13050_2005.jpg
+images/12067_2005.jpg
+images/13103_2005.jpg
+images/10812_2005.jpg
+images/11966_2005.jpg
+images/11298_2005.jpg
+images/12687_2005.jpg
+images/11376_2005.jpg
+images/13144_2005.jpg
+images/12132_2005.jpg
+images/10583_2005.jpg
+images/12159_2005.jpg
+images/12279_2005.jpg
+images/11846_2005.jpg
+images/11263_2005.jpg
+images/10853_2005.jpg
+images/11315_2005.jpg
+images/12679_2005.jpg
+images/12989_2005.jpg
+images/11370_2005.jpg
+images/11808_2005.jpg
+images/12705_2005.jpg
+images/12341_2005.jpg
+images/13179_2005.jpg
+images/13404_2005.jpg
+images/11091_2005.jpg
+images/11657_2005.jpg
+images/11511_2005.jpg
+images/11167_2005.jpg
+images/12400_2005.jpg
+images/10676_2005.jpg
+images/10833_2005.jpg
+images/12740_2005.jpg
+images/10747_2005.jpg
+images/12094_2005.jpg
+images/10876_2005.jpg
+images/13226_2005.jpg
+images/11727_2005.jpg
+images/13121_2005.jpg
+images/13155_2005.jpg
+images/11885_2005.jpg
+images/11588_2005.jpg
+images/13128_2005.jpg
+images/12345_2005.jpg
+images/12778_2005.jpg
+images/13136_2005.jpg
+images/12200_2005.jpg
+images/12015_2005.jpg
+images/10726_2005.jpg
+images/10474_2005.jpg
+images/11356_2005.jpg
+images/13185_2005.jpg
+images/11103_2005.jpg
+images/10861_2005.jpg
+images/12052_2005.jpg
+images/13273_2005.jpg
+images/12056_2005.jpg
+images/12146_2005.jpg
+images/11175_2005.jpg
+images/10777_2005.jpg
+images/11390_2005.jpg
+images/11659_2005.jpg
+images/10814_2005.jpg
+images/11236_2005.jpg
+images/10986_2005.jpg
+images/11604_2005.jpg
+images/12228_2005.jpg
+images/12899_2005.jpg
+images/12379_2005.jpg
+images/11338_2005.jpg
+images/12659_2005.jpg
+images/12058_2005.jpg
+images/11455_2005.jpg
+images/12198_2005.jpg
+images/13166_2005.jpg
+images/13354_2005.jpg
+images/12903_2005.jpg
+images/12447_2005.jpg
+images/10605_2005.jpg
+images/11443_2005.jpg
+images/12812_2005.jpg
+images/12389_2005.jpg
+images/10471_2005.jpg
+images/10998_2005.jpg
+images/10434_2005.jpg
+images/12918_2005.jpg
+images/13263_2005.jpg
+images/12181_2005.jpg
+images/11605_2005.jpg
+images/13357_2005.jpg
+images/12388_2005.jpg
+images/11459_2005.jpg
+images/11375_2005.jpg
+images/12471_2005.jpg
+images/12472_2005.jpg
+images/13072_2005.jpg
+images/13113_2005.jpg
+images/13285_2005.jpg
+images/12170_2005.jpg
+images/11550_2005.jpg
+images/11992_2005.jpg
+images/11980_2005.jpg
+images/11589_2005.jpg
+images/10688_2005.jpg
+images/12986_2005.jpg
+images/13341_2005.jpg
+images/12126_2005.jpg
+images/11070_2005.jpg
+images/10956_2005.jpg
+images/10559_2005.jpg
+images/11940_2005.jpg
+images/10423_2005.jpg
+images/10895_2005.jpg
+images/13032_2005.jpg
+images/13282_2005.jpg
+images/12925_2005.jpg
+images/11458_2005.jpg
+images/10467_2005.jpg
+images/12373_2005.jpg
+images/12879_2005.jpg
+images/10706_2005.jpg
+images/10480_2005.jpg
+images/10630_2005.jpg
+images/11733_2005.jpg
+images/11448_2005.jpg
+images/12478_2005.jpg
+images/12171_2005.jpg
+images/10639_2005.jpg
+images/10508_2005.jpg
+images/11516_2005.jpg
+images/12808_2005.jpg
+images/12795_2005.jpg
+images/11779_2005.jpg
+images/12888_2005.jpg
+images/11212_2005.jpg
+images/10620_2005.jpg
+images/12323_2005.jpg
+images/10838_2005.jpg
+images/10827_2005.jpg
+images/13147_2005.jpg
+images/12960_2005.jpg
+images/11284_2005.jpg
+images/11731_2005.jpg
+images/11030_2005.jpg
+images/11243_2005.jpg
+images/10985_2005.jpg
+images/11721_2005.jpg
+images/12430_2005.jpg
+images/11705_2005.jpg
+images/11852_2005.jpg
+images/12394_2005.jpg
+images/12259_2005.jpg
+images/11463_2005.jpg
+images/10953_2005.jpg
+images/13310_2005.jpg
+images/12934_2005.jpg
+images/10503_2005.jpg
+images/11728_2005.jpg
+images/11353_2005.jpg
+images/11418_2005.jpg
+images/12663_2005.jpg
+images/12534_2005.jpg
+images/11601_2005.jpg
+images/11747_2005.jpg
+images/11603_2005.jpg
+images/13132_2005.jpg
+images/12385_2005.jpg
+images/11189_2005.jpg
+images/10497_2005.jpg
+images/13337_2005.jpg
+images/11416_2005.jpg
+images/13202_2005.jpg
+images/13330_2005.jpg
+images/12530_2005.jpg
+images/10616_2005.jpg
+images/12419_2005.jpg
+images/12609_2005.jpg
+images/11311_2005.jpg
+images/12223_2005.jpg
+images/11819_2005.jpg
+images/12601_2005.jpg
+images/10784_2005.jpg
+images/11209_2005.jpg
+images/10643_2005.jpg
+images/13025_2005.jpg
+images/10608_2005.jpg
+images/10988_2005.jpg
+images/11322_2005.jpg
+images/12797_2005.jpg
+images/11917_2005.jpg
+images/12247_2005.jpg
+images/12230_2005.jpg
+images/12913_2005.jpg
+images/13070_2005.jpg
+images/10501_2005.jpg
+images/11639_2005.jpg
+images/11566_2005.jpg
+images/11387_2005.jpg
+images/12164_2005.jpg
+images/12375_2005.jpg
+images/12486_2005.jpg
+images/11266_2005.jpg
+images/12483_2005.jpg
+images/12859_2005.jpg
+images/13119_2005.jpg
+images/13163_2005.jpg
+images/11208_2005.jpg
+images/12864_2005.jpg
+images/12063_2005.jpg
+images/11762_2005.jpg
+images/11898_2005.jpg
+images/13098_2005.jpg
+images/12167_2005.jpg
+images/12684_2005.jpg
+images/10852_2005.jpg
+images/12787_2005.jpg
+images/10538_2005.jpg
+images/11512_2005.jpg
+images/12085_2005.jpg
+images/13241_2005.jpg
+images/11670_2005.jpg
+images/11360_2005.jpg
+images/11127_2005.jpg
+images/10526_2005.jpg
+images/12873_2005.jpg
+images/11099_2005.jpg
+images/11989_2005.jpg
+images/11988_2005.jpg
+images/12766_2005.jpg
+images/11523_2005.jpg
+images/13415_2005.jpg
+images/10525_2005.jpg
+images/12016_2005.jpg
+images/11817_2005.jpg
+images/12027_2005.jpg
+images/11723_2005.jpg
+images/12261_2005.jpg
+images/12645_2005.jpg
+images/11821_2005.jpg
+images/13004_2005.jpg
+images/12119_2005.jpg
+images/12466_2005.jpg
+images/12834_2005.jpg
+images/13242_2005.jpg
+images/11959_2005.jpg
+images/12627_2005.jpg
+images/11513_2005.jpg
+images/10836_2005.jpg
+images/10772_2005.jpg
+images/11840_2005.jpg
+images/11249_2005.jpg
+images/10693_2005.jpg
+images/12306_2005.jpg
+images/13099_2005.jpg
+images/10893_2005.jpg
+images/12522_2005.jpg
+images/11290_2005.jpg
+images/13194_2005.jpg
+images/12721_2005.jpg
+images/10498_2005.jpg
+images/11168_2005.jpg
+images/13115_2005.jpg
+images/10681_2005.jpg
+images/11241_2005.jpg
+images/13298_2005.jpg
+images/11200_2005.jpg
+images/12317_2005.jpg
+images/10897_2005.jpg
+images/11905_2005.jpg
+images/11162_2005.jpg
+images/10560_2005.jpg
+images/12380_2005.jpg
+images/13039_2005.jpg
+images/11144_2005.jpg
+images/11856_2005.jpg
+images/13385_2005.jpg
+images/12966_2005.jpg
+images/12959_2005.jpg
+images/11294_2005.jpg
+images/12299_2005.jpg
+images/12588_2005.jpg
+images/11754_2005.jpg
+images/12532_2005.jpg
+images/10695_2005.jpg
+images/10735_2005.jpg
+images/13087_2005.jpg
+images/12930_2005.jpg
+images/12711_2005.jpg
+images/12437_2005.jpg
+images/10598_2005.jpg
+images/11312_2005.jpg
+images/13289_2005.jpg
+images/11677_2005.jpg
+images/12396_2005.jpg
+images/12968_2005.jpg
+images/11945_2005.jpg
+images/10792_2005.jpg
+images/10694_2005.jpg
+images/11691_2005.jpg
+images/12076_2005.jpg
+images/12452_2005.jpg
+images/12042_2005.jpg
+images/11223_2005.jpg
+images/10856_2005.jpg
+images/10547_2005.jpg
+images/11292_2005.jpg
+images/12246_2005.jpg
+images/12192_2005.jpg
+images/12922_2005.jpg
+images/11121_2005.jpg
+images/11706_2005.jpg
+images/12789_2005.jpg
+images/11769_2005.jpg
+images/11456_2005.jpg
+images/12502_2005.jpg
+images/13224_2005.jpg
+images/10422_2005.jpg
+images/13190_2005.jpg
+images/11106_2005.jpg
+images/10550_2005.jpg
+images/12620_2005.jpg
+images/10658_2005.jpg
+images/11192_2005.jpg
+images/10724_2005.jpg
+images/13061_2005.jpg
+images/12115_2005.jpg
+images/12238_2005.jpg
+images/11472_2005.jpg
+images/11041_2005.jpg
+images/11596_2005.jpg
+images/11696_2005.jpg
+images/13406_2005.jpg
+images/13133_2005.jpg
+images/12907_2005.jpg
+images/10783_2005.jpg
+images/11330_2005.jpg
+images/10646_2005.jpg
+images/11101_2005.jpg
+images/12507_2005.jpg
+images/10977_2005.jpg
+images/13096_2005.jpg
+images/11140_2005.jpg
+images/12272_2005.jpg
+images/10787_2005.jpg
+images/11384_2005.jpg
+images/10717_2005.jpg
+images/11214_2005.jpg
+images/11325_2005.jpg
+images/12781_2005.jpg
+images/11366_2005.jpg
+images/13379_2005.jpg
+images/12748_2005.jpg
+images/11569_2005.jpg
+images/11622_2005.jpg
+images/10796_2005.jpg
+images/12761_2005.jpg
+images/10556_2005.jpg
+images/11599_2005.jpg
+images/10837_2005.jpg
+images/12175_2005.jpg
+images/10989_2005.jpg
+images/12681_2005.jpg
+images/13191_2005.jpg
+images/13036_2005.jpg
+images/13146_2005.jpg
+images/11537_2005.jpg
+images/13254_2005.jpg
+images/13380_2005.jpg
+images/11899_2005.jpg
+images/10908_2005.jpg
+images/11403_2005.jpg
+images/11765_2005.jpg
+images/13353_2005.jpg
+images/12133_2005.jpg
+images/10779_2005.jpg
+images/12555_2005.jpg
+images/11395_2005.jpg
+images/12012_2005.jpg
+images/11582_2005.jpg
+images/12543_2005.jpg
+images/12476_2005.jpg
+images/11423_2005.jpg
+images/11758_2005.jpg
+images/12090_2005.jpg
+images/13151_2005.jpg
+images/10642_2005.jpg
+images/10862_2005.jpg
+images/13062_2005.jpg
+images/11085_2005.jpg
+images/12767_2005.jpg
+images/11488_2005.jpg
+images/11414_2005.jpg
+images/11928_2005.jpg
+images/12376_2005.jpg
+images/10954_2005.jpg
+images/12815_2005.jpg
+images/11557_2005.jpg
+images/12265_2005.jpg
+images/11785_2005.jpg
+images/12431_2005.jpg
+images/11286_2005.jpg
+images/12887_2005.jpg
+images/10789_2005.jpg
+images/11114_2005.jpg
+images/11020_2005.jpg
+images/13414_2005.jpg
+images/13017_2005.jpg
+images/13361_2005.jpg
+images/11016_2005.jpg
+images/13183_2005.jpg
+images/12792_2005.jpg
+images/12378_2005.jpg
+images/11803_2005.jpg
+images/13120_2005.jpg
+images/10589_2005.jpg
+images/12053_2005.jpg
+images/12734_2005.jpg
+images/11183_2005.jpg
+images/11591_2005.jpg
+images/12329_2005.jpg
+images/11476_2005.jpg
+images/13024_2005.jpg
+images/10950_2005.jpg
+images/11435_2005.jpg
+images/10638_2005.jpg
+images/10600_2005.jpg
+images/12360_2005.jpg
+images/12426_2005.jpg
+images/12650_2005.jpg
+images/12319_2005.jpg
+images/13274_2005.jpg
+images/11347_2005.jpg
+images/11875_2005.jpg
+images/11097_2005.jpg
+images/13213_2005.jpg
+images/13287_2005.jpg
+images/12258_2005.jpg
+images/12551_2005.jpg
+images/11971_2005.jpg
+images/12316_2005.jpg
+images/12311_2005.jpg
+images/10790_2005.jpg
+images/10571_2005.jpg
+images/11198_2005.jpg
+images/11069_2005.jpg
+images/12965_2005.jpg
+images/11220_2005.jpg
+images/12577_2005.jpg
+images/11118_2005.jpg
+images/11915_2005.jpg
+images/11419_2005.jpg
+images/12269_2005.jpg
+images/13407_2005.jpg
+images/10426_2005.jpg
+images/12046_2005.jpg
+images/11027_2005.jpg
+images/13134_2005.jpg
+images/11991_2005.jpg
+images/12445_2005.jpg
+images/11746_2005.jpg
+images/12231_2005.jpg
+images/12837_2005.jpg
+images/11671_2005.jpg
+images/11623_2005.jpg
+images/12212_2005.jpg
+images/12860_2005.jpg
+images/12459_2005.jpg
+images/11562_2005.jpg
+images/12080_2005.jpg
+images/11994_2005.jpg
+images/12878_2005.jpg
+images/11684_2005.jpg
+images/13256_2005.jpg
+images/12565_2005.jpg
+images/13198_2005.jpg
+images/12011_2005.jpg
+images/12529_2005.jpg
+images/12070_2005.jpg
+images/10509_2005.jpg
+images/10504_2005.jpg
+images/13016_2005.jpg
+images/12335_2005.jpg
+images/12867_2005.jpg
+images/13152_2005.jpg
+images/11084_2005.jpg
+images/10654_2005.jpg
+images/11275_2005.jpg
+images/10618_2005.jpg
+images/12667_2005.jpg
+images/10607_2005.jpg
+images/12315_2005.jpg
+images/10624_2005.jpg
+images/11920_2005.jpg
+images/11773_2005.jpg
+images/11627_2005.jpg
+images/11611_2005.jpg
+images/11818_2005.jpg
+images/10813_2005.jpg
+images/10794_2005.jpg
+images/13122_2005.jpg
+images/12403_2005.jpg
+images/10887_2005.jpg
+images/10469_2005.jpg
+images/11831_2005.jpg
+images/11058_2005.jpg
+images/11585_2005.jpg
+images/10495_2005.jpg
+images/11135_2005.jpg
+images/10978_2005.jpg
+images/10709_2005.jpg
+images/12921_2005.jpg
+images/12591_2005.jpg
+images/12623_2005.jpg
+images/10531_2005.jpg
+images/11163_2005.jpg
+images/13220_2005.jpg
+images/10590_2005.jpg
+images/12969_2005.jpg
+images/12584_2005.jpg
+images/13181_2005.jpg
+images/11581_2005.jpg
+images/10807_2005.jpg
+images/11790_2005.jpg
+images/13269_2005.jpg
+images/11451_2005.jpg
+images/10767_2005.jpg
+images/11724_2005.jpg
+images/12775_2005.jpg
+images/12845_2005.jpg
+images/10968_2005.jpg
+images/10817_2005.jpg
+images/12047_2005.jpg
+images/12517_2005.jpg
+images/11385_2005.jpg
+images/12785_2005.jpg
+images/11308_2005.jpg
+images/13100_2005.jpg
+images/12832_2005.jpg
+images/12672_2005.jpg
+images/12044_2005.jpg
+images/13308_2005.jpg
+images/11247_2005.jpg
+images/12201_2005.jpg
+images/11783_2005.jpg
+images/11394_2005.jpg
+images/10729_2005.jpg
+images/13405_2005.jpg
+images/11257_2005.jpg
+images/11843_2005.jpg
+images/13396_2005.jpg
+images/11279_2005.jpg
+images/10660_2005.jpg
+images/12722_2005.jpg
+images/11227_2005.jpg
+images/12863_2005.jpg
+images/12196_2005.jpg
+images/13175_2005.jpg
+images/12637_2005.jpg
+images/13304_2005.jpg
+images/13394_2005.jpg
+images/11344_2005.jpg
+images/12221_2005.jpg
+images/11207_2005.jpg
+images/12730_2005.jpg
+images/11481_2005.jpg
+images/12509_2005.jpg
+images/11889_2005.jpg
+images/11642_2005.jpg
+images/12975_2005.jpg
+images/10933_2005.jpg
+images/10931_2005.jpg
+images/12671_2005.jpg
+images/10511_2005.jpg
+images/12465_2005.jpg
+images/11617_2005.jpg
+images/11453_2005.jpg
+images/11150_2005.jpg
+images/11429_2005.jpg
+images/11493_2005.jpg
+images/13416_2005.jpg
+images/12898_2005.jpg
+images/12538_2005.jpg
+images/11391_2005.jpg
+images/13110_2005.jpg
+images/12749_2005.jpg
+images/12127_2005.jpg
+images/11641_2005.jpg
+images/10757_2005.jpg
+images/11287_2005.jpg
+images/13359_2005.jpg
+images/12100_2005.jpg
+images/11000_2005.jpg
+images/10739_2005.jpg
+images/12856_2005.jpg
+images/12589_2005.jpg
+images/10704_2005.jpg
+images/10808_2005.jpg
+images/11139_2005.jpg
+images/12624_2005.jpg
+images/11823_2005.jpg
+images/10875_2005.jpg
+images/10458_2005.jpg
+images/12121_2005.jpg
+images/11080_2005.jpg
+images/12048_2005.jpg
+images/12010_2005.jpg
+images/13244_2005.jpg
+images/10959_2005.jpg
+images/10418_2005.jpg
+images/12707_2005.jpg
+images/10847_2005.jpg
+images/11735_2005.jpg
+images/11291_2005.jpg
+images/11090_2005.jpg
+images/11222_2005.jpg
+images/11044_2005.jpg
+images/13302_2005.jpg
+images/13031_2005.jpg
+images/11667_2005.jpg
+images/10935_2005.jpg
+images/13403_2005.jpg
+images/12889_2005.jpg
+images/11346_2005.jpg
+images/11911_2005.jpg
+images/10736_2005.jpg
+images/13000_2005.jpg
+images/11059_2005.jpg
+images/11816_2005.jpg
+images/11742_2005.jpg
+images/12737_2005.jpg
+images/10955_2005.jpg
+images/11672_2005.jpg
+images/11318_2005.jpg
+images/11232_2005.jpg
+images/13252_2005.jpg
+images/11017_2005.jpg
+images/12757_2005.jpg
+images/12310_2005.jpg
+images/11767_2005.jpg
+images/12295_2005.jpg
+images/11119_2005.jpg
+images/11999_2005.jpg
+images/13367_2005.jpg
+images/12936_2005.jpg
+images/10595_2005.jpg
+images/11518_2005.jpg
+images/11882_2005.jpg
+images/12409_2005.jpg
+images/13058_2005.jpg
+images/12945_2005.jpg
+images/12510_2005.jpg
+images/10785_2005.jpg
+images/12239_2005.jpg
+images/12613_2005.jpg
+images/13238_2005.jpg
+images/11042_2005.jpg
+images/11910_2005.jpg
+images/10683_2005.jpg
+images/12631_2005.jpg
+images/12019_2005.jpg
+images/10870_2005.jpg
+images/13188_2005.jpg
+images/13127_2005.jpg
+images/12553_2005.jpg
+images/11919_2005.jpg
+images/12342_2005.jpg
+images/10995_2005.jpg
+images/13204_2005.jpg
+images/13083_2005.jpg
+images/10778_2005.jpg
+images/11937_2005.jpg
+images/11373_2005.jpg
+images/12165_2005.jpg
+images/11555_2005.jpg
+images/11277_2005.jpg
+images/10491_2005.jpg
+images/12962_2005.jpg
+images/11331_2005.jpg
+images/12499_2005.jpg
+images/12381_2005.jpg
+images/10712_2005.jpg
+images/11369_2005.jpg
+images/13207_2005.jpg
+images/11975_2005.jpg
+images/12496_2005.jpg
+images/11771_2005.jpg
+images/11149_2005.jpg
+images/11246_2005.jpg
+images/10626_2005.jpg
+images/12377_2005.jpg
+images/12573_2005.jpg
+images/10456_2005.jpg
+images/10974_2005.jpg
+images/10530_2005.jpg
+images/13157_2005.jpg
+images/13401_2005.jpg
+images/10889_2005.jpg
+images/11479_2005.jpg
+images/10419_2005.jpg
+images/12824_2005.jpg
+images/11703_2005.jpg
+images/12716_2005.jpg
+images/12600_2005.jpg
+images/11522_2005.jpg
+images/12233_2005.jpg
+images/11468_2005.jpg
+images/11936_2005.jpg
+images/10722_2005.jpg
+images/11436_2005.jpg
+images/12337_2005.jpg
+images/10632_2005.jpg
+images/12387_2005.jpg
+images/11958_2005.jpg
+images/10946_2005.jpg
+images/12359_2005.jpg
+images/13149_2005.jpg
+images/10751_2005.jpg
+images/11480_2005.jpg
+images/13078_2005.jpg
+images/13060_2005.jpg
+images/10745_2005.jpg
+images/10532_2005.jpg
+images/12692_2005.jpg
+images/12990_2005.jpg
+images/13162_2005.jpg
+images/12956_2005.jpg
+images/11362_2005.jpg
+images/12107_2005.jpg
+images/13393_2005.jpg
+images/10923_2005.jpg
+images/10786_2005.jpg
+images/13419_2005.jpg
+images/10797_2005.jpg
+images/12331_2005.jpg
+images/12355_2005.jpg
+images/12848_2005.jpg
+images/12552_2005.jpg
+images/11870_2005.jpg
+images/11300_2005.jpg
+images/11358_2005.jpg
+images/10898_2005.jpg
+images/11535_2005.jpg
+images/13071_2005.jpg
+images/11568_2005.jpg
+images/10964_2005.jpg
+images/11732_2005.jpg
+images/11372_2005.jpg
+images/11855_2005.jpg
+images/12536_2005.jpg
+images/11053_2005.jpg
+images/11047_2005.jpg
+images/12114_2005.jpg
+images/11652_2005.jpg
+images/12952_2005.jpg
+images/13318_2005.jpg
+images/10841_2005.jpg
+images/11013_2005.jpg
+images/12276_2005.jpg
+images/12943_2005.jpg
+images/11187_2005.jpg
+images/12106_2005.jpg
+images/10473_2005.jpg
+images/11532_2005.jpg
+images/10649_2005.jpg
+images/12030_2005.jpg
+images/10780_2005.jpg
+images/10625_2005.jpg
+images/12576_2005.jpg
+images/12154_2005.jpg
+images/10569_2005.jpg
+images/12023_2005.jpg
+images/11202_2005.jpg
+images/11798_2005.jpg
+images/11814_2005.jpg
+images/12282_2005.jpg
+images/12488_2005.jpg
+images/12321_2005.jpg
+images/12817_2005.jpg
+images/11489_2005.jpg
+images/11281_2005.jpg
+images/10879_2005.jpg
+images/13066_2005.jpg
+images/13253_2005.jpg
+images/11028_2005.jpg
+images/10593_2005.jpg
+images/13105_2005.jpg
+images/10514_2005.jpg
+images/10802_2005.jpg
+images/11942_2005.jpg
+images/12547_2005.jpg
+images/10909_2005.jpg
+images/11521_2005.jpg
+images/11201_2005.jpg
+images/11628_2005.jpg
+images/10502_2005.jpg
+images/10820_2005.jpg
+images/13038_2005.jpg
+images/13239_2005.jpg
+images/12350_2005.jpg
+images/10811_2005.jpg
+images/10686_2005.jpg
+images/12521_2005.jpg
+images/12386_2005.jpg
+images/11051_2005.jpg
+images/11409_2005.jpg
+images/13417_2005.jpg
+images/11662_2005.jpg
+images/12908_2005.jpg
+images/12664_2005.jpg
+images/13093_2005.jpg
+images/12219_2005.jpg
+images/12755_2005.jpg
+images/12884_2005.jpg
+images/12103_2005.jpg
+images/12793_2005.jpg
+images/11186_2005.jpg
+images/12055_2005.jpg
+images/11813_2005.jpg
+images/11288_2005.jpg
+images/10756_2005.jpg
+images/11647_2005.jpg
+images/12821_2005.jpg
+images/12801_2005.jpg
+images/13307_2005.jpg
+images/12149_2005.jpg
+images/13007_2005.jpg
+images/13011_2005.jpg
+images/11510_2005.jpg
+images/12796_2005.jpg
+images/10962_2005.jpg
+images/10761_2005.jpg
+images/11066_2005.jpg
+images/12806_2005.jpg
+images/12087_2005.jpg
+images/11500_2005.jpg
+images/12071_2005.jpg
+images/11887_2005.jpg
+images/12348_2005.jpg
+images/12213_2005.jpg
+images/12831_2005.jpg
+images/13381_2005.jpg
+images/10883_2005.jpg
+images/11221_2005.jpg
+images/11556_2005.jpg
+images/10528_2005.jpg
+images/11874_2005.jpg
+images/11796_2005.jpg
+images/10982_2005.jpg
+images/13303_2005.jpg
+images/12498_2005.jpg
+images/10644_2005.jpg
+images/13334_2005.jpg
+images/11400_2005.jpg
+images/11273_2005.jpg
+images/12156_2005.jpg
+images/12732_2005.jpg
+images/10429_2005.jpg
+images/13077_2005.jpg
+images/13097_2005.jpg
+images/13010_2005.jpg
+images/11147_2005.jpg
+images/12318_2005.jpg
+images/11517_2005.jpg
+images/12575_2005.jpg
+images/11216_2005.jpg
+images/10475_2005.jpg
+images/12041_2005.jpg
+images/12595_2005.jpg
+images/10580_2005.jpg
+images/12998_2005.jpg
+images/12641_2005.jpg
+images/10548_2005.jpg
+images/12511_2005.jpg
+images/12656_2005.jpg
+images/11839_2005.jpg
+images/12417_2005.jpg
+images/13212_2005.jpg
+images/11700_2005.jpg
+images/13377_2005.jpg
+images/11303_2005.jpg
+images/12972_2005.jpg
+images/11465_2005.jpg
+images/12744_2005.jpg
+images/12226_2005.jpg
+images/11711_2005.jpg
+images/13001_2005.jpg
+images/12211_2005.jpg
+images/10765_2005.jpg
+images/11062_2005.jpg
+images/12460_2005.jpg
+images/12571_2005.jpg
+images/12285_2005.jpg
+images/12822_2005.jpg
+images/12410_2005.jpg
+images/10516_2005.jpg
+images/11256_2005.jpg
+images/11032_2005.jpg
+images/11624_2005.jpg
+images/11242_2005.jpg
+images/13288_2005.jpg
+images/12745_2005.jpg
+images/13366_2005.jpg
+images/10740_2005.jpg
+images/11997_2005.jpg
+images/12828_2005.jpg
+images/12456_2005.jpg
+images/13364_2005.jpg
+images/13264_2005.jpg
+images/12994_2005.jpg
+images/13296_2005.jpg
+images/13236_2005.jpg
+images/11674_2005.jpg
+images/11824_2005.jpg
+images/12920_2005.jpg
+images/12240_2005.jpg
+images/12683_2005.jpg
+images/11981_2005.jpg
+images/12826_2005.jpg
+images/13402_2005.jpg
+images/13205_2005.jpg
+images/12038_2005.jpg
+images/12446_2005.jpg
+images/12206_2005.jpg
+images/10699_2005.jpg
+images/11434_2005.jpg
+images/10687_2005.jpg
+images/11944_2005.jpg
+images/12148_2005.jpg
+images/12382_2005.jpg
+images/10760_2005.jpg
+images/11497_2005.jpg
+images/11486_2005.jpg
+images/13184_2005.jpg
+images/11204_2005.jpg
+images/13316_2005.jpg
+images/10939_2005.jpg
+images/12485_2005.jpg
+images/10656_2005.jpg
+images/12215_2005.jpg
+images/11935_2005.jpg
+images/10582_2005.jpg
+images/11006_2005.jpg
+images/10520_2005.jpg
+images/10727_2005.jpg
+images/10453_2005.jpg
+images/12892_2005.jpg
+images/10461_2005.jpg
+images/13089_2005.jpg
+images/12479_2005.jpg
+images/10485_2005.jpg
+images/12776_2005.jpg
+images/11426_2005.jpg
+images/13003_2005.jpg
+images/12866_2005.jpg
+images/11482_2005.jpg
+images/10763_2005.jpg
+images/12533_2005.jpg
+images/11689_2005.jpg
+images/13074_2005.jpg
+images/11445_2005.jpg
+images/12473_2005.jpg
+images/11153_2005.jpg
+images/13106_2005.jpg
+images/13286_2005.jpg
+images/11057_2005.jpg
+images/11953_2005.jpg
+images/11264_2005.jpg
+images/11866_2005.jpg
+images/11571_2005.jpg
+images/11912_2005.jpg
+images/12383_2005.jpg
+images/10617_2005.jpg
+images/10952_2005.jpg
+images/13117_2005.jpg
+images/10755_2005.jpg
+images/12619_2005.jpg
+images/12158_2005.jpg
+images/13324_2005.jpg
+images/11038_2005.jpg
+images/10481_2005.jpg
+images/11317_2005.jpg
+images/11777_2005.jpg
+images/10902_2005.jpg
+images/10541_2005.jpg
+images/11854_2005.jpg
+images/10800_2005.jpg
+images/12700_2005.jpg
+images/11238_2005.jpg
+images/13319_2005.jpg
+images/12314_2005.jpg
+images/12277_2005.jpg
+images/12954_2005.jpg
+images/11815_2005.jpg
+images/13055_2005.jpg
+images/12759_2005.jpg
+images/11323_2005.jpg
+images/11076_2005.jpg
+images/10981_2005.jpg
+images/10951_2005.jpg
+images/10703_2005.jpg
+images/12172_2005.jpg
+images/12444_2005.jpg
+images/12773_2005.jpg
+images/11109_2005.jpg
+images/11487_2005.jpg
+images/11811_2005.jpg
+images/12029_2005.jpg
+images/13325_2005.jpg
+images/10443_2005.jpg
+images/13048_2005.jpg
+images/12540_2005.jpg
+images/12957_2005.jpg
+images/12818_2005.jpg
+images/10850_2005.jpg
+images/10653_2005.jpg
+images/12073_2005.jpg
+images/12066_2005.jpg
+images/13368_2005.jpg
+images/12751_2005.jpg
+images/10487_2005.jpg
+images/12244_2005.jpg
+images/11878_2005.jpg
+images/10707_2005.jpg
+images/10900_2005.jpg
+images/10848_2005.jpg
+images/12572_2005.jpg
+images/11021_2005.jpg
+images/12542_2005.jpg
+images/12948_2005.jpg
+images/12857_2005.jpg
+images/12050_2005.jpg
+images/12137_2005.jpg
+images/12814_2005.jpg
+images/12370_2005.jpg
+images/11316_2005.jpg
+images/13094_2005.jpg
+images/13362_2005.jpg
+images/12779_2005.jpg
+images/11420_2005.jpg
+images/10824_2005.jpg
+images/12811_2005.jpg
+images/13068_2005.jpg
+images/12729_2005.jpg
+images/11295_2005.jpg
+images/11998_2005.jpg
+images/11307_2005.jpg
+images/13283_2005.jpg
+images/11519_2005.jpg
+images/12982_2005.jpg
+images/12843_2005.jpg
+images/12291_2005.jpg
+images/12061_2005.jpg
+images/11065_2005.jpg
+images/11651_2005.jpg
+images/13247_2005.jpg
+images/11738_2005.jpg
+images/12236_2005.jpg
+images/12217_2005.jpg
+images/11203_2005.jpg
+images/11632_2005.jpg
+images/10984_2005.jpg
+images/10544_2005.jpg
+images/12813_2005.jpg
+images/13092_2005.jpg
+images/12694_2005.jpg
+images/12481_2005.jpg
+images/13214_2005.jpg
+images/10682_2005.jpg
+images/11365_2005.jpg
+images/12545_2005.jpg
+images/10551_2005.jpg
+images/12349_2005.jpg
+images/12078_2005.jpg
+images/12415_2005.jpg
+images/10536_2005.jpg
+images/12325_2005.jpg
+images/11329_2005.jpg
+images/11345_2005.jpg
+images/13021_2005.jpg
+images/13346_2005.jpg
+images/10579_2005.jpg
+images/11442_2005.jpg
+images/11978_2005.jpg
+images/10880_2005.jpg
+images/12658_2005.jpg
+images/10825_2005.jpg
+images/13076_2005.jpg
+images/11956_2005.jpg
+images/13200_2005.jpg
+images/10622_2005.jpg
+images/13398_2005.jpg
+images/11022_2005.jpg
+images/11037_2005.jpg
+images/12176_2005.jpg
+images/11514_2005.jpg
+images/12214_2005.jpg
+images/12492_2005.jpg
+images/10758_2005.jpg
+images/10540_2005.jpg
+images/12685_2005.jpg
+images/12724_2005.jpg
+images/11678_2005.jpg
+images/12028_2005.jpg
+images/11561_2005.jpg
+images/12942_2005.jpg
+images/11536_2005.jpg
+images/12081_2005.jpg
+images/13384_2005.jpg
+images/12605_2005.jpg
+images/10957_2005.jpg
+images/13045_2005.jpg
+images/11890_2005.jpg
+images/13339_2005.jpg
+images/10542_2005.jpg
+images/13347_2005.jpg
+images/10486_2005.jpg
+images/11619_2005.jpg
+images/12668_2005.jpg
+images/10858_2005.jpg
+images/11422_2005.jpg
+images/12682_2005.jpg
+images/10759_2005.jpg
+images/12018_2005.jpg
+images/10672_2005.jpg
+images/13167_2005.jpg
+images/11112_2005.jpg
+images/12632_2005.jpg
+images/11778_2005.jpg
+images/11131_2005.jpg
+images/10804_2005.jpg
+images/11750_2005.jpg
+images/12406_2005.jpg
+images/11559_2005.jpg
+images/13180_2005.jpg
+images/10512_2005.jpg
+images/13195_2005.jpg
+images/11215_2005.jpg
+images/11600_2005.jpg
+images/11960_2005.jpg
+images/11630_2005.jpg
+images/10806_2005.jpg
+images/12040_2005.jpg
+images/13084_2005.jpg
+images/11531_2005.jpg
+images/12976_2005.jpg
+images/12947_2005.jpg
+images/12032_2005.jpg
+images/11178_2005.jpg
+images/12163_2005.jpg
+images/12608_2005.jpg
+images/10938_2005.jpg
+images/12322_2005.jpg
+images/10455_2005.jpg
+images/12747_2005.jpg
+images/11573_2005.jpg
+images/11962_2005.jpg
+images/13192_2005.jpg
+images/13091_2005.jpg
+images/11146_2005.jpg
+images/11782_2005.jpg
+images/12993_2005.jpg
+images/12895_2005.jpg
+images/12439_2005.jpg
+images/11155_2005.jpg
+images/12727_2005.jpg
+images/12974_2005.jpg
+images/12095_2005.jpg
+images/12427_2005.jpg
+images/11151_2005.jpg
+images/10798_2005.jpg
+images/11736_2005.jpg
+images/12610_2005.jpg
+images/12999_2005.jpg
+images/10673_2005.jpg
+images/10992_2005.jpg
+images/12188_2005.jpg
+images/13411_2005.jpg
+images/12861_2005.jpg
+images/11797_2005.jpg
+images/13211_2005.jpg
+images/10948_2005.jpg
+images/11093_2005.jpg
+images/13235_2005.jpg
+images/10775_2005.jpg
+images/11072_2005.jpg
+images/11830_2005.jpg
+images/11067_2005.jpg
+images/11004_2005.jpg
+images/12059_2005.jpg
+images/10845_2005.jpg
+images/12935_2005.jpg
+images/12286_2005.jpg
+images/10846_2005.jpg
+images/12646_2005.jpg
+images/10941_2005.jpg
+images/11349_2005.jpg
+images/12770_2005.jpg
+images/12800_2005.jpg
+images/12086_2005.jpg
+images/11357_2005.jpg
+images/11336_2005.jpg
+images/11906_2005.jpg
+images/12346_2005.jpg
+images/12941_2005.jpg
+images/13248_2005.jpg
+images/12739_2005.jpg
+images/13373_2005.jpg
+images/11506_2005.jpg
+images/12045_2005.jpg
+images/10539_2005.jpg
+images/11698_2005.jpg
+images/10919_2005.jpg
+images/11927_2005.jpg
+images/12251_2005.jpg
+images/13034_2005.jpg
+images/10961_2005.jpg
+images/12298_2005.jpg
+images/11377_2005.jpg
+images/12562_2005.jpg
+images/11614_2005.jpg
+images/10640_2005.jpg
+images/12882_2005.jpg
+images/12364_2005.jpg
+images/11543_2005.jpg
+images/11680_2005.jpg
+images/10782_2005.jpg
+images/12633_2005.jpg
+images/11886_2005.jpg
+images/11687_2005.jpg
+images/12662_2005.jpg
+images/11397_2005.jpg
+images/12216_2005.jpg
+images/12098_2005.jpg
+images/11388_2005.jpg
+images/10854_2005.jpg
+images/10940_2005.jpg
+images/12890_2005.jpg
+images/10599_2005.jpg
+images/11218_2005.jpg
+images/12187_2005.jpg
+images/12526_2005.jpg
+images/13328_2005.jpg
+images/11184_2005.jpg
+images/11826_2005.jpg
+images/13054_2005.jpg
+images/13013_2005.jpg
+images/13049_2005.jpg
+images/10619_2005.jpg
+images/11094_2005.jpg
+images/10770_2005.jpg
+images/10865_2005.jpg
+images/12108_2005.jpg
+images/12774_2005.jpg
+images/11113_2005.jpg
+images/11342_2005.jpg
+images/10594_2005.jpg
+images/11851_2005.jpg
+images/11734_2005.jpg
+images/11930_2005.jpg
+images/10839_2005.jpg
+images/13177_2005.jpg
+images/11575_2005.jpg
+images/11877_2005.jpg
+images/11812_2005.jpg
+images/12365_2005.jpg
+images/12675_2005.jpg
+images/13370_2005.jpg
+images/12718_2005.jpg
+images/11820_2005.jpg
+images/11061_2005.jpg
+images/12304_2005.jpg
+images/10793_2005.jpg
+images/12482_2005.jpg
+images/10776_2005.jpg
+images/13217_2005.jpg
+images/13305_2005.jpg
+images/12670_2005.jpg
+images/12858_2005.jpg
+images/11410_2005.jpg
+images/12566_2005.jpg
+images/11210_2005.jpg
+images/10436_2005.jpg
+images/11947_2005.jpg
+images/13301_2005.jpg
+images/12320_2005.jpg
+images/13209_2005.jpg
+images/10741_2005.jpg
+images/12193_2005.jpg
+images/11688_2005.jpg
+images/12442_2005.jpg
+images/11788_2005.jpg
+images/11607_2005.jpg
+images/11011_2005.jpg
+images/12981_2005.jpg
+images/12145_2005.jpg
+images/10826_2005.jpg
+images/11444_2005.jpg
+images/11552_2005.jpg
+images/12111_2005.jpg
+images/12677_2005.jpg
+images/11477_2005.jpg
+images/11024_2005.jpg
+images/11941_2005.jpg
+images/12883_2005.jpg
+images/10991_2005.jpg
+images/10634_2005.jpg
+images/10860_2005.jpg
+images/11597_2005.jpg
+images/11026_2005.jpg
+images/12643_2005.jpg
+images/12704_2005.jpg
+images/11893_2005.jpg
+images/11726_2005.jpg
+images/11934_2005.jpg
+images/10710_2005.jpg
+images/11225_2005.jpg
+images/10711_2005.jpg
+images/13079_2005.jpg
+images/11832_2005.jpg
+images/10691_2005.jpg
+images/13227_2005.jpg
+images/12896_2005.jpg
+images/13374_2005.jpg
+images/10972_2005.jpg
+images/11717_2005.jpg
+images/12628_2005.jpg
+images/12574_2005.jpg
+images/12495_2005.jpg
+images/10821_2005.jpg
+images/11836_2005.jpg
+images/12232_2005.jpg
+images/12783_2005.jpg
+images/11804_2005.jpg
+images/10505_2005.jpg
+images/12537_2005.jpg
+images/10737_2005.jpg
+images/12420_2005.jpg
+images/11986_2005.jpg
+images/11152_2005.jpg
+images/11879_2005.jpg
+images/11764_2005.jpg
+images/12531_2005.jpg
+images/13109_2005.jpg
+images/12504_2005.jpg
+images/10499_2005.jpg
+images/12725_2005.jpg
+images/10521_2005.jpg
+images/13348_2005.jpg
+images/12618_2005.jpg
+images/11324_2005.jpg
+images/12514_2005.jpg
+images/11188_2005.jpg
+images/10661_2005.jpg
+images/13386_2005.jpg
+images/11950_2005.jpg
+images/11075_2005.jpg
+images/10762_2005.jpg
+images/12788_2005.jpg
+images/10587_2005.jpg
+images/12651_2005.jpg
+images/12905_2005.jpg
+images/10749_2005.jpg
+images/13042_2005.jpg
+images/13266_2005.jpg
+images/11859_2005.jpg
+images/12673_2005.jpg
+images/12546_2005.jpg
+images/10927_2005.jpg
+images/12179_2005.jpg
+images/12004_2005.jpg
+images/12638_2005.jpg
+images/11592_2005.jpg
+images/12199_2005.jpg
+images/10488_2005.jpg
+images/12644_2005.jpg
+images/11086_2005.jpg
+images/13291_2005.jpg
+images/12846_2005.jpg
+images/10606_2005.jpg
+images/11045_2005.jpg
+images/11933_2005.jpg
+images/13320_2005.jpg
+images/11452_2005.jpg
+images/12541_2005.jpg
+images/12328_2005.jpg
+images/11326_2005.jpg
+images/13044_2005.jpg
+images/13329_2005.jpg
+images/11904_2005.jpg
+images/11739_2005.jpg
+images/13065_2005.jpg
+images/10971_2005.jpg
+images/12870_2005.jpg
+images/10911_2005.jpg
+images/12391_2005.jpg
+images/13344_2005.jpg
+images/12123_2005.jpg
+images/11231_2005.jpg
+images/12404_2005.jpg
+images/11408_2005.jpg
+images/11528_2005.jpg
+images/11707_2005.jpg
+images/13372_2005.jpg
+images/12091_2005.jpg
+images/10822_2005.jpg
+images/10522_2005.jpg
+images/11141_2005.jpg
+images/12428_2005.jpg
+images/10896_2005.jpg
+images/12560_2005.jpg
+images/12241_2005.jpg
+images/13005_2005.jpg
+images/10477_2005.jpg
+images/11795_2005.jpg
+images/12209_2005.jpg
+images/13275_2005.jpg
+images/13230_2005.jpg
+images/11749_2005.jpg
+images/11809_2005.jpg
+images/10479_2005.jpg
+images/13067_2005.jpg
+images/11172_2005.jpg
+images/11314_2005.jpg
+images/13221_2005.jpg
+images/11810_2005.jpg
+images/11774_2005.jpg
+images/13412_2005.jpg
+images/11173_2005.jpg
+images/13260_2005.jpg
+images/12461_2005.jpg
+images/12765_2005.jpg
+images/10566_2005.jpg
+images/11250_2005.jpg
+images/12222_2005.jpg
+images/12336_2005.jpg
+images/10738_2005.jpg
+images/10552_2005.jpg
+images/11143_2005.jpg
+images/12037_2005.jpg
+images/12696_2005.jpg
+images/13019_2005.jpg
+images/10506_2005.jpg
+images/11176_2005.jpg
+images/11425_2005.jpg
+images/10816_2005.jpg
+images/12422_2005.jpg
+images/12719_2005.jpg
+images/10466_2005.jpg
+images/12305_2005.jpg
+images/12288_2005.jpg
+images/12173_2005.jpg
+images/11226_2005.jpg
+images/11829_2005.jpg
+images/12886_2005.jpg
+images/12097_2005.jpg
+images/11137_2005.jpg
+images/12937_2005.jpg
+images/12197_2005.jpg
+images/13059_2005.jpg
+images/11078_2005.jpg
+images/11822_2005.jpg
+images/11282_2005.jpg
+images/12402_2005.jpg
+images/11744_2005.jpg
+images/13387_2005.jpg
+images/12301_2005.jpg
+images/12666_2005.jpg
+images/11701_2005.jpg
+images/12634_2005.jpg
+images/11321_2005.jpg
+images/12458_2005.jpg
+images/12423_2005.jpg
+images/11593_2005.jpg
+images/11126_2005.jpg
+images/10670_2005.jpg
+images/12760_2005.jpg
+images/11248_2005.jpg
+images/11320_2005.jpg
+images/10671_2005.jpg
+images/10438_2005.jpg
+images/12491_2005.jpg
+images/12648_2005.jpg
+images/11050_2005.jpg
+images/10669_2005.jpg
+images/11664_2005.jpg
+images/10445_2005.jpg
+images/11880_2005.jpg
+images/11412_2005.jpg
+images/10524_2005.jpg
+images/11217_2005.jpg
+images/11926_2005.jpg
+images/10878_2005.jpg
+images/12549_2005.jpg
+images/11244_2005.jpg
+images/11551_2005.jpg
+images/12434_2005.jpg
+images/13085_2005.jpg
+images/12153_2005.jpg
+images/12855_2005.jpg
+images/12938_2005.jpg
+images/11534_2005.jpg
+images/13111_2005.jpg
+images/10965_2005.jpg
+images/10975_2005.jpg
+images/10588_2005.jpg
+images/10537_2005.jpg
+images/12649_2005.jpg
+images/11515_2005.jpg
+images/12393_2005.jpg
+images/12300_2005.jpg
+images/13141_2005.jpg
+images/10549_2005.jpg
+images/10752_2005.jpg
+images/11495_2005.jpg
+images/13271_2005.jpg
+images/12433_2005.jpg
+images/12220_2005.jpg
+images/11786_2005.jpg
+images/10829_2005.jpg
+images/10636_2005.jpg
+images/12840_2005.jpg
+images/12174_2005.jpg
+images/11761_2005.jpg
+images/11524_2005.jpg
+images/12597_2005.jpg
+images/10597_2005.jpg
+images/11169_2005.jpg
+images/13029_2005.jpg
+images/11792_2005.jpg
+images/11883_2005.jpg
+images/12827_2005.jpg
+images/13023_2005.jpg
+images/11827_2005.jpg
+images/12034_2005.jpg
+images/13118_2005.jpg
+images/11196_2005.jpg
+images/12022_2005.jpg
+images/11464_2005.jpg
+images/10746_2005.jpg
+images/12842_2005.jpg
+images/11276_2005.jpg
+images/13164_2005.jpg
+images/12564_2005.jpg
+images/12470_2005.jpg
+images/12820_2005.jpg
+images/13047_2005.jpg
+images/10976_2005.jpg
+images/11430_2005.jpg
+images/12418_2005.jpg
+images/13009_2005.jpg
+images/12893_2005.jpg
+images/11955_2005.jpg
+images/12398_2005.jpg
+images/12358_2005.jpg
+images/10478_2005.jpg
+images/10828_2005.jpg
+images/11354_2005.jpg
+images/10929_2005.jpg
+images/10494_2005.jpg
+images/12372_2005.jpg
+images/11683_2005.jpg
+images/11427_2005.jpg
+images/12854_2005.jpg
+images/12416_2005.jpg
+images/12851_2005.jpg
+images/12395_2005.jpg
+images/11907_2005.jpg
+images/11646_2005.jpg
+images/10568_2005.jpg
+images/10973_2005.jpg
+images/11239_2005.jpg
+images/10882_2005.jpg
+images/10930_2005.jpg
+images/12469_2005.jpg
+images/10700_2005.jpg
+images/12891_2005.jpg
+images/11092_2005.jpg
+images/12079_2005.jpg
+images/10615_2005.jpg
+images/12443_2005.jpg
+images/12374_2005.jpg
+images/10437_2005.jpg
+images/10805_2005.jpg
+images/10510_2005.jpg
+images/12268_2005.jpg
+images/12731_2005.jpg
+images/11008_2005.jpg
+images/13389_2005.jpg
+images/11704_2005.jpg
+images/12782_2005.jpg
+images/12287_2005.jpg
+images/11023_2005.jpg
+images/11896_2005.jpg
+images/12116_2005.jpg
+images/11961_2005.jpg
+images/11128_2005.jpg
+images/13174_2005.jpg
+images/10905_2005.jpg
+images/12339_2005.jpg
+images/11923_2005.jpg
+images/12225_2005.jpg
+images/12035_2005.jpg
+images/12274_2005.jpg
+images/11364_2005.jpg
+images/13215_2005.jpg
+images/11606_2005.jpg
+images/12581_2005.jpg
+images/12639_2005.jpg
+images/11120_2005.jpg
+images/10934_2005.jpg
+images/10430_2005.jpg
+images/11160_2005.jpg
+images/12805_2005.jpg
+images/11845_2005.jpg
+images/13363_2005.jpg
+images/12253_2005.jpg
+images/12523_2005.jpg
+images/13351_2005.jpg
+images/12915_2005.jpg
+images/12900_2005.jpg
+images/11165_2005.jpg
+images/10912_2005.jpg
+images/10446_2005.jpg
+images/11504_2005.jpg
+images/13295_2005.jpg
+images/13327_2005.jpg
+images/11713_2005.jpg
+images/12475_2005.jpg
+images/12205_2005.jpg
+images/12234_2005.jpg
+images/12520_2005.jpg
+images/13206_2005.jpg
+images/11254_2005.jpg
+images/11718_2005.jpg
+images/11776_2005.jpg
+images/12823_2005.jpg
+images/12839_2005.jpg
+images/13259_2005.jpg
+images/12500_2005.jpg
+images/12853_2005.jpg
+images/11615_2005.jpg
+images/10533_2005.jpg
+images/13186_2005.jpg
+images/10679_2005.jpg
+images/11272_2005.jpg
+images/13193_2005.jpg
+images/11333_2005.jpg
+images/11484_2005.jpg
+images/10748_2005.jpg
+images/11608_2005.jpg
+images/10958_2005.jpg
+images/11039_2005.jpg
+images/11638_2005.jpg
+images/12838_2005.jpg
+images/10439_2005.jpg
+images/12493_2005.jpg
+images/12292_2005.jpg
+images/11104_2005.jpg
+images/11867_2005.jpg
+images/12477_2005.jpg
+images/12984_2005.jpg
+images/11690_2005.jpg
+images/11332_2005.jpg
+images/12255_2005.jpg
+images/13161_2005.jpg
+images/13365_2005.jpg
+images/13278_2005.jpg
+images/13315_2005.jpg
+images/10450_2005.jpg
+images/11471_2005.jpg
+images/11025_2005.jpg
+images/11219_2005.jpg
+images/11909_2005.jpg
+images/10947_2005.jpg
+images/10652_2005.jpg
+images/12910_2005.jpg
+images/13257_2005.jpg
+images/12586_2005.jpg
+images/10492_2005.jpg
+images/12054_2005.jpg
+images/10855_2005.jpg
+images/12655_2005.jpg
+images/11578_2005.jpg
+images/11884_2005.jpg
+images/12953_2005.jpg
+images/11949_2005.jpg
+images/12166_2005.jpg
+images/10708_2005.jpg
+images/12263_2005.jpg
+images/12680_2005.jpg
+images/11965_2005.jpg
+images/11048_2005.jpg
+images/12014_2005.jpg
+images/11068_2005.jpg
+images/12441_2005.jpg
+images/10997_2005.jpg
+images/12607_2005.jpg
+images/13142_2005.jpg
+images/12629_2005.jpg
+images/12264_2005.jpg
+images/10602_2005.jpg
+images/11768_2005.jpg
+images/13299_2005.jpg
+images/11014_2005.jpg
+images/11305_2005.jpg
+images/11760_2005.jpg
+images/11610_2005.jpg
+images/11861_2005.jpg
+images/11751_2005.jpg
+images/11363_2005.jpg
+images/12096_2005.jpg
+images/12252_2005.jpg
+images/12249_2005.jpg
+images/11461_2005.jpg
+images/11558_2005.jpg
+images/10647_2005.jpg
+images/11205_2005.jpg
+images/11660_2005.jpg
+images/13053_2005.jpg
+images/11019_2005.jpg
+images/13345_2005.jpg
+images/11431_2005.jpg
+images/13041_2005.jpg
+images/12847_2005.jpg
+images/13168_2005.jpg
+images/12142_2005.jpg
+images/10659_2005.jpg
+images/11648_2005.jpg
+images/11806_2005.jpg
+images/13240_2005.jpg
+images/11842_2005.jpg
+images/10650_2005.jpg
+images/11185_2005.jpg
+images/11181_2005.jpg
+images/11230_2005.jpg
+images/12039_2005.jpg
+images/13173_2005.jpg
+images/11699_2005.jpg
+images/12506_2005.jpg
+images/10515_2005.jpg
+images/12810_2005.jpg
+images/11490_2005.jpg
+images/12758_2005.jpg
+images/10431_2005.jpg
+images/10945_2005.jpg
+images/10523_2005.jpg
+images/11583_2005.jpg
+images/12715_2005.jpg
+images/11985_2005.jpg
+images/12963_2005.jpg
+images/12602_2005.jpg
+images/13323_2005.jpg
+images/12432_2005.jpg
+images/10892_2005.jpg
+images/12120_2005.jpg
+images/12290_2005.jpg
+images/11228_2005.jpg
+images/10564_2005.jpg
+images/12421_2005.jpg
+images/13261_2005.jpg
+images/10459_2005.jpg
+images/12829_2005.jpg
+images/10890_2005.jpg
+images/12784_2005.jpg
+images/10563_2005.jpg
+images/12489_2005.jpg
+images/13182_2005.jpg
+images/11681_2005.jpg
+images/11437_2005.jpg
+images/11770_2005.jpg
+images/11469_2005.jpg
+images/12557_2005.jpg
+images/10584_2005.jpg
+images/12405_2005.jpg
+images/13022_2005.jpg
+images/11278_2005.jpg
+images/11083_2005.jpg
+images/11864_2005.jpg
+images/12917_2005.jpg
+images/10769_2005.jpg
+images/12099_2005.jpg
+images/11159_2005.jpg
+images/11743_2005.jpg
+images/13216_2005.jpg
+images/13225_2005.jpg
+images/11029_2005.jpg
+images/11259_2005.jpg
+images/13360_2005.jpg
+images/12904_2005.jpg
+images/13135_2005.jpg
+images/11132_2005.jpg
+images/11716_2005.jpg
+images/13383_2005.jpg
+images/12885_2005.jpg
+images/12622_2005.jpg
+images/12457_2005.jpg
+images/11612_2005.jpg
+images/11170_2005.jpg
+images/12006_2005.jpg
+images/13108_2005.jpg
+images/11963_2005.jpg
+images/12065_2005.jpg
+images/13276_2005.jpg
+images/13352_2005.jpg
+images/11844_2005.jpg
+images/11946_2005.jpg
+images/11772_2005.jpg
+images/12190_2005.jpg
+images/11974_2005.jpg
+images/13169_2005.jpg
+images/12691_2005.jpg
+images/13028_2005.jpg
+images/11921_2005.jpg
+images/10603_2005.jpg
+images/11107_2005.jpg
+images/11462_2005.jpg
+images/11897_2005.jpg
+images/12661_2005.jpg
+images/11895_2005.jpg
+images/11432_2005.jpg
+images/11847_2005.jpg
+images/10425_2005.jpg
+images/11052_2005.jpg
+images/12051_2005.jpg
+images/10926_2005.jpg
+images/11166_2005.jpg
+images/12177_2005.jpg
+images/11902_2005.jpg
+images/12083_2005.jpg
+images/11306_2005.jpg
+images/10596_2005.jpg
+images/12939_2005.jpg
+images/10685_2005.jpg
+images/12678_2005.jpg
+images/13046_2005.jpg
+images/10561_2005.jpg
+images/13218_2005.jpg
+images/11252_2005.jpg
+images/11177_2005.jpg
+images/11148_2005.jpg
+images/11340_2005.jpg
+images/11805_2005.jpg
+images/11040_2005.jpg
+images/13228_2005.jpg
+images/10663_2005.jpg
+images/11969_2005.jpg
+images/12841_2005.jpg
+images/12592_2005.jpg
+images/10928_2005.jpg
+images/12973_2005.jpg
+images/12191_2005.jpg
+images/12074_2005.jpg
+images/11313_2005.jpg
+images/12384_2005.jpg
+images/12467_2005.jpg
+images/12185_2005.jpg
+images/12366_2005.jpg
+images/12026_2005.jpg
+images/10733_2005.jpg
+images/12195_2005.jpg
+images/11924_2005.jpg
+images/12686_2005.jpg
+images/10674_2005.jpg
+images/12544_2005.jpg
+images/12101_2005.jpg
+images/11343_2005.jpg
+images/12407_2005.jpg
+images/11682_2005.jpg
+images/10463_2005.jpg
+images/11274_2005.jpg
+images/11964_2005.jpg
+images/10555_2005.jpg
+images/13335_2005.jpg
+images/11449_2005.jpg
+images/11352_2005.jpg
+images/11174_2005.jpg
+images/13355_2005.jpg
+images/12736_2005.jpg
+images/13030_2005.jpg
+images/11297_2005.jpg
+images/11807_2005.jpg
+images/12615_2005.jpg
+images/12836_2005.jpg
+images/11081_2005.jpg
+images/11467_2005.jpg
+images/12369_2005.jpg
+images/13249_2005.jpg
+images/11710_2005.jpg
+images/12064_2005.jpg
+images/12092_2005.jpg
+images/12726_2005.jpg
+images/10665_2005.jpg
+images/13035_2005.jpg
+images/12129_2005.jpg
+images/12630_2005.jpg
+images/11501_2005.jpg
+images/10715_2005.jpg
+images/11939_2005.jpg
+images/11525_2005.jpg
+images/10421_2005.jpg
+images/10815_2005.jpg
+images/10732_2005.jpg
+images/11405_2005.jpg
+images/10440_2005.jpg
+images/11470_2005.jpg
+images/12013_2005.jpg
+images/11064_2005.jpg
+images/12604_2005.jpg
+images/12340_2005.jpg
+images/12825_2005.jpg
+images/11850_2005.jpg
+images/12987_2005.jpg
+images/10697_2005.jpg
+images/11439_2005.jpg
+images/12334_2005.jpg
+images/13002_2005.jpg
+images/11077_2005.jpg
+images/12401_2005.jpg
+images/12474_2005.jpg
+images/11293_2005.jpg
+images/10843_2005.jpg
+images/12958_2005.jpg
+images/11142_2005.jpg
+images/10799_2005.jpg
+images/11399_2005.jpg
+images/13338_2005.jpg
+images/13176_2005.jpg
+images/13229_2005.jpg
+images/11499_2005.jpg
+images/11035_2005.jpg
+images/10921_2005.jpg
+images/12876_2005.jpg
+images/12596_2005.jpg
+images/12578_2005.jpg
+images/12017_2005.jpg
+images/10906_2005.jpg
+images/11505_2005.jpg
+images/10969_2005.jpg
+images/11967_2005.jpg
+images/10903_2005.jpg
+images/12513_2005.jpg
+images/12804_2005.jpg
+images/12720_2005.jpg
+images/11260_2005.jpg
+images/12357_2005.jpg
+images/11378_2005.jpg
+images/11865_2005.jpg
+images/11644_2005.jpg
+images/10713_2005.jpg
+images/12267_2005.jpg
+images/13056_2005.jpg
+images/11952_2005.jpg
+images/11580_2005.jpg
+images/12548_2005.jpg
+images/11007_2005.jpg
+images/11491_2005.jpg
+images/12803_2005.jpg
+images/12992_2005.jpg
+images/12210_2005.jpg
+images/12944_2005.jpg
+images/12579_2005.jpg
+images/12036_2005.jpg
+images/12699_2005.jpg
+images/11195_2005.jpg
+images/10885_2005.jpg
+images/11800_2005.jpg
+images/12326_2005.jpg
+images/11686_2005.jpg
+images/11009_2005.jpg
+images/11720_2005.jpg
+images/12647_2005.jpg
+images/11255_2005.jpg
+images/10943_2005.jpg
+images/12367_2005.jpg
+images/11626_2005.jpg
+images/12161_2005.jpg
+images/10689_2005.jpg
+images/11154_2005.jpg
+images/10581_2005.jpg
+images/13210_2005.jpg
+images/12347_2005.jpg
+images/11794_2005.jpg
+images/10529_2005.jpg
+images/12453_2005.jpg
+images/10773_2005.jpg
+images/11546_2005.jpg
+images/12980_2005.jpg
+images/12695_2005.jpg
+images/12558_2005.jpg
+images/11134_2005.jpg
+images/11335_2005.jpg
+images/12567_2005.jpg
+images/12786_2005.jpg
+images/12983_2005.jpg
+images/12151_2005.jpg
+images/13088_2005.jpg
+images/13027_2005.jpg
+images/12874_2005.jpg
+images/12985_2005.jpg
+images/10572_2005.jpg
+images/13392_2005.jpg
+images/10558_2005.jpg
+images/12754_2005.jpg
+images/12869_2005.jpg
+images/10819_2005.jpg
+images/11943_2005.jpg
+images/11918_2005.jpg
+images/12756_2005.jpg
+images/11138_2005.jpg
+images/11876_2005.jpg
+images/10993_2005.jpg
+images/13081_2005.jpg
+images/11240_2005.jpg
+images/10489_2005.jpg
+images/12155_2005.jpg
+images/10462_2005.jpg
+images/12250_2005.jpg
+images/12138_2005.jpg
+images/10444_2005.jpg
+images/12850_2005.jpg
+images/12753_2005.jpg
+images/12881_2005.jpg
+images/11752_2005.jpg
+images/12271_2005.jpg
+images/12390_2005.jpg
+images/11913_2005.jpg
+images/12435_2005.jpg
+images/13397_2005.jpg
+images/13262_2005.jpg
+images/11663_2005.jpg
+images/10432_2005.jpg
+images/11996_2005.jpg
+images/11554_2005.jpg
+images/11951_2005.jpg
+images/12606_2005.jpg
+images/10633_2005.jpg
+images/13375_2005.jpg
+images/13313_2005.jpg
+images/11206_2005.jpg
+images/13246_2005.jpg
+images/12242_2005.jpg
+images/12110_2005.jpg
+images/12626_2005.jpg
+images/12284_2005.jpg
+images/11567_2005.jpg
+images/11164_2005.jpg
+images/11759_2005.jpg
+images/13232_2005.jpg
+images/11157_2005.jpg
+images/12077_2005.jpg
+images/10573_2005.jpg
+images/11199_2005.jpg
+images/12665_2005.jpg
+images/11406_2005.jpg
+images/11881_2005.jpg
+images/11473_2005.jpg
+images/11079_2005.jpg
+images/13267_2005.jpg
+images/12454_2005.jpg
+images/10578_2005.jpg
+images/12617_2005.jpg
+images/12009_2005.jpg
+images/10730_2005.jpg
+images/12914_2005.jpg
+images/13102_2005.jpg
+images/11520_2005.jpg
+images/10750_2005.jpg
+images/10428_2005.jpg
+images/11145_2005.jpg
+images/10866_2005.jpg
+images/12940_2005.jpg
+images/11793_2005.jpg
+images/13026_2005.jpg
+images/11108_2005.jpg
+images/12117_2005.jpg
+images/11381_2005.jpg
+images/11888_2005.jpg
+images/12830_2005.jpg
+images/12134_2005.jpg
+images/11634_2005.jpg
+images/12912_2005.jpg
+images/10915_2005.jpg
+images/12057_2005.jpg
+images/13199_2005.jpg
+images/11125_2005.jpg
+images/13140_2005.jpg
+images/12518_2005.jpg
+images/11983_2005.jpg
+images/11665_2005.jpg
+images/10609_2005.jpg
+images/13196_2005.jpg
+images/10668_2005.jpg
+images/12835_2005.jpg
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ls -l
+[?2004ltotal 16300
+-rw-rw-r-- 1 leonidas leonidas     1154 Sep 17 20:01 1_title.tex
+-rw-rw-r-- 1 leonidas leonidas        0 Sep 17 19:41 2_main.tex
+-rw-rw-r-- 1 leonidas leonidas 15396757 Sep 17 19:28 [0m[01;31mfaces.tar.gz[0m
+drwxrwxr-x 2 leonidas leonidas   118784 Oct 30  2022 [01;34mimages[0m
+-rw-rw-r-- 1 leonidas leonidas      303 Sep 17 19:28 lab5.py
+-rw-rw-r-- 1 leonidas leonidas    18597 Sep 17 20:51 OS_lab5_report.tex
+-rw-rw-r-- 1 leonidas leonidas  1076119 Sep 17 19:28 OSLinuxLab5.docx
+-rw-rw-r-- 1 leonidas leonidas    65536 Oct  1 21:32 record_result_lab_5
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ lab[K[K[K[7mpython lab5.py[27mpython lab5.py
+[?2004lCommand 'python' not found, did you mean:
+  command 'python3' from deb python3
+  command 'python' from deb python-is-python3
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ python lab5.py[C3 lab5.py
+[?2004lRelax time: 10 minutes
+Repetition period: 30 seconds
+Icon name: 11896_2005.jpg
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7mtouch eyes-start.sh[27mtouch eyes-start.sh
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7mchmod +x eyes-start.sh[27mchmod +x eyes-start.sh
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ^[[200~nano eyes-start.sh
+[?2004l^[[201~[200~nano: command not found
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ 
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ~[7mnano eyes-start.sh[27m
+
+[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cnano eyes-start.sh
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+
+[?2004l[?2004h[?1049h[22;0;0t[1;15r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[13;73H(B[0;7m[ Reading... ](B[m[13;72H(B[0;7m[ Read 0 lines ](B[m[H(B[0;7m  GNU nano 7.2                                                             eyes-start.sh                                                                      [1;157H(B[m[14d(B[0;7m^G(B[m Help[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[14;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15d(B[0;7m^X(B[m Exit[15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[15;120H(B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[13d[K[1;90H(B[0;7m*[157G(B[m[2d[36m#!/bin/bash[5d[39m(B[mperiod_s[32m=(B[0;1m[31m$1[7d[39m(B[mperiod_ms[32m=$(([39m(B[mperiod_s*1000[32m))[9d[39m(B[micon[32m=[39m(B[m/absolute_/path_/to_/icon[11dnotify-send(B[0;1m[35m -i[39m(B[m (B[0;1m[31m$icon[35m -t[39m(B[m (B[0;1m[31m$period_ms[39m(B[m (B[0;1m[33m"Time to relax, senpai!"[39m(B[m (B[0;1m[33m"$period_s seconds"[39m(B[m[?12l[?25h[?25l[14;18H[22X[14;40H(B[0;7mM-D(B[m DOS Format    [14;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[15;2H(B[0;7mC(B[m Cancel[15;18H[22X[15;40H(B[0;7mM-M(B[m Mac Format      [15;69H          (B[0;7mM-P(B[m Prepend[21X[15;118H(B[0;7m^T(B[m Browse[K[13d(B[0;7mFile Name to Write: eyes-start.sh                                                                                                                             [13;34H(B[m[?12l[?25h[?25l[13;72H[1K (B[0;7m[ Writing... ](B[m[K[1;90H(B[0;7m [157G(B[m[13;71H(B[0;7m[ Wrote 10 lines ](B[m[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15;2H(B[0;7mX(B[m Exit  [15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[11;80H[?25l[13d[J[15d[?12l[?25h[15;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7m./eyes-start.sh 10[27m./eyes-start.sh 10
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ nano [7meyes-stop.sh[27meyes-stop.sh
+[?2004l[?2004h[?1049h[22;0;0t[1;15r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[13;74H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                                                             eyes-stop.sh                                                                       [1;157H(B[m[14d(B[0;7m^G(B[m Help[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[14;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15d(B[0;7m^X(B[m Exit[15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[15;120H(B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[13d[K[1;89H(B[0;7m*[157G(B[m[2d[36m#!/bin/bash[3d[39m(B[mrelax_time[32m=[39m(B[m15  [36m # замените на своё значение из варианта[4d[39m(B[micon[32m=[39m(B[m/home/[32m<[39m(B[muser[32m>[39m(B[m/Desktop/images/icon.png[5dsleep (B[0;1m[31m$relax_time[6d[39m(B[mnotify-send(B[0;1m[35m -i[39m(B[m (B[0;1m[31m$icon[35m -t[39m(B[m 5000 (B[0;1m[33m"Time to get back to work, senpai!"[39m(B[m (B[0;1m[33m"Relax finished"[7d[39m(B[m[?12l[?25h[?25l[14;18H[22X[14;40H(B[0;7mM-D(B[m DOS Format    [14;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[15;2H(B[0;7mC(B[m Cancel[15;18H[22X[15;40H(B[0;7mM-M(B[m Mac Format      [15;69H          (B[0;7mM-P(B[m Prepend[21X[15;118H(B[0;7m^T(B[m Browse[K[13d(B[0;7mFile Name to Write: eyes-stop.sh                                                                                                                              [13;33H(B[m[?12l[?25h[?25l[13;72H[1K (B[0;7m[ Writing... ](B[m[K[1;89H(B[0;7m [157G(B[m[13;71H(B[0;7m[ Wrote 5 lines ](B[m[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15;2H(B[0;7mX(B[m Exit  [15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[7d[?25l[13d[J[15d[?12l[?25h[15;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ nano eyes-stop.sh./eyes-start.sh 10
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ./eyes-start.sh 10[1P[1P[1P[1P[1P[1@s[1@r[1P[1@t[6@art.sh[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mchmod +x eyes-stop.sh[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cchmod +x eyes-stop.sh
+[A
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ nano [7meyes-relax.service[27meyes-relax.service
+[?2004l[?2004h[?1049h[22;0;0t[1;15r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[13;74H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                                                          eyes-relax.service                                                                    [1;157H(B[m[14d(B[0;7m^G(B[m Help[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[14;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15d(B[0;7m^X(B[m Exit[15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[15;120H(B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[13d[K[1;92H(B[0;7m*[157G(B[m[2dWorkingDirectory=/home/<user>/Desktop/[3dExecStart=/home/<user>/Desktop/eyes-start.sh 10[5d(B[0;1m[32m[Install][6d[39m(B[mWantedBy=graphical.target[7d[?12l[?25h[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h[A[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HGroup=<user>[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HUser=<user>[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HEnvironment="DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus"[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HEnvironment="XAUTHORITY=/home/<user>/.Xauthority"[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HEnvironment="DISPLAY=:0"[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HType=simple[?25l[?12l[?25h7[2;12r8M[1;15r[2;1H(B[0;1m[32m[Service][39m(B[m[?25l[?12l[?25h7[2;12r8M[1;15r[2;1H[?25l[?12l[?25h7[2;13r8M[1;15r[2;1HWants=eyes-stop.service[?25l[?12l[?25h7[2;12r8M[1;15r[2;1HAfter=eyes-stop.service[?25l[?12l[?25h7[2;12r8M[1;15r[2;1HDescription=eye relax daemon[?25l[?12l[?25h7[2;12r8M[1;15r[2;1H(B[0;1m[32m[Unit][39m(B[m[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[14;18H[22X[14;40H(B[0;7mM-D(B[m DOS Format    [14;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[15;2H(B[0;7mC(B[m Cancel[15;18H[22X[15;40H(B[0;7mM-M(B[m Mac Format      [15;69H          (B[0;7mM-P(B[m Prepend[21X[15;118H(B[0;7m^T(B[m Browse[K[13d(B[0;7mFile Name to Write: eyes-relax.service                                                                                                                        [13;39H(B[m[?12l[?25h[?25l[13;72H[1K (B[0;7m[ Writing... ](B[m[K[1;92H(B[0;7m [157G(B[m[13;71H(B[0;7m[ Wrote 17 lines ](B[m[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15;2H(B[0;7mX(B[m Exit  [15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[2d[?25l[13d[J[15d[?12l[?25h[15;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ nan [Ko [7meyes-relax.timer[27meyes-relax.timer
+[?2004l[?2004h[?1049h[22;0;0t[1;15r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[13;74H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                                                           eyes-relax.timer                                                                     [1;157H(B[m[14d(B[0;7m^G(B[m Help[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[14;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15d(B[0;7m^X(B[m Exit[15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[15;120H(B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[13d[K[1;91H(B[0;7m*[157G(B[m[2d(B[0;1m[32m[Unit][3d[39m(B[mDescription=scheduler for eyes service[5d(B[0;1m[32m[Timer][6d[39m(B[mOnBootSec=60s[7dOnUnitActiveSec=50s   # сюда значение repetition_period[9d(B[0;1m[32m[Install][10d[39m(B[mWantedBy=timers.target graphical.target[11d[?12l[?25h[?25l[14;18H[22X[14;40H(B[0;7mM-D(B[m DOS Format    [14;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[15;2H(B[0;7mC(B[m Cancel[15;18H[22X[15;40H(B[0;7mM-M(B[m Mac Format      [15;69H          (B[0;7mM-P(B[m Prepend[21X[15;118H(B[0;7m^T(B[m Browse[K[13d(B[0;7mFile Name to Write: eyes-relax.timer                                                                                                                          [13;37H(B[m[?12l[?25h[?25l[13;72H[1K (B[0;7m[ Writing... ](B[m[K[1;91H(B[0;7m [157G(B[m[13;71H(B[0;7m[ Wrote 9 lines ](B[m[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15;2H(B[0;7mX(B[m Exit  [15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[11d[?25l[13d[J[15d[?12l[?25h[15;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ nana[Ko [7meyes-stop.service[27meyes-stop.service
+[?2004l[?2004h[?1049h[22;0;0t[1;15r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[13;74H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                                                           eyes-stop.service                                                                    [1;157H(B[m[14d(B[0;7m^G(B[m Help[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is[52G(B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute[86G(B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[14;120H(B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15d(B[0;7m^X(B[m Exit[15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace[52G(B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify[86G(B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[15;120H(B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[2d[?12l[?25h[?25l[13d[K[1;92H(B[0;7m*[157G(B[m[2dWorkingDirectory=/home/<user>/Desktop/[3dExecStart=/home/<user>/Desktop/eyes-stop.sh[5d(B[0;1m[32m[Install][6d[39m(B[mWantedBy=graphical.target[7d[?12l[?25h[?25l[14;18H[22X[14;40H(B[0;7mM-D(B[m DOS Format    [14;69H          (B[0;7mM-A(B[m Append        [103G        [118G(B[0;7mM-B(B[m Backup File[K[15;2H(B[0;7mC(B[m Cancel[15;18H[22X[15;40H(B[0;7mM-M(B[m Mac Format      [15;69H          (B[0;7mM-P(B[m Prepend[21X[15;118H(B[0;7m^T(B[m Browse[K[13d(B[0;7mFile Name to Write: eyes-stop.service                                                                                                                         [13;38H(B[m[?12l[?25h[?25l[13;72H[1K (B[0;7m[ Writing... ](B[m[K[1;92H(B[0;7m [157G(B[m[13;71H(B[0;7m[ Wrote 16 lines ](B[m[14;18H(B[0;7m^O(B[m Write Out     (B[0;7m^W(B[m Where Is      (B[0;7m^K(B[m Cut[14;69H(B[0;7m^T(B[m Execute       (B[0;7m^C(B[m Location[103G(B[0;7mM-U(B[m Undo[118G  (B[0;7mM-A(B[m Set Mark     (B[0;7mM-](B[m To Bracket[15;2H(B[0;7mX(B[m Exit  [15;18H(B[0;7m^R(B[m Read File     (B[0;7m^\(B[m Replace       (B[0;7m^U(B[m Paste[15;69H(B[0;7m^J(B[m Justify       (B[0;7m^/(B[m Go To Line    (B[0;7mM-E(B[m Redo[118G  (B[0;7mM-6(B[m Copy[15;137H(B[0;7m^Q(B[m Where Was[?12l[?25h[7d[?25l[13d[J[15d[?12l[?25h[15;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl daemon-reload[27m
+[7msudo systemctl start eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.service[27m
+[7msudo systemctl status eyes-stop.service[27m
+[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo systemctl daemon-reload
+sudo systemctl start eyes-relax.timer
+sudo systemctl status eyes-relax.timer
+sudo systemctl status eyes-relax.service
+sudo systemctl status eyes-stop.service
+[A
+[?2004l[sudo] password for leonidas: 
+[0;1;31mFailed to start eyes-relax.timer: Unit eyes-relax.timer not found.[0m
+[?1h=[0;1;31mUnit eyes-relax.timer could not be found.[0m[m
+[K[?1l>[?1h=[0;1;31mUnit eyes-relax.service could not be found.[0m[m
+[K[?1l>[?1h=[0;1;31mUnit eyes-stop.service could not be found.[0m[m
+[K[?1l>[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-stop.servicerelax.service[2Ptimer[1Prt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Pdaemon-reload[6Pnano eyes-stop.servicesudo systemctl daemon-reload
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl daemon-reloadstatus eyes-stop.service[11Pdaemon-reload[Kcd /etc/systemd/system
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: /etc/systemd/system[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m/etc/systemd/system[00m$ cd ~[K[K[K[Kcd 
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~[00m$ cd projects/itmo/os_linux_course/Lab5
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ cd [K[Kp eyes-relax.service [7m/etc/systemd/system/[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/etc/systemd/system/
+[A
+[?2004lcp: cannot create regular file '/etc/systemd/system/eyes-relax.service': Permission denied
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ cp eyes-relax.service /etc/systemd/system/[1@s[1@u[1@d[1@o[1@ 
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo cp eyes-relax.service /etc/systemd/system/[1P /etc/systemd/system/[1P /etc/systemd/system/[1P /etc/systemd/system/[1P /etc/systemd/system/[1P /etc/systemd/system/[1P /etc/systemd/system/[1P /etc/systemd/system/t /etc/systemd/system/imer /etc/systemd/system/
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo cp eyes-relax.timer /etc/systemd/system/[2@service[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@s[1@t[1@o[3@p.s[1P[1P[C[C[2@.s
+eyes-stop.service  eyes-stop.sh       
+]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo cp eyes-stop.s.service /etc/systemd/system/[1P[1P
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo syst[27m[7me[27m[7mmctl daemon-reload [27m
+[7msudo systemctl start eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.service[27m
+[7msudo systemctl status eyes-stop.service[27m[A[A[A[A[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl daemon-reload
+sudo systemctl start eyes-relax.timer
+sudo systemctl status eyes-relax.timer
+sudo systemctl status eyes-relax.service
+sudo systemctl status eyes-stop.service
+[?2004l[?1h=[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; pres[m[7m>[27m
+     Active: [0;1;32mactive (running)[0m since Wed 2025-10-01 21:48:51 MSK; 19ms ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - [m[7m>[27m
+[7mlines 1-7/7 (END)[27m[K[K[K[7mlines 1-7/7 (END)[27m[K[K[K[7mlines 1-7/7 (END)[27m[K[K[?1l>
+[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; pr[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK[m[7m>[27m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+    Process: 210264 ExecStart=/home/<user>/Desktop/eyes-start.sh 10 [0;1;31m(code[m[7m>[27m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service:[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main pr[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed [m[7m>[27m
+[7mlines 1-13/13 (END)[27m[K[K[?1l>
+[?1h=○ eyes-stop.service - eye stop relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-stop.service/etc/systemd/system/eyes-stop.service]8;;; [0;1;38;5;185mdisabled[0m; pre[m[7m>[27m
+     Active: inactive (dead)[m
+[7mlines 1-3/3 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl daemon-reload[27m
+[7msudo systemctl start eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.service[27m
+[7msudo systemctl status eyes-stop.service[27m
+[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo systemctl daemon-reload
+sudo systemctl start eyes-relax.timer
+sudo systemctl status eyes-relax.timer
+sudo systemctl status eyes-relax.service
+sudo systemctl status eyes-stop.service
+[A
+[?2004l[?1h=[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-r[m[7m>[27m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10[m[7m>[27m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: S[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/[m[7m>[27m
+[7mlines 1-8/8 (END)[27m[K[H[2J[H[H[2J[H[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K...skipping...
+[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K...skipping...
+[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K[H[2J[H[H[2J[H[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K[H[2J[H[H[2J[H[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K[H[2J[H[H[2J[H[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K[H[2J[H[H[2J[H[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 5min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[7mlines 1-8/8 (END)[27m[K[K[?1l>
+[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabl[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 18min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to [m[7m>[27m
+[7mlines 1-10[27m[K[K[?1l>
+[?1h=○ eyes-stop.service - eye stop relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-stop.service/etc/systemd/system/eyes-stop.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menable[m[7m>[27m
+     Active: inactive (dead)[m
+[7mlines 1-3/3 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-stop.service[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo systemctl status eyes-stop.service[C[C[C[C[C[C[Crelax.service[2Ptimer[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crt [1Peyes-relax.timer[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdaemon[9P-reload[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cstatus eyes-stop.service[C[C[C[C[C[C[Crelax.service[2Ptimer[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crt [1Peyes-relax.timer[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdaemon[9P-reload[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[Ccp eyes-stop.service /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Crelax.ti[1Pmer[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cstop.ser[1@vice[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Crelax.ti[1Pmer[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo cp eyes-relax.timer /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[7msudo systemctl daemo[27m[7mn[27m[7m-reload [27m
+[7msudo systemctl start eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.service[27m
+[7msudo systemctl status eyes-stop.service[27m
+[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo systemctl daemon-reload
+sudo systemctl start eyes-relax.timer
+sudo systemctl status eyes-relax.timer
+sudo systemctl status eyes-relax.service
+sudo systemctl status eyes-stop.service
+[A
+[?2004l[?1h=[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 19min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[7mlines 1-9/9 (END)[27m[K...skipping...
+[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 19min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-9/9 (END)[27m[K...skipping...
+[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 19min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-9/9 (END)[27m[K...skipping...
+[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 19min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-9/9 (END)[27m[K[K[?1l>
+[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabl[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 20min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process exite[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with result[m[7m>[27m
+[7mlines 1-12/12 (END)[27m[K[K[?1l>
+[?1h=○ eyes-stop.service - eye stop relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-stop.service/etc/systemd/system/eyes-stop.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menable[m[7m>[27m
+     Active: inactive (dead)[m
+[7mlines 1-3/3 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-stop.service[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksudo systemctl status eyes-relax.service[2Ptimer[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crt [1Peyes-relax.timer[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cdaemon[9P-reload[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[Ccp eyes-relax.timer /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[Csystemctl status[6P eyes-stop.service[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[Ccp eyes-relax.timer /etc/systemd/system/[1P[C[1P /etc/systemd/system/[C[C[1P /etc/systemd/system/[C[1P /etc/systemd/system/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /[1Petc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /e[1Ptc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /et[1Pc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /etc[1P/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /etc/[1Psystemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /etc/s[1Pystemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C /etc/sy[1Pstemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Cs /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[Ct /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp.s /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+eyes-stop.service  eyes-stop.sh       
+]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo cp eyes-stop.s /etc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs /etc/systemd/system/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C /[1Petc/systemd/system/[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch /etc/systemd/system/
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl daemo[27m[7mn[27m[7m-reload [27m
+[7msudo systemctl start eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.timer[27m
+[7msudo systemctl status eyes-relax.service[27m
+[7msudo systemctl status eyes-stop.service[27m
+[A[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo systemctl daemon-reload
+sudo systemctl start eyes-relax.timer
+sudo systemctl status eyes-relax.timer
+sudo systemctl status eyes-relax.service
+sudo systemctl status eyes-stop.service
+[A
+[?2004l[?1h=[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 21min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:10:42 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[7mlines 1-10/10 (END)[27m[K[K[?1l>
+[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabl[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 21min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process exite[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with result[m[7m>[27m
+[7mlines 1-12/12 (END)[27m[K[K[?1l>
+[?1h=○ eyes-stop.service - eye stop relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-stop.service/etc/systemd/system/eyes-stop.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menable[m[7m>[27m
+     Active: inactive (dead)[m
+[7mlines 1-3/3 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ chmod +x eyes-stop.s [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ks
+[?2004lchmod: cannot access 'eyes-stop.s': No such file or directory
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ chmod +x eyes-stop.s h
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ chmod +x eyes-stop.sh[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cyes-stop.sh [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pyes-stop.sh
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pyes-stop.sh[1Pyes-stop.sh[1Pyes-stop.sh[1Pyes-stop.sh[1Pyes-stop.sh[1Pyes-stop.sh[1Pyes-stop.sh[1Pyes-stop.sh.yes-stop.sh/yes-stop.sheyes-stop.sh
+[?2004l./eyes-stop.sh: line 3: user: No such file or directory
+^C
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ./eyes-stop.sh
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ ./eyes-stop.sh
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl statu[27m[7ms[27m[7m eyes-relax.timer[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-relax.timer
+[?2004l[?1h=[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 26min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - scheduler f[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+Oct 01 22:10:42 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;:6[m[7m>[27m
+[7mlines 1-10/10 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl statu[27m[7ms[27m[7m eyes-relax.service[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-relax.service
+[?2004l[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabl[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 27min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process exite[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with result[m[7m>[27m
+[7mlines 1-12/12 (END)[27m[K[H[2J[H[H[2J[H[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 27min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax daemon.[m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to determine user credentia[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process exited, code=exited, status=2[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with result 'exit-code'.[0m[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-12/12 (END)[27m[K[H[2J[H[H[2J[H[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 27min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax daemon.[m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to determine user credentials: No [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process exited, code=exited, status=217/USER[0m[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with result 'exit-code'.[0m[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-12/12 (END)[27m[K[H[2J[H[H[2J[H[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 27min ago[m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye relax daemon.[m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Failed to determine user credentials: No such process[0m[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process exited, code=exited, status=217/USER[0m[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with result 'exit-code'.[0m[m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7mlines 1-12/12 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl status eyes-stop.service[27msudo systemctl status eyes-stop.service
+[?2004l[?1h=○ eyes-stop.service - eye stop relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-stop.service/etc/systemd/system/eyes-stop.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32menabled[0m)[m
+     Active: inactive (dead)[m
+[K[?1l>[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [K]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl [27m[7me[27m[7mnable eyes-relax.timer[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl enable eyes-relax.timer
+[?2004lCreated symlink /etc/systemd/system/timers.target.wants/eyes-relax.timer → /etc/systemd/system/eyes-relax.timer.
+Created symlink /etc/systemd/system/graphical.target.wants/eyes-relax.timer → /etc/systemd/system/eyes-relax.timer.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl [27m[7ms[27m[7mtatus eyes-relax.timer[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-relax.timer
+[?2004l[?1h=[0;1;32m●[0m eyes-relax.timer - scheduler for eyes service[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.timer]8;;; [0;1;32menabled[0m; preset: [0;1;32mena[m[7m>[27m
+     Active: [0;1;32mactive (elapsed)[0m since Wed 2025-10-01 21:48:51 MSK; 30min ago[m
+    Trigger: n/a[m
+   Triggers: [0;1;31m●[0m eyes-relax.service[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.timer - schedu[m[7m>[27m
+Oct 01 21:54:18 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.ti[m[7m>[27m
+Oct 01 22:07:58 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.ti[m[7m>[27m
+Oct 01 22:10:42 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.ti[m[7m>[27m
+Oct 01 22:18:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.timer/etc/systemd/system/eyes-relax.ti[m[7m>[27m
+[7mlines 1-11/11 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl [27m[7ms[27m[7mtatus eyes-relax.service[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl status eyes-relax.service
+[?2004l[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;38;5;185mdisabled[0m; preset: [0;1;32m[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 30mi[m[7m>[27m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Faile[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with r[m[7m>[27m
+[7mlines 1-12/12 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl [27m[7me[27m[7mnable eyes-relax.timer[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl enable eyes-relax.timer[K[K[K[K[Kservice 
+[?2004lCreated symlink /etc/systemd/system/graphical.target.wants/eyes-relax.service → /etc/systemd/system/eyes-relax.service.
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl enable eyes-relax.service [1Pstatus eyes-relax.service
+[?2004l[?1h=[0;1;31m×[0m eyes-relax.service - eye relax daemon[m
+     Loaded: loaded (]8;;file://leonidas-AX1540SD/etc/systemd/system/eyes-relax.service/etc/systemd/system/eyes-relax.service]8;;; [0;1;32menabled[0m; preset: [0;1;32me[m[7m>[27m
+     Active: [0;1;31mfailed[0m (Result: exit-code) since Wed 2025-10-01 21:48:51 MSK; 30mi[m[7m>[27m
+   Duration: 4ms[m
+TriggeredBy: [0;1;32m●[0m eyes-relax.timer[m
+   Main PID: 210264 (code=exited, status=217/USER)[m
+        CPU: 1ms[m
+[m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: Started eyes-relax.service - eye [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD (start.sh)[210264]: [0;1;31m[0;1;39m[0;1;31meyes-relax.service: Faile[m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;39m[0;1;31m[0;1;39meyes-relax.service: Main process [m[7m>[27m
+Oct 01 21:48:51 leonidas-AX1540SD systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185meyes-relax.service: Failed with r[m[7m>[27m
+[7mlines 1-12/12 (END)[27m[K[K[?1l>
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl [27m[7ms[27m[7mtop eyes-relax.timer[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl stop eyes-relax.timer
+[?2004l[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ [7msudo systemctl [27m[7md[27m[7misable eyes-relax.timer[27m[A]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl disable eyes-relax.timer
+[?2004lRemoved "/etc/systemd/system/timers.target.wants/eyes-relax.timer".
+Removed "/etc/systemd/system/graphical.target.wants/eyes-relax.timer".
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ sudo systemctl disable eyes-relax.timer[K[K[K[K[Kservice 
+[?2004lRemoved "/etc/systemd/system/graphical.target.wants/eyes-relax.service".
+[?2004h]0;leonidas@leonidas-AX1540SD: ~/projects/itmo/os_linux_course/Lab5[01;32mleonidas@leonidas-AX1540SD[00m:[01;34m~/projects/itmo/os_linux_course/Lab5[00m$ exit
+[?2004lexit
+
+Script done on 2025-10-01 22:21:02+03:00 [COMMAND_EXIT_CODE="0"]
