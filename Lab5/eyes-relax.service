@@ -6,12 +6,12 @@ Wants=eyes-stop.service
 [Service]
 Type=simple
 Environment="DISPLAY=:0"
-Environment="XAUTHORITY=/home/<user>/.Xauthority"
+Environment="XAUTHORITY=/home/leonidas/.Xauthority"
 Environment="DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus"
-User=<user>
-Group=<user>
-WorkingDirectory=/home/<user>/Desktop/
-ExecStart=/home/<user>/Desktop/eyes-start.sh 10
+User=leonidas
+Group=leonidas
+WorkingDirectory=/home/leonidas/projects/itmo/os_linux_course/Lab5
+ExecStart=/home/leonidas/projects/itmo/os_linux_course/Lab5/eyes-start.sh 5
 
 [Install]
 WantedBy=graphical.target
